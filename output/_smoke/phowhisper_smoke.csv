@@ -1,0 +1,2 @@
+﻿index,dataset,path,audio_duration,processing_time,rtf,ground_truth,model_id,phowhisper_transcription
+0,capleaf/viVoice,audio_502.22_504.3.wav,2.1333333333333333,4.024428743054159,1.886450973306637,Và mọi chuyện thì chưa dừng lại ở đó.,vinai/PhoWhisper-small,và mọi chuyện thì chưa dừng lại ở đó.

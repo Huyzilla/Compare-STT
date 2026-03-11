@@ -1,0 +1,2 @@
+﻿index,dataset,path,audio_duration,processing_time,rtf,ground_truth,gemini_model,gemini_transcription
+0,capleaf/viVoice,audio_502.22_504.3.wav,2.1333333333333333,3.9931495590135455,1.8717888557875995,Và mọi chuyện thì chưa dừng lại ở đó.,gemini-2.5-flash,và mọi chuyện thì chưa dừng lại ở đó

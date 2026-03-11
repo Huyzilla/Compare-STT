@@ -9,6 +9,7 @@ from tqdm import tqdm
 from dotenv import load_dotenv
 import io
 import soundfile as sf
+import re
 
 # Load environment variables
 load_dotenv()
@@ -58,7 +59,13 @@ def run_google_stt(client, project_id, location, audio_bytes):
         return transcript.strip(), proc_time
     except Exception as e:
         proc_time = time.perf_counter() - start_time
-        return f"Error: {str(e)}", proc_time
+        # Keep CSV one-line friendly (Google exceptions often include many newlines/metadata)
+        err = str(e)
+        err = err.replace("\r", " ").replace("\n", " ")
+        err = re.sub(r"\s+", " ", err).strip()
+        if len(err) > 500:
+            err = err[:500].rstrip() + "... (truncated)"
+        return f"Error: {err}", proc_time
 
 def main():
     parser = argparse.ArgumentParser(description="Benchmarking Google Cloud STT (Chirp)")
@@ -97,7 +104,7 @@ def main():
         return
 
     results = []
-    print(f"Testing {args.limit} samples with Google Chirp 3...")
+    print(f"Testing {args.limit} samples with Google Chirp 2...")
 
     for i, example in enumerate(tqdm(dataset, total=args.limit)):
         if i >= args.limit:

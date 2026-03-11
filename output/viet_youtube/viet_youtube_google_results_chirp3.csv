@@ -1,0 +1,1001 @@
+﻿index,dataset,path,audio_duration,processing_time,rtf,ground_truth,google_transcription
+0,linhtran92/viet_youtube_asr_corpus_v2,,2.581,1.7806349219754338,0.6899011708544881,vậy và cái lần gần đây nhất chính là cái,vậy và cái lần gần đây nhất chính là cái đợt
+1,linhtran92/viet_youtube_asr_corpus_v2,,2.4024375,1.7939661471173167,0.7467274995155199,dài không liên lạc với gia đình và cũng,dài không liên lạc với gia đình và cũng
+2,linhtran92/viet_youtube_asr_corpus_v2,,2.4005625,1.743900452973321,0.7264549258656341,nhiều lần phải chịu và có khi lại nghiện,nhiều lần phải chịu và có khi lại nghiện
+3,linhtran92/viet_youtube_asr_corpus_v2,,4.60075,2.03975589084439,0.44335290786162906,trên thực tế chúng không bị mất đi mà chỉ đơn giản là được phát triển theo hướng linh động hơn,"Trên thực tế, chúng không bị mất đi mà chỉ đơn giản là được phát triển theo hướng linh động hơn."
+4,linhtran92/viet_youtube_asr_corpus_v2,,2.8404375,1.7719999209512025,0.6238475308649468,này cô đắc ý quá rồi còn gì tôi bị hất,này cô đắc ý quá rồi còn gì. Tôi bị hất
+5,linhtran92/viet_youtube_asr_corpus_v2,,2.20125,1.6406260440126061,0.7453156361215701,bụng nhưng không nói được gì tưởng được,"bụng nhưng không nói được gì, tưởng được"
+6,linhtran92/viet_youtube_asr_corpus_v2,,2.26275,1.514573171036318,0.6693506445857111,chỉ là một bài học đáng quý để bạn nhận,Chỉ là một bài học đáng quý để bạn nhận
+7,linhtran92/viet_youtube_asr_corpus_v2,,2.9220625,1.63301254902035,0.5588561329609993,nên bà đành phải nhận nó cũng không dám,"Nên bà đành phải nhận nó, cũng không dám"
+8,linhtran92/viet_youtube_asr_corpus_v2,,2.901125,1.6463604168966413,0.5674903414698234,còn lại mấy phóng viên biên tập có tâm,Còn lại mấy phóng viên biên tập có tâm
+9,linhtran92/viet_youtube_asr_corpus_v2,,2.7411875,1.659616804914549,0.6054371709029568,dù sao cũng được hai người đứng đầu,Rồi sao cũng được hai người đứng đầu
+10,linhtran92/viet_youtube_asr_corpus_v2,,3.1228125,1.7462910180911422,0.5592045689874566,người chỉ huy hoặc người thống trị người,người chỉ huy hoặc người thống trị người
+11,linhtran92/viet_youtube_asr_corpus_v2,,3.2611875,1.2420237069018185,0.3808501372281779,lớn lên nhanh thôi mà à mà chỉ có báo,"lớn lên nhanh thôi mà. À, mà chỉ có báo"
+12,linhtran92/viet_youtube_asr_corpus_v2,,3.4110625,1.7299126440193504,0.5071477418016676,mong rằng giếng nước này có thể giúp đỡ,Mong rằng giếng nước này có thể giúp đỡ
+13,linhtran92/viet_youtube_asr_corpus_v2,,3.301875,1.7220302070491016,0.5215310110313387,mình đi thôi anh tiếng người con gái,Mình đi thôi anh. Tiếng người con gái
+14,linhtran92/viet_youtube_asr_corpus_v2,,3.2806875,1.1515049641020596,0.35099501677683703,kết tội anh ta thay vì vậy ông vờ như,"kết tội anh ta. Thay vì vậy, ông vờ như"
+15,linhtran92/viet_youtube_asr_corpus_v2,,1.98,1.706565400119871,0.8619017172322581,thời đại mà mỗi buổi sáng thức dậy thì,thời đại mà mỗi buổi sáng thức dậy thì
+16,linhtran92/viet_youtube_asr_corpus_v2,,2.6415625,1.497478460893035,0.566891171756502,chồng xem giống mà chẳng ai muốn làm,chồng xem giống mà chẳng ai muốn làm
+17,linhtran92/viet_youtube_asr_corpus_v2,,2.64075,1.628582103876397,0.616711958298361,linh giận luôn cô không thèm để ý tới,"Linh giận luôn, cô không thèm để ý tới"
+18,linhtran92/viet_youtube_asr_corpus_v2,,2.8015,1.5663400180637836,0.5591076273652628,dạ thôi chị em tranh thủ lúc cháu đang,"Dạ thôi chị, em tranh thủ lúc cháu đang"
+19,linhtran92/viet_youtube_asr_corpus_v2,,2.300625,1.9611473609693348,0.8524411240290507,trong những tình huống tương tự cho thấy,những tình huống tương tự cho thấy
+20,linhtran92/viet_youtube_asr_corpus_v2,,2.781375,1.1402178399730474,0.4099475403255754,thằng con ý muốn làm dịu cái ham muốn,con ý muốn làm dịu cái ham muốn
+21,linhtran92/viet_youtube_asr_corpus_v2,,2.1023125,1.5211719509679824,0.7235708064181621,mắt vào màn hình máy tính thấy trong đó,"mắt vào màn hình máy tính, thấy trong đó"
+22,linhtran92/viet_youtube_asr_corpus_v2,,2.840625,1.1254967949353158,0.39621449326655783,khi nhìn thấy tiền cùng ma túy một kẻ,"Khi nhìn thấy tiền cùng ma túy, một kẻ"
+23,linhtran92/viet_youtube_asr_corpus_v2,,1.29875,0.9125044029206038,0.7026020426722647,thì các bạn có thể đến để ăn thử nhá,Thì các bạn có thể đến để ăn thử nhé.
+24,linhtran92/viet_youtube_asr_corpus_v2,,2.440375,1.5558975068852305,0.6375649262450364,nữa chứ không phải là một lần duy nhất,nữa chứ không phải là một lần duy nhất.
+25,linhtran92/viet_youtube_asr_corpus_v2,,3.92175,1.2031278649810702,0.30678341683714416,con đừng có nói gì nữa ổn rồi có mẹ đi,"Con đừng có nói gì nữa, ổn rồi, có mẹ đây"
+26,linhtran92/viet_youtube_asr_corpus_v2,,1.961625,1.6108309980481863,0.821171731624641,hoàn toàn khác với vẻ bề ngoài lạnh lùng,hoàn toàn khác với vẻ bề ngoài lạnh lùng
+27,linhtran92/viet_youtube_asr_corpus_v2,,1.432375,1.4041750289034098,0.9803124383652395,chúng ta vẫn đã là chúng ta,Chúng ta vẫn đã là chúng ta
+28,linhtran92/viet_youtube_asr_corpus_v2,,2.381,1.619531020987779,0.6801894250263667,nhưng mà phần lớn là các bạn sẽ phải có,Nhưng mà phần lớn là các bạn sẽ phải có
+29,linhtran92/viet_youtube_asr_corpus_v2,,2.0216875,0.926871859934181,0.4584644560221008,họ chắc chắn đã lén lút hẹn hò với nhau,Họ chắc chắn đã lén lút hẹn hò với nhau.
+30,linhtran92/viet_youtube_asr_corpus_v2,,2.7415,1.6609857508447021,0.605867499852162,chỉ là hỗ trợ giảm tối thiểu tốc độ lão,Chỉ là hỗ trợ giảm tối thiểu tốc độ lão
+31,linhtran92/viet_youtube_asr_corpus_v2,,2.5399375,1.565447174012661,0.6163329507173546,nhưng nào ngờ trong chăn mới biết chăn,Nhưng nào ngờ trong chăn mới biết chăn
+32,linhtran92/viet_youtube_asr_corpus_v2,,2.6605,1.5459372620098293,0.5810701980867616,kiếm được nhiều tiền không có nghĩa là,Kiếm được nhiều tiền không có nghĩa là
+33,linhtran92/viet_youtube_asr_corpus_v2,,2.1810625,1.663681459845975,0.762784862811577,phải chịu không ít lời nhục mạ mà vẫn,phải chịu không ít lời nhục mạ mà vẫn
+34,linhtran92/viet_youtube_asr_corpus_v2,,3.281625,1.7592575619928539,0.5360934177405565,về sau có gia đình có con cái để hữu hỉ,"về sau có gia đình, có con cái để hủ hỉ"
+35,linhtran92/viet_youtube_asr_corpus_v2,,2.021125,1.1281304389704019,0.5581695535755591,nói chuyện với nhau thằng công vì không,"nói chuyện với nhau, thằng công vì không"
+36,linhtran92/viet_youtube_asr_corpus_v2,,2.78275,1.6673251441679895,0.5991645473607006,sao không phiền chút nào cả ba mẹ chồng,sao? Không phiền chút nào cả. Ba mẹ chồng
+37,linhtran92/viet_youtube_asr_corpus_v2,,2.401,1.613919073017314,0.6721862028393645,một hôm nay cũng là ngày thứ hai cô làm,"một, hôm nay cũng là ngày thứ hai cô làm"
+38,linhtran92/viet_youtube_asr_corpus_v2,,3.1015625,1.1129352690186352,0.3588305149480738,chạy xe về nhà do có hẹn bước lên nhà,"chạy xe về nhà do có hẹn, bước lên nhà"
+39,linhtran92/viet_youtube_asr_corpus_v2,,2.82,1.6154285338707268,0.572846997826499,theo đuổi vất vả như thế nào nên những,theo đuổi vất vả như thế nào nên những
+40,linhtran92/viet_youtube_asr_corpus_v2,,2.0413125,1.0385255790315568,0.5087538429473962,cho bản thân mình không chỉ là ở trong,cho bản thân mình không chỉ là ở trong
+41,linhtran92/viet_youtube_asr_corpus_v2,,2.60075,1.612019102089107,0.6198285502601584,hơn gấp bội thương vợ nên tôi không,"hơn gấp bội, thương vợ nên tôi không"
+42,linhtran92/viet_youtube_asr_corpus_v2,,2.9015,1.561037367908284,0.5380104662789192,nói rồi ái phương cũng quay người rời đi,"Nói rồi, Ái Phương cũng quay người rời đi."
+43,linhtran92/viet_youtube_asr_corpus_v2,,3.2415,1.1027778750285506,0.34020603887970097,do đó bất kỳ sự vật nào trong thực tế,Do đó bất kỳ sự vật nào trong thực tế
+44,linhtran92/viet_youtube_asr_corpus_v2,,2.20125,1.709301250986755,0.7765139129979579,tiếp sau phương lại giúp linh trả đũa,tiếp. Sau Phương lại giúp Linh trả đũa
+45,linhtran92/viet_youtube_asr_corpus_v2,,2.1096875,1.5549492537975311,0.7370519348470004,chúng tôi nghèo lúc nào cũng đeo nợ,"Chúng tôi nghèo, lúc nào cũng đeo nơ"
+46,linhtran92/viet_youtube_asr_corpus_v2,,2.86,1.5649835509248078,0.5471970457779048,và để chúc mừng cho cái sự trao giải này,Và để chúc mừng cho cái sự trao giải này
+47,linhtran92/viet_youtube_asr_corpus_v2,,1.9221875,1.517578500090167,0.7895059665564191,trên vai khó mà ta có thể nghĩ cho riêng,trên vai khó mà ta có thể nghĩ cho riêng
+48,linhtran92/viet_youtube_asr_corpus_v2,,1.440125,1.4811370759271085,1.0284781362222781,người ta không có nói được một cách hay,người ta không có nói được một cách hay
+49,linhtran92/viet_youtube_asr_corpus_v2,,1.436625,0.7793780248612165,0.5425062384834014,sau này nhất định phải cẩn thận,Sau này nhất định phải cẩn thận.
+50,linhtran92/viet_youtube_asr_corpus_v2,,2.438375,1.0101456001866609,0.4142699954628229,mà ngỡ như cách xa đến nửa vòng trái đất,mà ngỡ như cách xa đến nửa vòng trái đất.
+51,linhtran92/viet_youtube_asr_corpus_v2,,1.6624375,1.553403276950121,0.9344130392571877,người chỉ huy cũng không phải chịu cảnh,Người chỉ huy cũng không phải chịu cảnh
+52,linhtran92/viet_youtube_asr_corpus_v2,,2.4624375,1.0854230760596693,0.44079213221032787,chung với lá cách đem ăn cơm cũng ngon,chung với lá cách đem ăn cơm cũng ngon.
+53,linhtran92/viet_youtube_asr_corpus_v2,,3.6615,1.1056137920822948,0.30195651838926524,bạn có con và cho con bú thì mình sẽ hạn,bạn có con mà cho con bú thì mình sẽ hạn
+54,linhtran92/viet_youtube_asr_corpus_v2,,2.142125,1.5222333520650864,0.7106183589029988,đôi trẻ chắc là vừa mới cùng nhau đi dạo,đôi trẻ chắc là vừa mới cùng nhau đi dạo.
+55,linhtran92/viet_youtube_asr_corpus_v2,,2.44,0.9748712400905788,0.39953739347974543,miệng chúng ta chúng đứng một bên để,"miệng chúng ta, chúng đứng một bên để"
+56,linhtran92/viet_youtube_asr_corpus_v2,,2.78875,0.9537865009624511,0.3420121921873424,thì lúc đó lòng tự ái sẽ được thoát thai,Thì lúc đó lòng tự ái sẽ được thoát thai.
+57,linhtran92/viet_youtube_asr_corpus_v2,,3.0415625,1.1466590010095388,0.3769966919994374,không muốn gì cả em ngủ đi chúc em ngủ,"Không muốn gì cả, em ngủ đi, chúc em ngủ"
+58,linhtran92/viet_youtube_asr_corpus_v2,,2.501875,1.618792099878192,0.6470315662765693,để có được cuốn thơ này là ông xã em,để có được cuốn thơ này là ông xã
+59,linhtran92/viet_youtube_asr_corpus_v2,,1.9614375,1.5703134590294212,0.8005931665064124,nó có đáng với tất cả chi phí đó không,Nó có đáng với tất cả chi phí đó không?
+60,linhtran92/viet_youtube_asr_corpus_v2,,2.6089375,1.5384552360046655,0.5896865049487254,đang ngồi trên xe để về quê một mình,đang ngồi trên xe để về quê một mình
+61,linhtran92/viet_youtube_asr_corpus_v2,,2.980625,1.7295958299655467,0.5802795822908104,gái xinh đẹp nhưng có hoàn cảnh éo le cô,xinh đẹp nhưng có hoàn cảnh éo le.
+62,linhtran92/viet_youtube_asr_corpus_v2,,2.2608125,1.5785875390283763,0.6982390353151251,lại còn phải hỏi đó chính là công chúa,"lại còn phải hỏi, đó chính là công chúa"
+63,linhtran92/viet_youtube_asr_corpus_v2,,2.2621875,0.9719683269504458,0.42965860564186026,thái đến tìm mình gây sự và bị cho mấy,đến tìm mình gây sự và bị cho mấy
+64,linhtran92/viet_youtube_asr_corpus_v2,,3.0346875,1.5960611309856176,0.525939204938109,đây là cà phê kem trứng,Đây là cà phê kem trứng.
+65,linhtran92/viet_youtube_asr_corpus_v2,,2.9215,1.6526480438187718,0.5656847659828074,phận không đứa nào ngã lòng gắng lên,phận không đứa nào ngã lòng gắng lên
+66,linhtran92/viet_youtube_asr_corpus_v2,,2.838875,1.01914033992216,0.35899443967140504,thì tại thời điểm mà chị chuyển nghề thì,Thì tại thời điểm mà chị chuyển nghề thì
+67,linhtran92/viet_youtube_asr_corpus_v2,,1.66175,0.8853508629836142,0.5327822253549657,không có ai ở trong cái hoàn cảnh đấy,Không có ai ở trong cái hoàn cảnh đấy
+68,linhtran92/viet_youtube_asr_corpus_v2,,3.3605,1.5148937210906297,0.4507941440531557,nụ cười của văn ất ngoác ra tận mang tai,Nụ cười của Văn Ất ngoác ra tận mang tai.
+69,linhtran92/viet_youtube_asr_corpus_v2,,1.840625,0.981447532074526,0.5332142788859904,trận đấu quyết định cho giải vô địch,Trận đấu quyết định cho giải vô địch
+70,linhtran92/viet_youtube_asr_corpus_v2,,1.720875,0.9048981179948896,0.5258360531676558,chúng ta hiểu cái mối liên kết đó chứ,Chúng ta hiểu cái mối liên kết đó chứ
+71,linhtran92/viet_youtube_asr_corpus_v2,,2.541375,1.542777901981026,0.6070642474963459,quay gần lại cho mọi người xem chấm muối,Quay gần lại cho mọi người xem chấm muối
+72,linhtran92/viet_youtube_asr_corpus_v2,,2.9618125,1.1889561591669917,0.40142857090615686,thẳng vấn đề chính cậu huy này không,thẳng vấn đề chính. Cậu Huy này không
+73,linhtran92/viet_youtube_asr_corpus_v2,,1.7944375,0.983343442901969,0.5479953706395285,cẩm thì sẽ có hai con mực này,cầm thì sẽ có hai con mực này.
+74,linhtran92/viet_youtube_asr_corpus_v2,,2.461,1.0250677159056067,0.4165248744029284,ông ngoại con phải đóng giả vợ chồng để,ngoại con phải đóng giả vợ chồng để
+75,linhtran92/viet_youtube_asr_corpus_v2,,1.8814375,1.609641790855676,0.8555382737166001,tức là con mình nó có thể hút như thế,tức là con mình nó có thể hút như thế
+76,linhtran92/viet_youtube_asr_corpus_v2,,2.6578125,1.0538398900534958,0.39650648420590084,ai không nghe và cũng không nói với ai,ai không nghe và cũng không nói với ai.
+77,linhtran92/viet_youtube_asr_corpus_v2,,4.4206875,1.3929962699767202,0.3151085142247038,dạ con chào bác con là vân phải không dạ,"Dạ, con chào bác. Con là Vân phải không? Dạ"
+78,linhtran92/viet_youtube_asr_corpus_v2,,3.0828125,1.7247043380048126,0.5594580721353675,mặt vẫn nguyên nhưng trong đầu vẫn còn,mặt vẫn nguyên nhưng trong đầu vẫn còn
+79,linhtran92/viet_youtube_asr_corpus_v2,,2.7608125,0.9691398360300809,0.351034282853356,phải bước ra khỏi vùng an toàn để mình,phải bước ra khỏi vùng an toàn để mình
+80,linhtran92/viet_youtube_asr_corpus_v2,,3.7615625,1.1821121519897133,0.3142609359779914,anh hút một hơi thuốc sâu nữa sau đó đập,"Anh hút một hơi thuốc sâu nữa, sau đó đập"
+81,linhtran92/viet_youtube_asr_corpus_v2,,1.621,1.4624511010479182,0.9021906854089563,về những cái tiền mà cuối năm mà mình,về những cái tiền mà cuối năm mà mình
+82,linhtran92/viet_youtube_asr_corpus_v2,,2.759,1.0585484530311078,0.38367105945310176,làm chứng ai tin biết đâu có người lại,làm chứng ai tin? Biết đâu có người lại
+83,linhtran92/viet_youtube_asr_corpus_v2,,2.3531875,1.5714404750615358,0.6677922923955425,người nó tím tái mà không nói được,người nó tím tái và không nói được.
+84,linhtran92/viet_youtube_asr_corpus_v2,,2.18125,1.5743728568777442,0.7217755217777624,ở bên trong mình nó có một cái nguồn,Ở bên trong mình nó có một cái nguồn
+85,linhtran92/viet_youtube_asr_corpus_v2,,4.34175,1.1945080740842968,0.2751213391107956,mà mẹ kế yêu con của chồng vô lý ngược,Mẹ kế yêu con của chồng vô lý ngược
+86,linhtran92/viet_youtube_asr_corpus_v2,,2.4415,1.6538187919650227,0.677378165867304,từ hôm bố chồng thấy con trai mắng vợ,Từ hôm bố chồng thấy con trai mắng vợ
+87,linhtran92/viet_youtube_asr_corpus_v2,,2.6814375,0.9766376810148358,0.364221683710635,viên thường trực hội đồng bảo an với vai,viên thường trực Hội đồng Bảo an với vai
+88,linhtran92/viet_youtube_asr_corpus_v2,,3.14025,1.2034573589917272,0.3832361624048172,ngày xửa ngày xưa ở một vùng quê xa xôi,"Ngày xửa ngày xưa, ở một vùng quê xa xôi"
+89,linhtran92/viet_youtube_asr_corpus_v2,,2.6613125,1.6626178231090307,0.6247360364891499,bạn nhậu và anh em trong giới xã hội đen,bạn nhậu và anh em trong giới xã hội đen
+90,linhtran92/viet_youtube_asr_corpus_v2,,2.6613125,1.0633301259949803,0.39955102078203153,nhung bởi vì đã không có máu xảy ra một,bởi vì đã không có máu xảy ra.
+91,linhtran92/viet_youtube_asr_corpus_v2,,2.7015625,1.7181345131248236,0.6359780731057763,đủ can đảm để mà đưa ra quyết định gì,đủ can đảm để mà đưa ra quyết định gì
+92,linhtran92/viet_youtube_asr_corpus_v2,,3.4814375,1.0627407049760222,0.30525916520863067,tôi ra thăm mộ bà ngoại thắp nén hương,"Tôi ra thăm mộ bà ngoại, thắp nén hương"
+93,linhtran92/viet_youtube_asr_corpus_v2,,2.5766875,1.389212038135156,0.539146496474701,người lính đứng dậy lại gần mai xưa,"Người lính đứng dậy, lại gần Mai Sương."
+94,linhtran92/viet_youtube_asr_corpus_v2,,4.081875,1.2498425480443984,0.3061932440470123,người đàn bà to béo xấu xí vụng về mấy,người đàn bà to béo xấu xí vụng về mấy
+95,linhtran92/viet_youtube_asr_corpus_v2,,2.5825,1.0078012691810727,0.39024250500719176,mày còn chửi tao là vô học ư còn khốn,Mày còn chửi tao là vô học ư? Con khốn.
+96,linhtran92/viet_youtube_asr_corpus_v2,,2.8808125,1.6489356032107025,0.5723856041344941,cho nên là mình không có kiểu là mình,Cho nên là mình không có kiểu là mình
+97,linhtran92/viet_youtube_asr_corpus_v2,,2.2814375,1.5111162818502635,0.6623526973017071,một sảnh khách sạn hạng sang lại là quầy,một sảnh khách sạn hạng sang lại là quầy
+98,linhtran92/viet_youtube_asr_corpus_v2,,2.5996875,1.8737019798718393,0.7207412351953223,nhưng dù là loại hung hăng nào thì bản,Nhưng dù là loại hung hăng nào thì bạn
+99,linhtran92/viet_youtube_asr_corpus_v2,,1.76075,1.5454768759664148,0.8777378253394376,hài lòng rồi mà mình thấy không vấn đề,hài lòng rồi mà mình thấy không vấn đề
+100,linhtran92/viet_youtube_asr_corpus_v2,,1.902,1.0602176520042121,0.5574225299706689,cao ngang với mực nước biển thì nhiệt độ,cao ngang với mực nước biển thì nhiệt độ
+101,linhtran92/viet_youtube_asr_corpus_v2,,2.9015,1.1032450299244374,0.3802326486039764,nhưng khi đóng cửa lại thì con bé lại,Nhưng khi đóng cửa lại thì con bé lại
+102,linhtran92/viet_youtube_asr_corpus_v2,,1.8223125,1.580817896174267,0.8674790389542227,nhưng ở bản thân của em tại sao sau này,nhưng ở bản thân của em tại sao sau này
+103,linhtran92/viet_youtube_asr_corpus_v2,,3.5408125,1.17200580611825,0.3309991156318641,cảm ơn em không lâu sau cả hai sánh đôi,"Cảm ơn em. Không lâu sau, cả hai sánh đôi"
+104,linhtran92/viet_youtube_asr_corpus_v2,,3.982,1.2263810778968036,0.3079811848058271,nói gì ạ à không tôi có nói gì đâu vâng,"nói gì ạ? À không, tôi có nói gì đâu. Vâng."
+105,linhtran92/viet_youtube_asr_corpus_v2,,2.521125,1.565553782042116,0.6209742801495823,của các bác sĩ chúng tôi sẽ có thể chữa,của các bác sĩ chúng tôi sẽ có thể chữa
+106,linhtran92/viet_youtube_asr_corpus_v2,,2.9811875,1.1287065998185426,0.3786097317993392,lớn vì nó biết nhiệm vụ phải làm rất,"lớn, vậy nó biết nhiệm vụ phải làm rất"
+107,linhtran92/viet_youtube_asr_corpus_v2,,2.4,1.54742281883955,0.6447595078498125,người lao động ví dụ như bình thường,"người lao động, nếu như bình thường"
+108,linhtran92/viet_youtube_asr_corpus_v2,,2.9819375,1.6396964469458908,0.5498761952408093,nhưng chỉ nằm trong điều duy nhất đó đó,Nhưng chỉ nằm trong điều duy nhất đó.
+109,linhtran92/viet_youtube_asr_corpus_v2,,2.1200625,0.993660039966926,0.4686937483998354,thêm nhiều những chia sẻ thú vị khác của,thêm nhiều những chia sẻ thú vị khác của
+110,linhtran92/viet_youtube_asr_corpus_v2,,1.62,1.5933383870869875,0.9835422142512268,giải thích được họ đa phần sẽ cho rằng,"giải thích được, họ đa phần sẽ cho rằng"
+111,linhtran92/viet_youtube_asr_corpus_v2,,2.09975,1.5813554578926414,0.7531160651947335,huy là phải chăm sóc bản thân cẩn thận,là phải chăm sóc bản thân cẩn thận.
+112,linhtran92/viet_youtube_asr_corpus_v2,,2.922625,0.8966442090459168,0.30679413508264547,cô mà không nghe lời tôi tôi cho người,"Cô mà không nghe lời tôi, tôi cho người"
+113,linhtran92/viet_youtube_asr_corpus_v2,,2.5023125,0.9559832529630512,0.3820399142645258,chuộng hay lời có cánh được dành cho,chuộng hay lời có cánh được dành cho
+114,linhtran92/viet_youtube_asr_corpus_v2,,2.521125,0.9859044901095331,0.39105736134048613,nhưng chẳng chấp nhận nổi việc anh ấy,Nhưng chẳng chấp nhận nổi việc anh ấy
+115,linhtran92/viet_youtube_asr_corpus_v2,,2.6416875,1.0698344269767404,0.40498144726684754,nhìn hồng như vậy chắc là cô ấy không,"Nhìn hồng như vậy, chắc là cô ấy không"
+116,linhtran92/viet_youtube_asr_corpus_v2,,2.0908125,1.0285575778689235,0.4919415671510111,các cơ quan chức năng mang trát hầu tòa,Các cơ quan chức năng mang trát hầu tòa
+117,linhtran92/viet_youtube_asr_corpus_v2,,1.940875,1.5681779319420457,0.8079747185893197,thị hà nội thành phố hồ chí minh xây,"Hà Nội, thành phố Hồ Chí Minh"
+118,linhtran92/viet_youtube_asr_corpus_v2,,3.121375,1.6835565108340234,0.5393637454115648,cho bạn gái nào đó thì sao anh chưa có,cho bạn gái nào đó thì sao? Anh chưa có
+119,linhtran92/viet_youtube_asr_corpus_v2,,1.7996875,1.0595575789920986,0.5887453121678616,dạng nhịp điệu mà khi mà chúng ta tái,dạng nhịp điệu mà khi mà chúng ta
+120,linhtran92/viet_youtube_asr_corpus_v2,,2.35875,1.1058648189064115,0.4688351113540695,kể cả thiên hoàng đã gây tội ác chiến tranh,kể cả Thiên Hoàng đã gây tội ác chiến tranh.
+121,linhtran92/viet_youtube_asr_corpus_v2,,3.10125,1.6871258851606399,0.544014795698715,cùng to lớn đánh bại học thuyết việt nam,cùng to lớn đánh bại học thuyết Việt Nam
+122,linhtran92/viet_youtube_asr_corpus_v2,,3.0613125,1.156749767018482,0.37786072706346774,tạm dịch là chủ nghĩa cá nhân mãnh liệt,tạm dịch là chủ nghĩa cá nhân mãnh liệt.
+123,linhtran92/viet_youtube_asr_corpus_v2,,3.1216875,1.16418844810687,0.37293561514625345,về sự kỳ diệu của tâm trí trực giác hay,"về sự kỳ diệu của tâm trí, trực giác hay"
+124,linhtran92/viet_youtube_asr_corpus_v2,,2.501375,1.5961971338838339,0.6381278832177638,tôi chẳng muốn nhìn xem cảm xúc của chị,Tôi chẳng muốn nhìn xem cảm xúc của chị.
+125,linhtran92/viet_youtube_asr_corpus_v2,,3.221625,1.7208602130413055,0.5341590697369513,mấy thứ này mà cũng tin ngày xưa vì xem,Mấy thứ này mà cũng tin. Ngày xưa vì xem
+126,linhtran92/viet_youtube_asr_corpus_v2,,2.4615,1.662651687161997,0.6754628020158427,đều đáng chết chết là hết không còn đau,"đều đáng chết, chết là hết, không còn đau"
+127,linhtran92/viet_youtube_asr_corpus_v2,,2.1810625,1.580909192096442,0.7248344291355439,các mỏ vàng thật may chúng ta có một cái,"các mỏ vàng, thật may chúng ta có một cái"
+128,linhtran92/viet_youtube_asr_corpus_v2,,1.8190625,0.9902219569776207,0.5443584027363659,mọi người phải tập trung theo dõi bởi,Mọi người phải tập trung theo dõi bởi
+129,linhtran92/viet_youtube_asr_corpus_v2,,2.9220625,1.6549543258734047,0.5663651362260064,điều gì về con dâu có lúc vợ chồng cãi,"điều gì về con dâu, có lúc vợ chồng cãi"
+130,linhtran92/viet_youtube_asr_corpus_v2,,2.5418125,1.0632220739498734,0.41829288114283547,đi kèm tình yêu thì nó là rất nhiều,đi kèm tình yêu thì nó là rất nhiều
+131,linhtran92/viet_youtube_asr_corpus_v2,,2.4808125,1.0909900041297078,0.43977124596466194,một việc bé nhỏ như vậy chị cũng cậy nhờ,một việc bé nhỏ như vậy chị cũng cậy nhờ
+132,linhtran92/viet_youtube_asr_corpus_v2,,1.741,1.0132477858569473,0.5819918356444269,tăng trưởng cao so với các quốc gia khác,tăng trưởng cao so với các quốc gia khác
+133,linhtran92/viet_youtube_asr_corpus_v2,,2.7761875,1.0140932251233608,0.365282685381791,cô lo cả hai cháu có nghĩ đi đâu vậy,"Cô lo cả hai, cháu có nghĩ đi đâu vậy?"
+134,linhtran92/viet_youtube_asr_corpus_v2,,1.821375,0.9213398708961904,0.5058485325076881,giờ cô không cần phải hiểu hay giải,giờ cô không cần phải hiểu hay giải
+135,linhtran92/viet_youtube_asr_corpus_v2,,1.701,1.0016197150107473,0.5888416901885639,vào thang máy để lên phòng riêng của anh,vào thang máy để lên phòng riêng của anh.
+136,linhtran92/viet_youtube_asr_corpus_v2,,4.08075,1.167625844012946,0.28613020744053075,mãn tính là gì ạ hạt chẳng hiểu nên hỏi,Mãn tính là gì ạ? Hạt chẳng hiểu nên hỏi
+137,linhtran92/viet_youtube_asr_corpus_v2,,2.4615,1.5859793999698013,0.6443141986470856,độc lập tài chính và giàu có những tham,độc lập tài chính và giàu có những
+138,linhtran92/viet_youtube_asr_corpus_v2,,2.3813125,1.006457970943302,0.4226484222223257,cả buổi chiều thúy mang mới báo cáo cho,Tại buổi chiều Thúy mang mấy báo cáo cho
+139,linhtran92/viet_youtube_asr_corpus_v2,,1.72,1.6645449970383197,0.9677587192083255,sao không nói với ba mẹ có khó khăn gì,Sao không nói với ba mẹ có khó khăn gì?
+140,linhtran92/viet_youtube_asr_corpus_v2,,3.441375,1.1777380618732423,0.3422289235765478,vậy sao ba mẹ em tính thế thì thật tốt,Vậy sao? Ba mẹ em tính thế thì thật tốt.
+141,linhtran92/viet_youtube_asr_corpus_v2,,2.94,1.694314013933763,0.5762972836509398,quyết bỏ phải không hơi thở nam tính của,quết bỏ phải không? Hơi thở nam tính của
+142,linhtran92/viet_youtube_asr_corpus_v2,,3.70175,1.139603290008381,0.3078552819634986,thế sao là em vì đại cục chung thôi sao,thế sao? Là em vì đại cục chung thôi.
+143,linhtran92/viet_youtube_asr_corpus_v2,,2.281625,1.6428471500985324,0.7200338136628641,thời gian đó bọn em nhắn tin với nhau,Thời gian đó bọn em nhắn tin với nhau
+144,linhtran92/viet_youtube_asr_corpus_v2,,2.881375,1.009783476125449,0.35045194607624797,điều đáng ngợi khen ở đây là em đã coi,Điều đáng ngợi khen ở đây là em đã coi
+145,linhtran92/viet_youtube_asr_corpus_v2,,1.521375,1.009383161086589,0.6634676927690998,thúc đẩy cái việc tiết ra chất kích,thúc đẩy cái việc tiết ra chất kích
+146,linhtran92/viet_youtube_asr_corpus_v2,,3.622,1.1187241091392934,0.3088691632079772,về nhà tôi lại phụ vợ dọn dẹp nhà cửa,Về nhà tôi lại phụ vợ dọn dẹp nhà cửa.
+147,linhtran92/viet_youtube_asr_corpus_v2,,2.3213125,1.6463535230141133,0.7092339023781216,nước mắt cô đã gieo mầm sống trong con,"nước mắt, cô đã gieo mầm sống trong con"
+148,linhtran92/viet_youtube_asr_corpus_v2,,3.1823125,1.9466999780852348,0.6117249572709264,bằng lòng bác lo lắm chứ bác có lần phê,"bằng lòng, bác lo lắm chứ, bác có lần"
+149,linhtran92/viet_youtube_asr_corpus_v2,,3.0616875,1.7230795440264046,0.5627875294347985,về gấp hai anh em chia nhau ra một người,về gáp hai anh em chia nhau ra một người
+150,linhtran92/viet_youtube_asr_corpus_v2,,2.0004375,1.575726174050942,0.7876907796674188,hai mẹ con chị lên sài gòn đổi xe cho,nói hai mẹ con chị lên Sài Gòn đổi xe cho
+151,linhtran92/viet_youtube_asr_corpus_v2,,2.622375,1.5650066658854485,0.5967898053807897,quang thiện ý thức khá sớm vấn đề này,Quang Thiện ý thức khá sớm vấn đề này.
+152,linhtran92/viet_youtube_asr_corpus_v2,,2.28,1.4669694278854877,0.6434076438094245,dữ liệu này trong cái bảng giá trị này,dữ liệu này trong cái bảng giá trị này
+153,linhtran92/viet_youtube_asr_corpus_v2,,2.07975,1.59800666407682,0.7683647861891189,của tập đoàn mai linh đã gửi văn bản lên,của tập đoàn Mai Linh đã gửi văn bản lên
+154,linhtran92/viet_youtube_asr_corpus_v2,,1.679,1.6047715009190142,0.9557900541506934,khi cài đặt người cài đặt ứng dụng,"Khi cài đặt, người cài đặt ứng dụng"
+155,linhtran92/viet_youtube_asr_corpus_v2,,2.20075,1.156612052815035,0.525553585284578,các bạn trả lại tiền cho họ thì chúng ta,Các bạn trả lại tiền cho họ thì chúng ta
+156,linhtran92/viet_youtube_asr_corpus_v2,,2.3535625,1.551027214154601,0.6590125455154053,trở nên khoái chí đã đời rồi đó,"trở nên khoái chí, đã đời rồi đó"
+157,linhtran92/viet_youtube_asr_corpus_v2,,1.853375,0.9393889990169555,0.5068531727345817,cậu cười kiểu đó là ý gì,Cậu cười kiểu đó là ý gì?
+158,linhtran92/viet_youtube_asr_corpus_v2,,2.380875,1.661109338980168,0.6976885972510812,này đàn bà chỉ nông nổi như cơi đựng,"này, đàn bà chỉ nông nổi như cơi đựng"
+159,linhtran92/viet_youtube_asr_corpus_v2,,2.1815625,1.5714186700060964,0.7203179693481605,làm vợ làm chồng nếu bị rơi xuống đất,làm vợ làm chồng nếu bị rơi xuống đất
+160,linhtran92/viet_youtube_asr_corpus_v2,,2.4005625,1.0842039990238845,0.45164581177281765,để thế này hơi cao anh ạ theo em biết,Để thế này hơi cao anh ạ. Theo em biết
+161,linhtran92/viet_youtube_asr_corpus_v2,,2.1810625,1.0624426619615406,0.4871216033293593,biển cả có hình dáng giống như cá voi cả,biển cả có hình dáng giống như cá voi cá
+162,linhtran92/viet_youtube_asr_corpus_v2,,1.840625,1.09391339099966,0.5943162735482024,của người việt nam chùa là một hình ảnh,"của người Việt Nam, chùa là một hình ảnh"
+163,linhtran92/viet_youtube_asr_corpus_v2,,2.7343125,0.9788240359630436,0.3579781155091247,mệnh của họ quả là không sai chút nào,mệnh của họ quả là không sai chút nào.
+164,linhtran92/viet_youtube_asr_corpus_v2,,3.54,1.7769312411546707,0.5019579777273081,họ sẽ mất luôn công việc đi chăn dê và,Họ sẽ mất luôn công việc đi chăn dê và
+165,linhtran92/viet_youtube_asr_corpus_v2,,2.3213125,0.9605078191962093,0.4137779033181484,bọn trẻ trong vùng lại suốt ngày trêu,bọn trẻ trong vùng lại suốt ngày chơi
+166,linhtran92/viet_youtube_asr_corpus_v2,,3.0411875,1.0753867430612445,0.3536075112308085,treo trên giữa vách sau lưng lão đối,treo trên giữa vách sau lưng lão đối
+167,linhtran92/viet_youtube_asr_corpus_v2,,1.455625,0.9927455049473792,0.6820063580574525,tôi sau này vào đại học,tôi dòng này vào đại học
+168,linhtran92/viet_youtube_asr_corpus_v2,,3.1618125,1.2192598388064653,0.38562053847483535,hai mân thêm nghi ngờ đau khổ anh ôm,Hạnh phúc thêm nghi ngờ đau khổ.
+169,linhtran92/viet_youtube_asr_corpus_v2,,2.5408125,0.9326247980352491,0.36705770222527206,còn may mắn bởi khách hàng chơi trong sự,còn may mắn bởi khách hàng chơi trong sự
+170,linhtran92/viet_youtube_asr_corpus_v2,,2.751125,1.4130237989593297,0.5136167200542795,thật là hạnh phúc thật là giàu giá trị,"Thật là hạnh phúc, thật là giàu giá trị."
+171,linhtran92/viet_youtube_asr_corpus_v2,,2.2800625,1.05834717489779,0.464174633325968,cùng cô về việc đền bù giải phóng mặt,cùng cô về việc đền bù giải phóng mặt
+172,linhtran92/viet_youtube_asr_corpus_v2,,1.7955,1.4179856930859387,0.7897441899671059,em vừa nói có giá vài trăm triệu thôi,Em vừa nói có giá vài trăm triệu thôi.
+173,linhtran92/viet_youtube_asr_corpus_v2,,2.6415625,1.072092595975846,0.4058554722728862,bạn rất nhiều ví dụ để bạn có thể tạo ra,rất nhiều ví dụ để bạn có thể tạo ra
+174,linhtran92/viet_youtube_asr_corpus_v2,,3.0616875,1.6418019980192184,0.5362408795865738,người xa lạ nếu bạn hỏi tìm đường ở một,người xa lạ. Nếu bạn hỏi tìm đường ở một
+175,linhtran92/viet_youtube_asr_corpus_v2,,2.219,1.5739338740240782,0.7092987264642083,nhất định cô sẽ cố gắng hết khả năng của,Nhất định cô sẽ cố gắng hết khả năng của
+176,linhtran92/viet_youtube_asr_corpus_v2,,2.48125,0.9871975949499756,0.3978630105591841,cái đối tác về tư vấn triển khai lộ,đối tác về tư vấn triển khai
+177,linhtran92/viet_youtube_asr_corpus_v2,,3.500625,1.6350694270804524,0.46707928643612284,đầu vâng con biết rồi con cũng nói rõ,"Vâng, con biết rồi, con cũng nói rõ"
+178,linhtran92/viet_youtube_asr_corpus_v2,,3.5215,1.7799712200649083,0.505458247924154,lại gọi điện cho thằng con nó nói hay,"Lại gọi điện cho thằng con, nó nói hay"
+179,linhtran92/viet_youtube_asr_corpus_v2,,2.7213125,1.6993818150367588,0.6244713957095185,chặt chẽ về tỷ lệ nội địa hóa nước này,chặt chẽ về tỷ lệ nội địa hóa. Nước này
+180,linhtran92/viet_youtube_asr_corpus_v2,,2.3611875,1.0249266179744154,0.43407252408985536,thích là yêu thích kể cả khi người kia,thích là yêu thích kể cả khi người kia
+181,linhtran92/viet_youtube_asr_corpus_v2,,2.1225,0.9645472560077906,0.4544392254453666,nam thâm quyến là một cái tên rất gần,Thâm Quyến là một cái tên rất gần
+182,linhtran92/viet_youtube_asr_corpus_v2,,2.2214375,1.5884443379472941,0.7150524549744453,lập hết hoàn toàn việc lập cho đến khi,lập hết hoàn toàn biệt lập cho đến khi
+183,linhtran92/viet_youtube_asr_corpus_v2,,1.5814375,0.9313059709966183,0.5888983731551947,qua được những cái bế tắc đấy chứ không,qua được những cái bế tắc đấy chứ không
+184,linhtran92/viet_youtube_asr_corpus_v2,,2.44,1.652158932061866,0.6771143164187975,anh mới mang tay lên ôm vai cô giữ cho,Anh mới mang tay lên ôm vai cô giữ chặt
+185,linhtran92/viet_youtube_asr_corpus_v2,,2.1618125,0.9839687871281058,0.45515917181906657,sống bình thường với thành công thất bại,"sống bình thường với thành công, thất bại"
+186,linhtran92/viet_youtube_asr_corpus_v2,,3.140875,1.084276626817882,0.34521482924913666,giao cái cái tư tưởng và cái vai trò đó,giao cái cái tư tưởng và cái vai trò đó
+187,linhtran92/viet_youtube_asr_corpus_v2,,2.5815625,1.5848456399980932,0.6139094598709476,ngay sau đấy một thời gian ngắn thôi,Ngay sau đấy một thời gian ngắn thôi.
+188,linhtran92/viet_youtube_asr_corpus_v2,,1.861,1.0564971489366144,0.5677040026526676,dùng để tiến vua được bán với giá cao,dùng để tiến vua được bán với giá cao
+189,linhtran92/viet_youtube_asr_corpus_v2,,2.26275,1.0020947731100023,0.44286588138769295,yêu thích thứ hai là mình dành thời gian,thức. Thứ hai là mình dành thời gian
+190,linhtran92/viet_youtube_asr_corpus_v2,,2.6613125,1.6758720881771296,0.6297163854966786,rất nhỏ em vẫn chưa chấp nhận được sự ra,"rất nhỏ, em vẫn chưa chấp nhận được sự ra"
+191,linhtran92/viet_youtube_asr_corpus_v2,,1.720875,1.004266558913514,0.5835790274793428,thì cậu về thưa chuyện với ông bà huyện,thì cậu về thưa chuyện với ông bà huyện
+192,linhtran92/viet_youtube_asr_corpus_v2,,2.3471875,1.767346726031974,0.7529635898418742,màu son chị thích nhất là màu đỏ đất,Màu son chị thích nhất là màu đỏ đất.
+193,linhtran92/viet_youtube_asr_corpus_v2,,3.8761875,1.1225094848778099,0.2895911213990061,phải tôi vẻ vang vì anh quá rồi đấy,"Vãi, tôi vẻ vang vì anh quá rồi đấy."
+194,linhtran92/viet_youtube_asr_corpus_v2,,2.32175,1.6171282059513032,0.6965126331221291,lột tả hết được đầy đủ cái đẹp của người,lột tả hết được đầy đủ cái đẹp của người
+195,linhtran92/viet_youtube_asr_corpus_v2,,3.0214375,1.7022546941880137,0.5633923237492132,ham muốn khi nhìn hiên nhưng ánh mắt,ham muốn khi nhìn Hiên nhưng ánh mắt
+196,linhtran92/viet_youtube_asr_corpus_v2,,2.882625,0.9833690321538597,0.34113664876765437,trấn ngang cẳng tay trái muốn lìa máu,"chấn ngang, cẳng tay trái muốn lìa, máu"
+197,linhtran92/viet_youtube_asr_corpus_v2,,2.2410625,1.5337284470442683,0.6843755794603088,nhưng không thể khuấy động nước trong,Nhưng không thể khuấy động nước trong
+198,linhtran92/viet_youtube_asr_corpus_v2,,2.5215625,1.0153673458844423,0.40267387617179523,không và anh ta có thể là bất cứ một cái,không và anh ta có thể là bất cứ một cái
+199,linhtran92/viet_youtube_asr_corpus_v2,,2.9409375,1.1049597731325775,0.3757168498591274,trọng nhất đối với anh thế nên ngay cả,"trọng nhất đối với anh, thế nên ngay cả"
+200,linhtran92/viet_youtube_asr_corpus_v2,,2.1810625,1.57545155310072,0.7223321445858246,anh em mất bao nhiêu công sức lo cho anh,"Anh, em mất bao nhiêu công sức lo cho anh"
+201,linhtran92/viet_youtube_asr_corpus_v2,,2.359625,1.1230813001748174,0.4759575356994512,không sao con cũng không thiết sống nữa,"Không sao, con cũng không thiết sống nữa."
+202,linhtran92/viet_youtube_asr_corpus_v2,,1.98125,1.5989962050225586,0.8070643306107551,gì đâu phải buồn còn đối với những cái,"gì đâu phải buồn, còn đối với những cái"
+203,linhtran92/viet_youtube_asr_corpus_v2,,2.080625,0.991409954149276,0.4764962230816587,trên tỉnh ngày cậu thường xuyên lui tới,"trên tỉnh, ngày cậu thường xuyên lui tới"
+204,linhtran92/viet_youtube_asr_corpus_v2,,1.981625,1.291562186088413,0.6517692227784838,chị những chuyện này em phải tuyệt đối,"chị, những chuyện này em phải tuyệt đối"
+205,linhtran92/viet_youtube_asr_corpus_v2,,2.9416875,1.1921084949281067,0.4052464767002296,cũng do chính anh sửa anh sửa giỏi lắm,"Cũng do chính anh sửa, anh sửa giỏi lắm."
+206,linhtran92/viet_youtube_asr_corpus_v2,,2.6614375,1.012826784979552,0.38055629147013675,lúc đầu tôi không biết gì về các kỹ năng,Lúc đầu tôi không biết gì về các kỹ năng
+207,linhtran92/viet_youtube_asr_corpus_v2,,2.4206875,1.642147133126855,0.6783804737814587,thay chị tốt nhất là chị tự chưa chuyển,"thay chị, tốt nhất là chị tự chữa trị."
+208,linhtran92/viet_youtube_asr_corpus_v2,,2.3208125,0.9974913180340081,0.42980263077435515,bắt đầu sau này suy nghĩ đó của tôi từ,"đầu, sau này suy nghĩ đó của tôi từ"
+209,linhtran92/viet_youtube_asr_corpus_v2,,2.056625,1.549815159989521,0.7535720707418809,quên cô đã có lỗi với gia đình,Quên cô đã có lỗi với gia đình.
+210,linhtran92/viet_youtube_asr_corpus_v2,,2.54125,1.1276527380105108,0.4437393951836737,cháu đi làm suốt ở nhà thường chỉ có hai,"cháu đi làm suốt, ở nhà thường chỉ có hai"
+211,linhtran92/viet_youtube_asr_corpus_v2,,2.98,1.0120398721192032,0.3396106953420145,con đã vô tâm phạm cái lỗi gì đó với mẹ,Con đã vô tâm phạm cái lỗi gì đó với mẹ
+212,linhtran92/viet_youtube_asr_corpus_v2,,1.739625,1.0120705291628838,0.5817751119711914,một tiếp viên hàng không của một hãng,một tiếp viên hàng không của một hãng
+213,linhtran92/viet_youtube_asr_corpus_v2,,2.3208125,1.2621529889293015,0.5438409991885607,vỏ xe được sơn phủ bằng một lớp sơn đặc,xe được sơn phủ bằng một lớp sơn đặc
+214,linhtran92/viet_youtube_asr_corpus_v2,,1.8814375,1.1209120869170874,0.5957742879670929,thiết yếu đối với các ngành kỹ thuật của,thiết yếu đối với các ngành kỹ thuật của
+215,linhtran92/viet_youtube_asr_corpus_v2,,2.4015,0.9941349090076983,0.4139641511587334,tôi sẽ khiến tôi sống trở lại và giàu có,Tôi sẽ khiến tôi sống trở lại và giàu có
+216,linhtran92/viet_youtube_asr_corpus_v2,,2.4616875,0.9144396460615098,0.37146861494869265,tôi không mong con phải thật thành đạt,Tôi không mong con phải thật thành đạt.
+217,linhtran92/viet_youtube_asr_corpus_v2,,1.9759375,0.9985263377893716,0.5053430777994606,đây luôn hả má không về bình đại nữa hả,luôn hả má? Không về mình đại nữa hả?
+218,linhtran92/viet_youtube_asr_corpus_v2,,2.5820625,1.562166543211788,0.6050072541666934,nữa khiến cô chán ghét mình hơn nên tuấn,nữa khiến cô chán ghét mình hơn nên Tuấn
+219,linhtran92/viet_youtube_asr_corpus_v2,,2.5421875,1.6490995690692216,0.6486931310413656,hơn bên kia nhưng cũng không vì vậy mà,hơn bên kia nhưng cũng không vì vậy mà
+220,linhtran92/viet_youtube_asr_corpus_v2,,2.1411875,0.9759899999480695,0.45581715751099305,được thông qua mà thật tình là do nhân,"được thông qua mà, thật tình là do nhân"
+221,linhtran92/viet_youtube_asr_corpus_v2,,2.8615,1.0433337308932096,0.36461077438169126,đến tận bây giờ nó vẫn chưa tỉnh lại cô,Đến tận bây giờ nó vẫn chưa tỉnh lại.
+222,linhtran92/viet_youtube_asr_corpus_v2,,3.440375,1.1474266601726413,0.3335179043484043,không chỉ vì thực tế là sự áp bức luôn,Không chỉ vì thực tế là sự áp bức luôn
+223,linhtran92/viet_youtube_asr_corpus_v2,,2.6613125,1.6023293731268495,0.6020823834581055,tốt vì tôi có thể nhìn mặt hạnh một cách,tốt vì tôi có thể nhìn mặt hạnh một cách
+224,linhtran92/viet_youtube_asr_corpus_v2,,2.6426875,1.021749559091404,0.3866327589211377,ông trưởng giả nghe chàng phân trần cũng,Ông trưởng giả nghe chàng phân trần cũng
+225,linhtran92/viet_youtube_asr_corpus_v2,,2.962375,1.7578637839760631,0.5933967792653068,giọt nước mắt những đau đớn hãy học cách,"giọt nước mắt, những đau đớn, hãy học cách"
+226,linhtran92/viet_youtube_asr_corpus_v2,,2.2021875,0.9883240479975939,0.4487919616279694,có lẽ mẹ là người đi trước có kinh,Có lẽ mẹ là người đi trước có kinh
+227,linhtran92/viet_youtube_asr_corpus_v2,,1.98225,1.048402313143015,0.5288951005892369,trong kịch bản đoàn phim hải cảng chúng,"trong kịch bản, đoạn phim hài cản chúng"
+228,linhtran92/viet_youtube_asr_corpus_v2,,2.901375,1.0124611421488225,0.3489590770406523,hỏi vợ ngốc có phải em đang ghen rồi,"hỏi vợ ngốc, có phải em đang ghen rồi"
+229,linhtran92/viet_youtube_asr_corpus_v2,,3.0415625,1.1776007730513811,0.38716967777298056,bất cẩn của cô người đàn ông mở cửa xe,bất cẩn của cô. Người đàn ông mở cửa xe
+230,linhtran92/viet_youtube_asr_corpus_v2,,2.9808125,1.0670909450855106,0.35798660435217267,rồi đã từng đi lộn vào tới nam và ngồi,Rồi đã từng đi lộn vào tối nam và
+231,linhtran92/viet_youtube_asr_corpus_v2,,2.9825,1.7071893790271133,0.5724021388188142,còn ý nghĩa gì nữa thủy dung dạy bọn trẻ,còn ý nghĩa gì nữa? Thủy Dung dạy bọn trẻ
+232,linhtran92/viet_youtube_asr_corpus_v2,,2.2800625,1.653681413969025,0.7252789842247854,thì tôi cũng không thể giúp được điều gì,thì tôi cũng không thể giúp được điều gì.
+233,linhtran92/viet_youtube_asr_corpus_v2,,3.3401875,1.6882234478835016,0.5054277485570801,cũng như ai đến với cô kiều cũng nghe cô,Cũng như ai đến với cô Kiều cũng nghe cô
+234,linhtran92/viet_youtube_asr_corpus_v2,,2.5814375,1.6944848608691245,0.6564113447910804,mình hiểu rằng cách này phần lớn các bạn sẽ không áp dụng được,Mình hiểu rằng cách này phần lớn các bạn sẽ không áp dụng được.
+235,linhtran92/viet_youtube_asr_corpus_v2,,2.781375,1.649733044905588,0.593135785324017,ác để khẳng định tấm lòng lương thiện sẽ,ác để khẳng định tấm lòng lương thiện sẽ
+236,linhtran92/viet_youtube_asr_corpus_v2,,2.7623125,0.9882871338631958,0.35777528207369574,bà cụ bệnh nhiều nên phải nằm viện điều,Bà cụ bệnh nhiều nên phải nằm viện điều
+237,linhtran92/viet_youtube_asr_corpus_v2,,3.0814375,1.0850490669254214,0.3521243143582894,đã có con cái đã được má chia phần trước,"đã có con cái, đã được má chia phần trước"
+238,linhtran92/viet_youtube_asr_corpus_v2,,1.579625,1.2691804678179324,0.8034694739687789,có cả hai cái máy này thế thì sau một,"có cả hai cái máy này, thế thì sau một"
+239,linhtran92/viet_youtube_asr_corpus_v2,,1.456,0.8830984169617295,0.6065236380231659,ấy truyền đạt lại kinh nghiệm cho,phải truyền đạt lại kinh nghiệm cho
+240,linhtran92/viet_youtube_asr_corpus_v2,,3.14125,1.8549189809709787,0.5905034559398261,nói đến lĩnh vực nào ông cũng tham gia,Nói đến lĩnh vực nào ông cũng tham gia.
+241,linhtran92/viet_youtube_asr_corpus_v2,,2.2,0.9462880678474903,0.43013093993067736,mày xuất hiện ở trong đời của tao làm gì,Mày xuất hiện ở trong đời của tao làm gì?
+242,linhtran92/viet_youtube_asr_corpus_v2,,1.8011875,0.9784497860819101,0.5432248369933226,khu vực châu á thái bình dương để có,khu vực châu Á Thái Bình Dương để có
+243,linhtran92/viet_youtube_asr_corpus_v2,,3.041,1.6837639398872852,0.5536875829948323,mạnh hơn anh phải ra ngoài bây giờ em,"hơn, anh phải ra ngoài bây giờ."
+244,linhtran92/viet_youtube_asr_corpus_v2,,4.6026875,1.346717881038785,0.2925938119932724,ngay dưới bàn phím có một tờ giấy tôi đã,Ngay dưới bàn phím có một tờ giấy tôi đã
+245,linhtran92/viet_youtube_asr_corpus_v2,,2.039875,1.8744001169689,0.91887989066433,trao quyền thừa kế cho người bạn tâm,trao quyền thừa kế cho người bạn tâm
+246,linhtran92/viet_youtube_asr_corpus_v2,,2.0024375,0.8886277980636805,0.44377305062638933,sống cũng như hoàn thành những mục tiêu,sống cũng như hoàn thành những mục tiêu
+247,linhtran92/viet_youtube_asr_corpus_v2,,2.16,0.9217739671003073,0.426747206990883,ít ở việt nam chúng ta cũng vậy thôi,ít ở Việt Nam chúng ta cũng vậy thôi.
+248,linhtran92/viet_youtube_asr_corpus_v2,,2.8624375,1.5744262170046568,0.5500299017898755,xem xét kỹ chúng ta thấy có ba cái,xem xét kỹ chúng ta thấy có ba cái
+249,linhtran92/viet_youtube_asr_corpus_v2,,2.301625,1.845918457955122,0.8020066074860683,người xung quanh đang nghĩ gì chỉ mở,người xung quanh đang nghĩ gì chỉ mở
+250,linhtran92/viet_youtube_asr_corpus_v2,,2.7370625,1.0333031329791993,0.37752266635460435,anh muốn mượn em một đêm có được không,Anh muốn mượn em một đêm có được không?
+251,linhtran92/viet_youtube_asr_corpus_v2,,2.381,1.0096880150958896,0.42406048513057104,người ta đi lấy chồng khóc lên khóc,Người ta đi lấy chồng khóc nên khóc
+252,linhtran92/viet_youtube_asr_corpus_v2,,2.32175,1.5974624429363757,0.688042400317164,với bản thân rằng tôi đang đi vào bếp để,với bản thân rằng tôi đang đi vào bếp để
+253,linhtran92/viet_youtube_asr_corpus_v2,,2.16,1.0429299850948155,0.48283795606241453,rồi phải trèo lên để đi cho đỡ mệt chứ,rồi phải trèo lên để đi cho đỡ mệt chứ.
+254,linhtran92/viet_youtube_asr_corpus_v2,,2.8800625,0.9958701140712947,0.34578073013043803,tha thứ cho nhau những kẻ làm tổn thương,tha thứ cho nhau những kẻ làm tổn thương
+255,linhtran92/viet_youtube_asr_corpus_v2,,1.8011875,1.0646227039396763,0.591067117631938,nguyên liệu trong những cái sản phẩm đó,nguyên liệu trong những cái sản phẩm đó
+256,linhtran92/viet_youtube_asr_corpus_v2,,2.44,1.5621983739547431,0.6402452352273538,bị giảm đi sức nặng của mình nhưng mà,bị giảm đi sức nặng của mình. Nhưng mà
+257,linhtran92/viet_youtube_asr_corpus_v2,,1.594375,1.039712999947369,0.6521132104726737,đặc biệt là về pháp luật,đặc biệt là về pháp luật.
+258,linhtran92/viet_youtube_asr_corpus_v2,,2.682,1.1099229210522026,0.41384150673087344,kết quả tuyển dụng cho mai cô nộp hồ sơ,"kết quả tuyển dụng cho Mai, cô nộp hồ sơ"
+259,linhtran92/viet_youtube_asr_corpus_v2,,1.697625,1.0059815279673785,0.5925817114895094,tôi không tin vào tâm linh như em,Tôi không tin vào tâm linh như em.
+260,linhtran92/viet_youtube_asr_corpus_v2,,2.1,1.5113313980400562,0.7196816181143124,gửi riêng cho anh những mẫu vẽ mới nhất,gửi riêng cho anh những mẫu vẽ mới nhất
+261,linhtran92/viet_youtube_asr_corpus_v2,,3.0009375,0.9503966588526964,0.31669991755999466,hành chị hai xin vô làm cấp dưỡng nhà,chị hai xin vô làm cấp dưỡng nhà
+262,linhtran92/viet_youtube_asr_corpus_v2,,4.220875,1.1289834380149841,0.2674761602783745,tại vì vẫn chưa có một cái nơi nào mà để,Tại vì vẫn chưa có một cái nơi nào mà để
+263,linhtran92/viet_youtube_asr_corpus_v2,,1.7565,0.9205006749834865,0.5240538997913388,không có bất kỳ lời giải thích nào,Không có bất kỳ lời giải thích nào.
+264,linhtran92/viet_youtube_asr_corpus_v2,,2.1623125,1.541531511116773,0.7129087544546743,bệnh bà đi chầu diêm vương từ lúc nào,bà đi chầu Diêm Vương từ lúc nào?
+265,linhtran92/viet_youtube_asr_corpus_v2,,1.621,0.996149631915614,0.6145278420207366,đều nhằm đảm bảo nguồn năng lượng giá rẻ,đều nhằm đảm bảo nguồn năng lượng giá rẻ
+266,linhtran92/viet_youtube_asr_corpus_v2,,2.48125,0.9915306391194463,0.39960932558970125,chấp nhận cho diễm đi bước nữa nó phải,"chấp nhận cho Diễm đi bước nữa, nó phải"
+267,linhtran92/viet_youtube_asr_corpus_v2,,2.2621875,1.01172219007276,0.44723180110966043,vì sao tôi lại đưa ra quyết định dừng,Vì sao tôi lại đưa ra quyết định dừng
+268,linhtran92/viet_youtube_asr_corpus_v2,,3.101,1.731861589010805,0.5584848723027427,củng cố đời con nguồn sống của gia đình,"củng cố đời con, nguồn sống của gia đình"
+269,linhtran92/viet_youtube_asr_corpus_v2,,1.960875,1.0165683880914003,0.5184259007287054,theo đuổi em vì anh có bạn làm ở bên đó,theo đuổi em vì anh có bạn làm ở bên đó
+270,linhtran92/viet_youtube_asr_corpus_v2,,2.3213125,1.1419500359334052,0.49194153563271004,thì đó là cái điều mà mình muốn xây dựng,thì đó là cái điều mà mình muốn xây dựng
+271,linhtran92/viet_youtube_asr_corpus_v2,,2.182,1.6253037571441382,0.7448688162897059,bảo được cho cả hai đây là sự nhân,"bảo được cho cả hai, đây là sự nhân"
+272,linhtran92/viet_youtube_asr_corpus_v2,,1.8611875,1.0042779149953276,0.539589866682066,có có một số bạn có chia sẻ nó như một,có có một số bạn có chia sẻ nó như một
+273,linhtran92/viet_youtube_asr_corpus_v2,,2.5625,1.7024310089182109,0.6643633205534482,chinh ngại quá phải lấy thêm tiền của,ngại quá phải lấy thêm tiền của
+274,linhtran92/viet_youtube_asr_corpus_v2,,2.81075,0.9721327989827842,0.3458624207000922,một đơn vị bộ đội chẳng rõ từ cấp nào,Một đơn vị bộ đội chẳng rõ từ cấp nào
+275,linhtran92/viet_youtube_asr_corpus_v2,,3.4618125,1.2462807090487331,0.3600081486356448,thôi việc đã đến nước này anh cứ về bên,"Thôi, việc đã đến nước này, anh cứ về bên"
+276,linhtran92/viet_youtube_asr_corpus_v2,,2.9806875,1.1192256230860949,0.3754924402796653,khi bạn ngừng học bạn cũng ngừng sống,"Khi bạn ngừng học, bạn cũng ngừng sống."
+277,linhtran92/viet_youtube_asr_corpus_v2,,1.9610625,1.0446302618365735,0.5326858587304452,vào những quần thể động vật có vú ở bản,vào những quần thể động vật có vú ở bản
+278,linhtran92/viet_youtube_asr_corpus_v2,,1.860625,1.4874479500576854,0.7994345717474963,chuyện thú vị như vậy là về thành phố,Chuyện thú vị như vậy là về thành phố
+279,linhtran92/viet_youtube_asr_corpus_v2,,2.7008125,1.0349147508386523,0.3831864488329539,vết gợn thứ tư là về vấn đề lãnh thổ,Vết gợn thứ tư là về vấn đề lãnh thổ.
+280,linhtran92/viet_youtube_asr_corpus_v2,,2.361625,1.0778809587936848,0.4564149510585655,mày tao bởi vì các bạn sẽ cảm thấy rất,bày tỏ bởi vì các bạn sẽ cảm thấy rất
+281,linhtran92/viet_youtube_asr_corpus_v2,,2.0408125,0.9828276599291712,0.48158645633989955,đánh bom hạt nhân nên nhật bản quyết tâm,đánh bom hạt nhân nên Nhật Bản quyết tâm
+282,linhtran92/viet_youtube_asr_corpus_v2,,2.76,1.6165406398940831,0.585703130396407,tôi chúng tôi đã mất mát lớn lao thế rồi,"tôi, chúng tôi đã mất mát lớn lao thế rồi."
+283,linhtran92/viet_youtube_asr_corpus_v2,,2.301625,1.4652817090973258,0.636629211577614,phụ trách cùng mấy người giúp việc mà,phủ trạch của mấy người giúp việc mà
+284,linhtran92/viet_youtube_asr_corpus_v2,,2.64,1.0200814481358975,0.3863944879302642,thì anh cũng không anh không tính lại,Vì anh cũng không anh cũng tính lại
+285,linhtran92/viet_youtube_asr_corpus_v2,,2.281375,0.9593008479569107,0.4204923995208638,ngày trước tôi có quen một cô bé đàn rất,"Ngày trước tôi có quen một cô bé, đàn rất"
+286,linhtran92/viet_youtube_asr_corpus_v2,,1.8425625,1.0097675970755517,0.5480235254302374,sau xuống bếp nấu nướng cùng với bác ấy,sau xuống bếp nấu nướng cùng với bác ấy.
+287,linhtran92/viet_youtube_asr_corpus_v2,,2.5403125,0.9208864599931985,0.3625091243668637,cùng trường thế là tới ngày kết hôn chú,"cùng trường, thế là tới ngày kết hôn"
+288,linhtran92/viet_youtube_asr_corpus_v2,,3.1216875,1.1257648849859834,0.36062702784503037,khóc theo tôi cũng khóc mà không gọi,"khóc theo, tôi cũng khóc mà không gọi"
+289,linhtran92/viet_youtube_asr_corpus_v2,,1.4310625,0.9960401218850166,0.6960144101917398,cả thế giới đối với mình và,cả thế giới đối với mình là
+290,linhtran92/viet_youtube_asr_corpus_v2,,3.3413125,1.1268845899030566,0.3372580654766822,lâu không biết trước được ngày về cho,lâu không biết trước được ngày về cho
+291,linhtran92/viet_youtube_asr_corpus_v2,,3.18175,1.171616603853181,0.36823025185925384,hiểm lắm dạ vâng con vào phòng rửa mặt,"hiểm lắm. Dạ vâng, con vào phòng rửa mặt"
+292,linhtran92/viet_youtube_asr_corpus_v2,,2.101,1.0085008679889143,0.4800099324078602,thôi những cái món nó đơn giản nó không,"những cái món nó đơn giản, nó không"
+293,linhtran92/viet_youtube_asr_corpus_v2,,2.0816875,1.1364372568205,0.5459211609910228,về anh ấy sẽ bất ngờ và hãnh diện lắm,anh ấy sẽ bất ngờ và hãnh diện lắm.
+294,linhtran92/viet_youtube_asr_corpus_v2,,3.281,1.1011644401587546,0.3356185431754814,đi mất nếu như anh biết sớm hơn thế này,mất. Nếu như anh biết sớm hơn thế này
+295,linhtran92/viet_youtube_asr_corpus_v2,,2.8223125,1.6000336750876158,0.5669229311380707,lý giật mình cô dặn lòng mình phải thật,"Lý giật mình, cô dặn lòng mình phải thật"
+296,linhtran92/viet_youtube_asr_corpus_v2,,3.0014375,1.0931229870766401,0.36419981661341944,một năm rồi không gặp anh khải anh phải,"1 năm rồi không gặp anh Khải, anh Khải"
+297,linhtran92/viet_youtube_asr_corpus_v2,,2.7410625,1.041228688089177,0.37986316915034846,nào cầm một đồng tiền to như vậy dù sao,"cầm một đồng tiền to như vậy, dù sao"
+298,linhtran92/viet_youtube_asr_corpus_v2,,2.781375,1.0280610579065979,0.3696233186487251,thẹn thùng như gái mới yêu ngay cả khi,"thẹn thùng như gái mới yêu, ngay cả khi"
+299,linhtran92/viet_youtube_asr_corpus_v2,,2.7824375,0.9670393411070108,0.34755114575152574,không cần ông dạy đời tôi hay là khích,Không cần ông dạy đời tôi hay là khích
+300,linhtran92/viet_youtube_asr_corpus_v2,,2.901375,1.0519294771365821,0.3625623978756907,là có những lúc mà mình cũng rất là mệt,là có những lúc mà mình cũng rất là mệt.
+301,linhtran92/viet_youtube_asr_corpus_v2,,3.421,1.7190886761527508,0.5025105747304154,cái mang lại nếu như con cái là nguồn,cái mang lại. Nếu như con cái là nguồn
+302,linhtran92/viet_youtube_asr_corpus_v2,,3.6613125,1.8297988390550017,0.49976581869343345,ngực ông tư hực lên một tiếng trái cổ,"Ngực ông Tư hực lên một tiếng, trái cổ"
+303,linhtran92/viet_youtube_asr_corpus_v2,,2.3611875,0.9612036168109626,0.40708483202243045,buồn nhưng mà cổ tự đổ tất cả tội lỗi,cô buồn nhưng mà cô tự đổ tất cả tội lỗi
+304,linhtran92/viet_youtube_asr_corpus_v2,,3.0801875,1.7159568378701806,0.5570949294061418,với nhau đó mà tôi kể trung thực cái cảm,với nhau đó mà tôi kể trung thực cái cảm
+305,linhtran92/viet_youtube_asr_corpus_v2,,2.5215625,1.7076488849706948,0.6772185440458822,là ai và cả mẹ em cũng không nhớ em là,là ai và cả mẹ em cũng không nhớ em là
+306,linhtran92/viet_youtube_asr_corpus_v2,,2.275,1.0352560270112008,0.45505759429063775,trẻ con thì đang bơi ở kia còn mình thì tranh thủ,"Trẻ con thì đang bơi ở kia, còn mình thì tranh thủ"
+307,linhtran92/viet_youtube_asr_corpus_v2,,2.2410625,0.9937869149725884,0.44344453355164726,khiến cho vô số những chàng trai quý tộc,khiến cho vô số những chàng trai quý tộc
+308,linhtran92/viet_youtube_asr_corpus_v2,,1.4149375,0.8981592110358179,0.6347695294214889,đành phải cất giọng hỏi anh,đành phải cất giọng hỏi anh
+309,linhtran92/viet_youtube_asr_corpus_v2,,3.74075,1.1667286499869078,0.3118969858950499,đây là đâu lại cũng im lặng không có,Đây là đâu? Lại cũng im lặng không có
+310,linhtran92/viet_youtube_asr_corpus_v2,,3.201875,1.1687916910741478,0.36503351663451816,chiến trường ác liệt và một cô mơ là bạn,chiến trường ác liệt và một cô mơ là bạn
+311,linhtran92/viet_youtube_asr_corpus_v2,,2.64,1.0757410821970552,0.4074776826503997,và bắt đầu lắng nghe các trường kế tiếp,và bắt đầu lắng nghe các trường kế tiếp.
+312,linhtran92/viet_youtube_asr_corpus_v2,,2.1411875,1.0519972280599177,0.4913148559198658,con đồng ý để mẹ không ghép thận nữa,Con đồng ý để mẹ không ghép thận nữa.
+313,linhtran92/viet_youtube_asr_corpus_v2,,2.0999375,1.5552267290186137,0.7406061985266771,vấn đề ở đây là nếu bạn đã tự gắn cho,vấn đề ở đây là nếu bạn đã tự gắn cho
+314,linhtran92/viet_youtube_asr_corpus_v2,,3.3115625,1.0963807748630643,0.33107657634819343,ham muốn tự phát hay phản ứng mãnh liệt,thèm muốn tự phát hay phản ứng mãnh liệt
+315,linhtran92/viet_youtube_asr_corpus_v2,,3.36175,1.1893471500370651,0.35378810144628997,toàn về thể chất tài chính và tinh thần,"toàn về thể chất, tài chính và tinh thần"
+316,linhtran92/viet_youtube_asr_corpus_v2,,2.3611875,0.9655875419266522,0.4089414931794498,qua cô đã trao thân cho tuấn cô hầu hạ,"Qua cô đã trao thân cho Tuấn, cô hầu hạ"
+317,linhtran92/viet_youtube_asr_corpus_v2,,2.339,0.8969089458696544,0.38345829237693646,những mục đích của mình thủ đô của,những mục đích của mình. thủ đô của
+318,linhtran92/viet_youtube_asr_corpus_v2,,2.22975,1.593106857035309,0.7144777921449978,tôi nghĩ từ giờ mình làm chung phòng rồi,Tôi nghĩ từ giờ mình làm chung phòng rồi
+319,linhtran92/viet_youtube_asr_corpus_v2,,1.92125,1.046907183015719,0.5449093990973164,hôn thì anh có cơ hội làm bạn với em,thì anh có cơ hội làm bạn với em
+320,linhtran92/viet_youtube_asr_corpus_v2,,3.78,1.1702130951453,0.30958018390087305,không đi vậy ngủ đi anh đi với mấy người,"Không đi, vậy ngủ đi, anh đi với mấy người"
+321,linhtran92/viet_youtube_asr_corpus_v2,,3.6019375,1.676641456084326,0.4654832173196581,trong trong cuộc sống đi em sẽ lựa chọn,"Trong trong cuộc sống đi, em sẽ lựa chọn"
+322,linhtran92/viet_youtube_asr_corpus_v2,,3.40175,1.686325159156695,0.495722836527286,cùng với chị thanh tôi và anh em bảo vệ,"Cùng với chị Thanh, tôi và anh em bảo vệ"
+323,linhtran92/viet_youtube_asr_corpus_v2,,3.4608125,1.124212495982647,0.3248406251372032,ngược lại mẹ tôi dạo này tìm được thuốc,"Ngược lại, mẹ tôi dạo này tìm được thuốc"
+324,linhtran92/viet_youtube_asr_corpus_v2,,3.3211875,1.7039505171123892,0.5130545978245399,ai bận bịu gì ngồi thoải mái chứ ngồi ăn,ai bận bịu gì ngồi thoải mái chứ ngồi ăn
+325,linhtran92/viet_youtube_asr_corpus_v2,,3.100625,1.7288146349601448,0.5575697270583011,cùng bao nhiêu điều kỳ bí của một thời,cùng bao nhiêu điều kỳ bí của một thời
+326,linhtran92/viet_youtube_asr_corpus_v2,,2.76,1.0275459899567068,0.3722992717234445,đơn vị chủ lực nhưng không có gạo ăn thì,đơn vị chủ lực nhưng không có gạo ăn thì
+327,linhtran92/viet_youtube_asr_corpus_v2,,2.2415625,0.9873707871884108,0.44048327324730435,thấy lang thang hết phòng này đến phòng,thấy lang thang hết phòng này đến phòng
+328,linhtran92/viet_youtube_asr_corpus_v2,,2.5999375,1.6125723319128156,0.6202350371548607,không ăn một tuần nay anh luôn viện cớ,"Không ăn, một tuần nay anh luôn viện cớ"
+329,linhtran92/viet_youtube_asr_corpus_v2,,2.0811875,0.9978933408856392,0.4794826707760061,không dám nghĩ tiếp không biết từ bao,"Không dám nghĩ tiếp, không biết từ bao"
+330,linhtran92/viet_youtube_asr_corpus_v2,,2.46,0.9924635239876807,0.40344045690556124,biết ơn nữa anh không biết nói làm sao,biết ơn nữa. Anh không biết nói làm sao
+331,linhtran92/viet_youtube_asr_corpus_v2,,2.20175,1.1005448119249195,0.4998500338026204,khi chúng tôi tập trung lại tổng cộng,Khi chúng tôi tập trung lại tổng cộng
+332,linhtran92/viet_youtube_asr_corpus_v2,,2.240625,1.6961308110039681,0.756990041173319,xây dựng một cái cái lộ trình mà phát,xây dựng một cái cái lộ trình mà phát
+333,linhtran92/viet_youtube_asr_corpus_v2,,1.8223125,0.9773482398595661,0.5363230729414226,cái hội nghị mà bàn về biến đổi khí hậu,hội nghị mà bàn về biến đổi khí hậu
+334,linhtran92/viet_youtube_asr_corpus_v2,,2.70225,1.107683089794591,0.40991140338406556,nhận thức là khác nhau theo đuổi cuộc,Nhận thức là khác nhau theo đuổi cuộc
+335,linhtran92/viet_youtube_asr_corpus_v2,,2.5604375,1.1326783639378846,0.44237688439490697,thời tuổi trẻ sống lại đường phố không,thời tuổi trẻ sống lại đường phố không
+336,linhtran92/viet_youtube_asr_corpus_v2,,2.0220625,1.109378671972081,0.5486371820713163,mình khiến cho tôi có muốn nhúc nhích,mình khiến cho tôi có muốn nhúc nhích.
+337,linhtran92/viet_youtube_asr_corpus_v2,,2.620625,0.9989852290600538,0.3812011367746449,đi của những chiến sĩ giải phóng diễu,của những chiến sĩ giải phóng
+338,linhtran92/viet_youtube_asr_corpus_v2,,2.7803125,1.0253938271198422,0.3688052429789249,tôi sẽ phải khổ tâm tôi thở dài và nói,Tôi sẽ phải khổ tâm. Tôi thở dài và nói
+339,linhtran92/viet_youtube_asr_corpus_v2,,2.9819375,1.6734477470163256,0.561194775885251,ngày lấy thuốc lấy sữa thêm tiền cò mấy,lấy thuốc lấy sữa thêm tiền cò mấy
+340,linhtran92/viet_youtube_asr_corpus_v2,,2.3400625,1.015792083926499,0.43408758694543365,hơn nhớ không được manh động nóng vội,"hơn, nhớ không được manh động, nóng vội"
+341,linhtran92/viet_youtube_asr_corpus_v2,,2.4409375,1.1018988969735801,0.45142446169702427,mình xuân cũng dục mi ăn nhiều cho có,"mình, Xuân cũng giục Mi ăn nhiều cho con"
+342,linhtran92/viet_youtube_asr_corpus_v2,,2.5201875,1.0699400301091373,0.42454778865030374,thuộc phạm vi của lão bá hộ thì đêm đó,thuộc phạm vi của lão bá hộ thì đêm đó
+343,linhtran92/viet_youtube_asr_corpus_v2,,3.18,1.3515461490023881,0.4250145122649019,và sẽ làm nước trà trong lại và trước,và sẽ làm nước trà trong lại và trớt
+344,linhtran92/viet_youtube_asr_corpus_v2,,1.861,0.9643317779991776,0.5181793541102513,tiếp diễn hết ngày này sang ngày khác,tiếp diễn hết ngày này sang ngày khác
+345,linhtran92/viet_youtube_asr_corpus_v2,,2.16,1.0321431611664593,0.477844056095583,anh còn thấy vui bởi vì trong lòng anh,anh còn thấy vui bởi vì trong lòng anh
+346,linhtran92/viet_youtube_asr_corpus_v2,,4.0,1.6504080400336534,0.41260201000841334,hương bẩn một nữ sĩ ngầu mến mộ đã gọi,"Hương Bẩn, một nữ sĩ ngẫu mến mộ đã gọi"
+347,linhtran92/viet_youtube_asr_corpus_v2,,2.7015625,0.9918832099065185,0.36715167978031915,chăn gà cho chị tưởng sao á đồng lương,"chăn gà cho chị, tưởng sao á đồng lương"
+348,linhtran92/viet_youtube_asr_corpus_v2,,2.20125,1.0554592087864876,0.4794817529978365,những việc đáng xấu hổ chờ tôi chỉ mong,"những việc đáng xấu hổ, giờ tôi chỉ mong"
+349,linhtran92/viet_youtube_asr_corpus_v2,,2.141625,1.043632532004267,0.48730871744785714,ảnh hưởng mà nó khiến các đường ngắn,ảnh hưởng mà nó khiến các đường ngắn
+350,linhtran92/viet_youtube_asr_corpus_v2,,2.66075,1.0668013549875468,0.40094009395379,tránh để bản thân không hét lên không,Tránh để bản thân không hét lên.
+351,linhtran92/viet_youtube_asr_corpus_v2,,2.882625,1.030000302940607,0.35731331787541115,phải nỗ lực học này rồi nỗ lực đi làm,phải nỗ lực học này rồi nỗ lực đi làm
+352,linhtran92/viet_youtube_asr_corpus_v2,,2.161375,1.719601795077324,0.7956054803434498,mẹ con cháu và lại người giúp việc mà,trẻ con cháu và lại người giúp việc mà
+353,linhtran92/viet_youtube_asr_corpus_v2,,2.161375,0.9734326899051666,0.45037658430636357,đông dương cũng là người của quân đội,Đông Dương cũng là người của quân đội
+354,linhtran92/viet_youtube_asr_corpus_v2,,2.1810625,0.959552493179217,0.4399472702773153,điều đó nó đem lại cho mọi người một,điều đó nó đem lại cho mọi người một
+355,linhtran92/viet_youtube_asr_corpus_v2,,2.2214375,1.0044545591808856,0.4521642221223355,sáng tạo nó sẽ không có tuân thủ theo,"sáng tạo, nó sẽ không có tuân thủ theo"
+356,linhtran92/viet_youtube_asr_corpus_v2,,2.0615,1.161314741941169,0.5633348250987964,thế vinh người anh trai mà cô yêu thương,"Thế Vinh, người anh trai mà cô yêu thương"
+357,linhtran92/viet_youtube_asr_corpus_v2,,2.7815,1.0313242920674384,0.3707799000781731,nếu như một người con gái đi chủ động,Nếu như một người con gái đi chủ động
+358,linhtran92/viet_youtube_asr_corpus_v2,,1.780375,1.564882260048762,0.8789621624931613,địa danh quen thuộc như là hàng châu tô,địa danh quen thuộc như là hàng trâu
+359,linhtran92/viet_youtube_asr_corpus_v2,,4.5820625,1.1973066020291299,0.26130298354270154,xin lỗi cơn mơ vừa qua ở bên nhà hàng,Xin lỗi cơn mơ vừa qua ở bên nhà hàng
+360,linhtran92/viet_youtube_asr_corpus_v2,,3.6813125,1.6772954249754548,0.455624298392341,đều khóa trái khuyên tặc lưỡi công cốc,điều khóa trái khuyên tặc lưỡi công cốc
+361,linhtran92/viet_youtube_asr_corpus_v2,,2.801,1.3741344769950956,0.490587103532701,gia đình đã cho em một mái nhà nhưng,Gia đình đã cho em một mái nhà nhưng
+362,linhtran92/viet_youtube_asr_corpus_v2,,2.320375,1.0101492700632662,0.4353388008676469,chồng con ra khơi và cũng tháo vát như,chồng con ra khơi và cũng tháo vát như
+363,linhtran92/viet_youtube_asr_corpus_v2,,2.3611875,0.9235214530490339,0.3911258436905302,cũng phải dính vào đời nhau đấy thôi sau,cũng phải dính vào đời nhau đấy thôi.
+364,linhtran92/viet_youtube_asr_corpus_v2,,2.932,1.6090977070853114,0.5488054935488784,và nếu các bạn đang gặp những vấn đề về,Và nếu các bạn đang gặp những vấn đề về
+365,linhtran92/viet_youtube_asr_corpus_v2,,3.7005,1.1190800010226667,0.3024131876834662,là vấn đề về sự đồng hóa với bản ngã là,là vấn đề về sự đồng hóa với bản ngã là
+366,linhtran92/viet_youtube_asr_corpus_v2,,1.851875,1.612529193982482,0.8707548803145364,tương đương với dân số của tỉnh bắc ninh,tương đương với dân số của tỉnh Bắc Ninh.
+367,linhtran92/viet_youtube_asr_corpus_v2,,2.5018125,1.0189144941978157,0.4072705265473794,chịu đựng một mình loay hoay một mình,"chịu đựng một mình, loay hoay một mình"
+368,linhtran92/viet_youtube_asr_corpus_v2,,2.52,1.0860651170369238,0.4309782210463983,thay tôi chung vai góp sức với quý vị,thay tôi chung vai góp sức với quý vị.
+369,linhtran92/viet_youtube_asr_corpus_v2,,1.9606875,1.0892800991423428,0.5555602813514866,rằng việt nam và họ không có quá nhiều,Việt Nam và họ không có quá nhiều
+370,linhtran92/viet_youtube_asr_corpus_v2,,1.6728125,0.9703403590247035,0.5800652248980107,em đã hốt lắm rồi từ từ đã,"Em đã hốt lắm rồi, từ từ đã."
+371,linhtran92/viet_youtube_asr_corpus_v2,,2.761,1.6628774809651077,0.602273625847558,đồng ý không chút do dự để cho ba mẹ yên,đồng ý không chút do dự để cho ba mẹ yên
+372,linhtran92/viet_youtube_asr_corpus_v2,,2.20125,3.3336754790507257,1.514446554935026,nghe chưa thì bác sĩ đỗ ngọc đợt đó là,nghe chưa? Thì bác sĩ Đỗ Ngọc đợt đó làm
+373,linhtran92/viet_youtube_asr_corpus_v2,,2.161375,1.65690523898229,0.7665977625272292,tâm một chút đến mình hoặc không thì,tâm một chút đến mình hoặc không thì
+374,linhtran92/viet_youtube_asr_corpus_v2,,1.47525,0.9544041710905731,0.6469440237861875,nó cũng là con nhà tông,Nó cũng là con nhà tao.
+375,linhtran92/viet_youtube_asr_corpus_v2,,3.4416875,1.3917877268977463,0.40439108050854305,em hiểu ở một khía cạnh nào đó để bạn,"Em hiểu, ở một khía cạnh nào đó đề bài"
+376,linhtran92/viet_youtube_asr_corpus_v2,,2.20075,1.620641099056229,0.7364039982079876,viện trung ương quân đội ngoài nước thì,Viện Trung ương Quân đội ngoài nước thì
+377,linhtran92/viet_youtube_asr_corpus_v2,,2.8006875,1.0940548088401556,0.3906379447332684,chúng nó chỉ khóc thầm khóc vụng suốt,Chúng nó chỉ khóc thầm khóc vụng suốt
+378,linhtran92/viet_youtube_asr_corpus_v2,,4.32075,1.1962999529205263,0.27687321713140683,giọng nói vang và ấm đầy sức hút như,giọng nói vang và ấm đầy sức hút
+379,linhtran92/viet_youtube_asr_corpus_v2,,3.442875,1.102825531968847,0.32032110720512563,đẳng đại học ở hoa kỳ quay lại nội dung,đẳng đại học ở Hoa Kỳ. Quay lại nội dung
+380,linhtran92/viet_youtube_asr_corpus_v2,,3.6015,1.1013760389760137,0.3058103676179407,như cô và nam đến với nhau nhưng trời ơi,"như cô và Nam đến với nhau, nhưng trời ơi"
+381,linhtran92/viet_youtube_asr_corpus_v2,,1.561,1.4912109030410647,0.9552920583222708,nói chị chủ động liên lạc với anh long,nói chị chủ động liên lạc với anh Long
+382,linhtran92/viet_youtube_asr_corpus_v2,,2.562375,1.0001040960196406,0.3903035644742244,của mình đi phải biết kết quả chúng ta,"của mình đi, phải biết kết quả chúng ta"
+383,linhtran92/viet_youtube_asr_corpus_v2,,2.5028125,0.9828762479592115,0.39270870189405377,người có cùng sở thích còn có một cách,người có cùng sở thích còn có một cách
+384,linhtran92/viet_youtube_asr_corpus_v2,,2.2425625,1.3991203878540546,0.6238935984410934,gái của hai người thoát khỏi lời nguyền,cái của hai người thoát khỏi lời nguyền
+385,linhtran92/viet_youtube_asr_corpus_v2,,2.54075,1.116406013024971,0.43940018223948474,được tiếng còi xe vang lên inh ỏi không,"được, tiếng còi xe vang lên inh ỏi không"
+386,linhtran92/viet_youtube_asr_corpus_v2,,1.741125,0.9453768760431558,0.5429689861688022,ảnh hưởng tới sức khỏe của bà ánh nguyệt,ảnh hưởng tới sức khỏe của bà Ánh Nguyệt.
+387,linhtran92/viet_youtube_asr_corpus_v2,,3.76175,1.1439469871111214,0.30409968421907924,biệt bị kết án chung thân khổ sai hắn,bị kết án chung thân khổ sai.
+388,linhtran92/viet_youtube_asr_corpus_v2,,2.742,1.0522895748727024,0.3837671680790308,quý cáp bà đó đi thu mua lông gà lông,"Quý Cáp, bà đó đi thu mua lông gà lông"
+389,linhtran92/viet_youtube_asr_corpus_v2,,1.6810625,0.9623669448774308,0.5724754105676801,theo một nghiên cứu của trung tâm kiểm,Theo một nghiên cứu của trung tâm kiểm
+390,linhtran92/viet_youtube_asr_corpus_v2,,3.36175,1.0904338341206312,0.3243649391301052,cháu phải nghỉ học còn có tôi có bà con,"cháu phải nghỉ học còn có tôi, có bà con"
+391,linhtran92/viet_youtube_asr_corpus_v2,,3.020875,1.0789529487956315,0.3571657049019345,cô bảo là rồi anh thì anh giỏi văn,"cô và Lan được rồi, anh thì anh giỏi văn"
+392,linhtran92/viet_youtube_asr_corpus_v2,,3.22125,1.3917265930213034,0.4320455081168191,mà gật đầu phải phải ai chẳng có lúc lầm,"mà gật đầu, ""Phải phải, ai chẳng có lúc lầm"
+393,linhtran92/viet_youtube_asr_corpus_v2,,2.8760625,1.0019185359124094,0.3483646603341928,cha ái ngại nhìn mẹ một hồi rồi nói,Cha ái ngại nhìn mẹ một hồi rồi nói
+394,linhtran92/viet_youtube_asr_corpus_v2,,2.159,0.9733104489278048,0.4508154001518318,không bằng bên phòng của cậu hai nhưng,không bằng bên phòng của cậu hai nhưng
+395,linhtran92/viet_youtube_asr_corpus_v2,,2.26125,1.0651816071476787,0.4710587538519309,thì chừng đó chúng ta vẫn còn kiếm được,Thì chừng đó chúng ta vẫn còn kiếm được
+396,linhtran92/viet_youtube_asr_corpus_v2,,2.801875,0.9661462120711803,0.34482131146863454,kim cũng vừa về tới nơi mấy hôm nay ông,"Kim cũng vừa về tới nơi, mấy hôm nay ông"
+397,linhtran92/viet_youtube_asr_corpus_v2,,2.44,0.9192851791158319,0.37675622094911143,phương oanh im lặng cô không nói gì,"Phương Oanh im lặng, cô không nói gì"
+398,linhtran92/viet_youtube_asr_corpus_v2,,2.60125,0.9807989241089672,0.3770490818294924,chúng ta đều làm với suy nghĩ rằng nó có,Chúng ta đều làm với suy nghĩ rằng nó có
+399,linhtran92/viet_youtube_asr_corpus_v2,,4.0213125,1.2502513490617275,0.3109062896906738,và bây giờ mọi người hãy cùng xem châu đã có những hành động giảm nhiệt như thế nào nha ,Và bây giờ mọi người hãy cùng xem Châu đã có những hành động giảm nhiệt như thế nào nha.
+400,linhtran92/viet_youtube_asr_corpus_v2,,1.8011875,1.5021296099293977,0.8339662638839087,thôi còn nhiều cái nó cũng khiến cho em,thôi còn nhiều cái nó cũng khiến cho em
+401,linhtran92/viet_youtube_asr_corpus_v2,,2.741,1.0524150270503014,0.3839529467531198,vinh có ngạc nhiên khi nhận thư của,Vinh có ngạc nhiên khi nhận thư của
+402,linhtran92/viet_youtube_asr_corpus_v2,,2.5815625,1.002365438034758,0.38827858633473256,xong nhưng khi anh về rồi cô lại không,"Xong, nhưng khi anh về rồi cô lại không"
+403,linhtran92/viet_youtube_asr_corpus_v2,,2.30175,0.9784403389785439,0.42508540848421583,hôm nay giới công trình có vài việc cần,Hôm nay dưới công trình có vài việc cần
+404,linhtran92/viet_youtube_asr_corpus_v2,,3.88275,1.1746294051408768,0.30252511883095146,mà để đi tiệc tùng đi nhậu nhẹt mình,mà để đi tiệc tùng đi nhậu nhẹt
+405,linhtran92/viet_youtube_asr_corpus_v2,,2.561375,0.9383339260239154,0.3663399252448062,nhận được cảm giác hợp tác này ngược lại,nhận được cảm giác hợp tác này. Ngược lại
+406,linhtran92/viet_youtube_asr_corpus_v2,,2.26275,1.2028151338454336,0.5315722611183001,tôi cảm ơn hai anh đó rồi nhanh chóng,Tôi cảm ơn hai anh đó rồi nhanh chóng
+407,linhtran92/viet_youtube_asr_corpus_v2,,2.60075,1.2222259158734232,0.4699513278375173,rồi lý cũng thừa nhận những việc mình,"rồi, Lý cũng thừa nhận những việc mình"
+408,linhtran92/viet_youtube_asr_corpus_v2,,3.121375,1.074782429030165,0.3443297998574875,không sao ngủ nổi cứ to nhỏ đi ra đi vào,"không sao ngủ nổi, bước to nhỏ đi ra đi vào."
+409,linhtran92/viet_youtube_asr_corpus_v2,,2.9216875,1.0616769390180707,0.36337799269020754,đây là con cuối cùng rồi chúng ta đã cứu,"Đây là con cuối cùng rồi, chúng ta đã cứu"
+410,linhtran92/viet_youtube_asr_corpus_v2,,2.6784375,1.0533401938155293,0.39326666902458224,tới giờ rồi đền tội mau đi,"tới giờ rồi, đền tội mau đi."
+411,linhtran92/viet_youtube_asr_corpus_v2,,2.0624375,0.9180809089448303,0.445143626871035,không biết có nên nói cho minh vũ nghe,không biết có nên nói cho Minh Vũ nghe
+412,linhtran92/viet_youtube_asr_corpus_v2,,1.6584375,0.9388437641318887,0.5661013840629441,nói dữ dội và tự tin vào,Nói dữ dội và tự tin vào.
+413,linhtran92/viet_youtube_asr_corpus_v2,,2.2400625,1.0554190238472074,0.4711560609791947,vọng đau đớn thống khổ tới cùng cực,đau đớn thống khổ tới cùng cực.
+414,linhtran92/viet_youtube_asr_corpus_v2,,1.981625,1.079245506087318,0.5446265090959783,ngày chỉ ngửa mặt lên trời cao cười một,Ngài chỉ ngửa mặt lên trời cao cười một
+415,linhtran92/viet_youtube_asr_corpus_v2,,1.97,1.0147379201371223,0.5150953909325494,không đi bơi này không phơi nắng này,"Không đi bơi này, không phơi nắng này."
+416,linhtran92/viet_youtube_asr_corpus_v2,,2.9183125,1.0591409890912473,0.36292925760734923,kể cả tôi đã làm thủ thuật là,Kể cả tôi đã làm thủ thuật là
+417,linhtran92/viet_youtube_asr_corpus_v2,,2.64025,1.00222286907956,0.37959392825662724,hoàn chỉnh rồi mấy năm đi làm ăn xa nhà,hoàn chỉnh rồi mấy năm đi làm ăn xa nhà
+418,linhtran92/viet_youtube_asr_corpus_v2,,1.7623125,0.9528943130280823,0.5407067776163889,sang nhật và buộc phải rút lui trong,sang Nhật và buộc phải rút lui trong
+419,linhtran92/viet_youtube_asr_corpus_v2,,2.14175,1.0048310300335288,0.46916354851571324,nhận ra đó là của chính mình ở bên trong,nhận ra đó là của chính mình ở bên trong.
+420,linhtran92/viet_youtube_asr_corpus_v2,,3.1621875,1.1108022490516305,0.35127652900140505,cũng vậy một ngày theo bạn về quê tôi đã,"cũng vậy. Một ngày theo bạn về quê, tôi đã"
+421,linhtran92/viet_youtube_asr_corpus_v2,,1.80025,0.9655883510131389,0.536363477857597,học ấy chính là tấm vé bước vào thiên,Học ấy chính là tấm vé bước vào thiên
+422,linhtran92/viet_youtube_asr_corpus_v2,,2.161,0.9507746091112494,0.4399697404494444,chuyện về cô ấy thì cậu còn gặp chuyện,Chuyện về cô ấy thì cậu còn gặp chuyện
+423,linhtran92/viet_youtube_asr_corpus_v2,,3.221375,1.1175161481369287,0.3469065688213662,mưa gió này ai chơi chờ tạnh ráo rồi đi,Mưa gió này ai chơi? Chờ tạnh ráo rồi đi.
+424,linhtran92/viet_youtube_asr_corpus_v2,,1.962,1.4878147458657622,0.7583153648653223,hơn một chút hai người lại trò chuyện,"hơn một chút, hai người lại trò chuyện."
+425,linhtran92/viet_youtube_asr_corpus_v2,,2.1,1.0414150499273092,0.4959119285368139,nơi đầu gió trước khi những con thuyền,nơi đầu gió trước khi những con thuyền
+426,linhtran92/viet_youtube_asr_corpus_v2,,2.821,1.0634229050483555,0.3769666448239473,được cảm nhận được cái sự khác biệt của,được cảm nhận được cái sự khác biệt của
+427,linhtran92/viet_youtube_asr_corpus_v2,,1.720875,0.9071083851158619,0.5271204387976244,dùng có những cái sự tham gia đóng góp,dùng có những cái sự tham gia đóng góp
+428,linhtran92/viet_youtube_asr_corpus_v2,,2.8015,1.0879810058977455,0.3883565967866306,mình chấp nhận chọn con đường đấy và,Mình chấp nhận chọn con đường đấy.
+429,linhtran92/viet_youtube_asr_corpus_v2,,3.10125,1.0748766199685633,0.3465946376359737,không lâu sau cơ thể tôi cũng rơi vào,"Không lâu sau, cơ thể tôi cũng rơi vào"
+430,linhtran92/viet_youtube_asr_corpus_v2,,3.04,1.2138581098988652,0.39929543088778463,lát nữa an chi sẽ đến thiên mỹ hương,Lát nữa An Chi sẽ đến Thiên Mỹ Hương.
+431,linhtran92/viet_youtube_asr_corpus_v2,,1.6710625,0.9970073369331658,0.5966307884553486,vọng và nghĩ nhiều về cái chết,vọng và nghĩ nhiều về cái chết.
+432,linhtran92/viet_youtube_asr_corpus_v2,,2.4803125,1.3508261530660093,0.5446193385172269,dậy đi tắm hai cô gái trẻ vội vàng đi,"dậy đi tắm, hai cô gái trẻ vội vàng đi"
+433,linhtran92/viet_youtube_asr_corpus_v2,,2.6814375,0.9683334538713098,0.3611247526266451,gì phải sợ hết không có đâu các bạn khi,"thì phải sợ hết, không có đâu các bạn. Khi"
+434,linhtran92/viet_youtube_asr_corpus_v2,,2.3000625,1.060746260220185,0.46118149407687176,sẽ là con đường vô cùng gian lao vất vả,sẽ là con đường vô cùng gian lao vất vả.
+435,linhtran92/viet_youtube_asr_corpus_v2,,2.021125,0.9871280600782484,0.48840524959032633,nhựa đường được sử dụng trong việc xây,nhựa đường được sử dụng trong việc xây
+436,linhtran92/viet_youtube_asr_corpus_v2,,2.5901875,0.9758948439266533,0.37676610049529363,thật ư anh thấy thế thật sao,Thật ư? Anh thấy thế thật sao?
+437,linhtran92/viet_youtube_asr_corpus_v2,,2.82175,1.0488825188949704,0.37171348237617446,cứ tưởng ông ấy sẽ có chút lo lắng hay,Cứ tưởng ông ấy sẽ có chút lo lắng hay
+438,linhtran92/viet_youtube_asr_corpus_v2,,2.641125,0.9834426001179963,0.37235746135377773,nhóm thực phẩm và còn hướng dẫn cách chế,nhóm thực phẩm và còn hướng dẫn cách chế
+439,linhtran92/viet_youtube_asr_corpus_v2,,2.04225,0.9669367391616106,0.4734663920487749,đến thăm hay những nạn nhân của các vụ,đến thăm hay là những nạn nhân của các vụ
+440,linhtran92/viet_youtube_asr_corpus_v2,,1.8208125,0.9613718979526311,0.527990607463773,trước mặt chúng tôi bởi vì chúng tôi,trước mặt chúng tôi bởi vì chúng tôi
+441,linhtran92/viet_youtube_asr_corpus_v2,,2.6425,1.0438567388337106,0.3950262020184335,đây chỉ có một mình khi tôi quay về cũng,"Đây chỉ có một mình, khi tôi quay về cũng"
+442,linhtran92/viet_youtube_asr_corpus_v2,,2.1225,0.9322524210438132,0.43922375549767406,mặt siết chặt lòng bàn tay mà hét lớn,"mặt, siết chặt lòng bàn tay mà hét lớn"
+443,linhtran92/viet_youtube_asr_corpus_v2,,2.2214375,0.9576655039563775,0.43110170957156235,diện đó bắt gặp cảnh cả hai người đang,diện đó bắt gặp cảnh cả hai người đang
+444,linhtran92/viet_youtube_asr_corpus_v2,,1.3935,0.94787283311598,0.6802101421714962,liên quan tôi xin từ chối,"liên quan, tôi xin từ chối."
+445,linhtran92/viet_youtube_asr_corpus_v2,,1.821375,1.0980416459497064,0.6028641251525394,có thể chưa cảm nhận được điều đó là tốt,có thể chưa cảm nhận được điều đó là tốt.
+446,linhtran92/viet_youtube_asr_corpus_v2,,2.20125,0.9803311990108341,0.4453520495222415,muốn tìm một cái người thực sự là phù,muốn tìm một cái người thực sự là phù
+447,linhtran92/viet_youtube_asr_corpus_v2,,1.9719375,1.2799324218649417,0.6490735238134787,đúng ai phải chịu trách nhiệm sẽ rõ,ai phải chịu trách nhiệm sẽ rõ.
+448,linhtran92/viet_youtube_asr_corpus_v2,,3.3008125,1.2184298208449036,0.3691302734841508,thì thầy chỉ cho em là cái này nè em,thì thầy chỉ cho em là cái này nè.
+449,linhtran92/viet_youtube_asr_corpus_v2,,2.01525,1.0374222989194095,0.514785906919444,cho nên khó khăn hay lắm,Cho nên khó khăn hay lắm.
+450,linhtran92/viet_youtube_asr_corpus_v2,,1.860625,1.569925860967487,0.8437626394181993,đẹp đậm chất truyền thống cổ kính mộc,đậm chất truyền thống cổ kính mộc
+451,linhtran92/viet_youtube_asr_corpus_v2,,1.559,0.9817497879266739,0.6297304605046016,tiêu cực với người khác với những người,tiêu cực với người khác với những người
+452,linhtran92/viet_youtube_asr_corpus_v2,,4.1713125,1.2047634159680456,0.28882118421193465,mà cả tôi nữa không tồn tại có phải tôi,mà cả tôi nữa không tồn tại có phải tôi
+453,linhtran92/viet_youtube_asr_corpus_v2,,2.0175625,0.983005641028285,0.4872243814148434,anh nữa ai dám nhận tôi vào làm chứ,"nữa, ai dám nhận tôi vào làm chứ?"
+454,linhtran92/viet_youtube_asr_corpus_v2,,3.10075,1.0920513949822634,0.35218943642095085,ái phương tỏ ra không cam tâm cô ta nhìn,"Ái Phương tỏ ra không cam tâm, cô ta nhìn"
+455,linhtran92/viet_youtube_asr_corpus_v2,,2.082125,1.0133688079658896,0.4866993134254137,nghĩ ra cách của mình họ tự khai thác,"nghĩ ra cách của mình, họ tự khai thác"
+456,linhtran92/viet_youtube_asr_corpus_v2,,2.79475,0.9269065370317549,0.3316599112735503,tâm để thành công mà không cần nhiều lời,tâm để thành công mà không cần nhiều lời
+457,linhtran92/viet_youtube_asr_corpus_v2,,4.28175,1.1758579078596085,0.27462086947150316,thể nói qua về những cái điều mà em sẽ,để nói qua về những cái điều mà em sẽ
+458,linhtran92/viet_youtube_asr_corpus_v2,,2.6225,1.0809581310022622,0.412186131936039,tôi không nghe lời cấp trên thì biết bị,Tớ không nghe lời cấp trên thì biết bị
+459,linhtran92/viet_youtube_asr_corpus_v2,,2.159,0.9656214439310133,0.447254026832336,điều cốt lõi nhất trong cuốn sách này là,điều cốt lõi nhất trong cuốn sách này là
+460,linhtran92/viet_youtube_asr_corpus_v2,,1.54075,0.9770438061095774,0.634135197864402,cũng không bị phụ thuộc vào các yêu sách,cũng không bị phụ thuộc vào các yêu sách
+461,linhtran92/viet_youtube_asr_corpus_v2,,2.5215625,1.0097301919013262,0.400438296453618,không ý các anh hỏi cái trên kia đó hả,"không, ý các anh hỏi cái chân kia đó hả?"
+462,linhtran92/viet_youtube_asr_corpus_v2,,2.20125,1.5747527531348169,0.7153902342463677,và quan điểm xã hội và đây là nơi định,và quan điểm xã hội và đây là nơi định
+463,linhtran92/viet_youtube_asr_corpus_v2,,2.061,1.1095097078941762,0.5383356176099836,hôm nay họ cố gắng gạt đi những đau,Hôm nay họ cố gắng gạt đi những đau
+464,linhtran92/viet_youtube_asr_corpus_v2,,3.820875,1.1488568889908493,0.30067900389069235,nhưng bữa cơm hôm ấy với bác tôi ăn ngon,Nhưng bữa cơm hôm ấy với bác tôi ăn ngon
+465,linhtran92/viet_youtube_asr_corpus_v2,,2.5225,0.9904931259807199,0.3926632808645074,còn thiếu anh chưa từng nghĩ sẽ yêu ai,"còn thiếu, anh chưa từng nghĩ sẽ yêu ai"
+466,linhtran92/viet_youtube_asr_corpus_v2,,2.6814375,0.992768201045692,0.3702373078043743,trả thù cho em gái thế nhưng vì gặp phải,trả thù cho em gái. Thế nhưng vì gặp phải
+467,linhtran92/viet_youtube_asr_corpus_v2,,2.5018125,1.3564280848950148,0.5421781547957789,cười thỏa mãn của anh thì liền cáu anh,để thỏa mãn của anh thì liền cáu. Anh
+468,linhtran92/viet_youtube_asr_corpus_v2,,2.3611875,1.0769992040004581,0.45612608232106006,tỉnh ủy đây là bác nói với tỉnh ủy nghệ,tỉnh ủy. Đây là bác nói với tỉnh ủy Nghệ
+469,linhtran92/viet_youtube_asr_corpus_v2,,2.9418125,1.1990862069651484,0.40760116661586976,chỉ có bằng cách này ta mới chủ động,Chỉ có bằng cách này ta mới chủ động
+470,linhtran92/viet_youtube_asr_corpus_v2,,2.100375,1.007192294113338,0.4795297478370948,mỏm đá nhìn xuống biển nhìn xuống đường,"mỏm đá nhìn xuống biển, nhìn xuống đường"
+471,linhtran92/viet_youtube_asr_corpus_v2,,3.0413125,1.1359631188679487,0.3735108177367333,vậy là bữa đó cả nhà cùng quây quần,Vậy là bữa đó cả nhà cùng quây quần
+472,linhtran92/viet_youtube_asr_corpus_v2,,2.178125,1.2114260310772806,0.5561783786868433,cho quen đi có được không ạ,"cho quen đi, có được không ạ?"
+473,linhtran92/viet_youtube_asr_corpus_v2,,1.68,1.399652139050886,0.833126273244575,mình có một năm đầu mình xử lý tuy nhiên,"Mình có 1 năm đầu mình xử lý, tuy nhiên"
+474,linhtran92/viet_youtube_asr_corpus_v2,,2.98225,1.0879955380223691,0.364823719682243,thầy nghĩ xem nếu cô muốn trốn thì nhà,"Thầy nghĩ xem, nếu cô muốn trốn thì nhà"
+475,linhtran92/viet_youtube_asr_corpus_v2,,1.841,1.0514243519864976,0.571115889183323,cho các công ty và được trả lương hậu,cho các công ty và được trả lương hậu
+476,linhtran92/viet_youtube_asr_corpus_v2,,1.6403125,1.0385993421077728,0.6331716316907741,thông thường nhưng lại khiến đang vui,thông thường nhưng lại khiến đang vui
+477,linhtran92/viet_youtube_asr_corpus_v2,,2.421625,1.185157244792208,0.4894057687677522,cửa vẫn đóng im lìm tôi ngồi ngoài cổng,"cửa vẫn đóng im lìm, tôi ngồi ngoài cổng"
+478,linhtran92/viet_youtube_asr_corpus_v2,,1.92125,0.9243819711264223,0.4811357039044488,này không đạt được thì có thể đợi tiếp,này không đạt được thì có thể đợi tiếp
+479,linhtran92/viet_youtube_asr_corpus_v2,,1.6421875,0.9309257660061121,0.5668815321064812,bên hàn hãng này cũng là một hãng rất là,Bên Hàn hãng này cũng là một hãng rất là
+480,linhtran92/viet_youtube_asr_corpus_v2,,1.711,0.962537799961865,0.562558620667367,chỉ có thích băng tan không,Chị có thích băng tan không?
+481,linhtran92/viet_youtube_asr_corpus_v2,,3.9430625,1.0462041168939322,0.2653278046934159,cắt bỏ cho đến nay vẫn không thay đổi đó,bỏ cho đến nay vẫn không thay đổi.
+482,linhtran92/viet_youtube_asr_corpus_v2,,2.9018125,1.058620004914701,0.3648133726471648,một con người phật giáo và chúng ta đang,một con người Phật giáo và chúng ta đang
+483,linhtran92/viet_youtube_asr_corpus_v2,,2.702125,1.2328076160047203,0.45623633843908784,mỗi cá nhân còn kinh hoàng hơn khi mà có,mỗi cá nhân còn kinh hoàng hơn khi mà có
+484,linhtran92/viet_youtube_asr_corpus_v2,,2.4616875,1.5921944838482887,0.6467898479592916,cậu nghỉ phép thì tôi còn có thời gian,Cậu nghỉ phép thì tôi còn có thời gian
+485,linhtran92/viet_youtube_asr_corpus_v2,,2.60125,1.1115281418897212,0.42730538852079625,thôi làm ầm lên đúng là con giải cái,"thôi làm ầm lên, đúng là con dại cái"
+486,linhtran92/viet_youtube_asr_corpus_v2,,2.5820625,1.0585865981411189,0.40997713964751775,nhiều điều lắm chúng con vẫn thường viết,"nhiều điều lắm, chúng con vẫn thường viết"
+487,linhtran92/viet_youtube_asr_corpus_v2,,3.46,1.1574894308578223,0.33453451758896596,và nếu như mà các bạn nào mà theo dõi,Và nếu như mà các bạn nào mà theo dõi
+488,linhtran92/viet_youtube_asr_corpus_v2,,2.5201875,1.0240045108366758,0.4063207641640456,phạm cha ruột của nó tôi và cha nó đã,"Phạm cha ruột của nó, tôi và cha nó đã"
+489,linhtran92/viet_youtube_asr_corpus_v2,,1.7558125,1.1575180909130722,0.6592492597661038,đấy là người mình rất là muốn gặp và,Đấy là người mình rất là muốn gặp và
+490,linhtran92/viet_youtube_asr_corpus_v2,,3.5818125,1.1978408538270742,0.33442310389700025,các anh làm ở đâu cho em làm với em đi,Các anh làm ở đâu cho em làm với? Em đi
+491,linhtran92/viet_youtube_asr_corpus_v2,,1.796125,1.5004287471529096,0.8353698919356446,khi mở đầu cuộc nói chuyện,khi mở đầu cuộc nói chuyện
+492,linhtran92/viet_youtube_asr_corpus_v2,,2.5421875,1.0665116088930517,0.41952515654059813,tối nhưng có những hôm chở khách xa về,nhưng có những hôm chở khách xa về
+493,linhtran92/viet_youtube_asr_corpus_v2,,3.0413125,1.173014328815043,0.3856934559717369,thấy nhà vắng lặng chỉ có mỗi mình tôi,"Thấy nhà vắng lặng, chỉ có mỗi mình tôi"
+494,linhtran92/viet_youtube_asr_corpus_v2,,2.7013125,1.0614308479707688,0.39293152790385005,mát dịu của buổi hoàng hôn mà ông thèm,mát dịu của buổi hoàng hôn bỗng thèm
+495,linhtran92/viet_youtube_asr_corpus_v2,,2.121,1.0124333170242608,0.4773377260840456,chơi nhưng hoàn cảnh bắt buộc cô phải,tôi nhưng hoàn cảnh bắt buộc cô phải
+496,linhtran92/viet_youtube_asr_corpus_v2,,3.141125,1.1284331339411438,0.35924489918139,học cùng lớp của tôi thúy ở cùng quê hà,học cùng lớp của tôi. Thúy ở cùng quê
+497,linhtran92/viet_youtube_asr_corpus_v2,,1.4930625,0.970205755205825,0.6498092043741136,tìm đến cái chết mà thôi,Tìm đến cái chết mà thôi.
+498,linhtran92/viet_youtube_asr_corpus_v2,,2.3815,1.0262768871616572,0.4309371770571729,thế thì đại tá cũng nhận được cái điều,Thế thì đại tá cũng nhận được cái điều
+499,linhtran92/viet_youtube_asr_corpus_v2,,1.2335,0.7987240240909159,0.647526569996689,chính không được dạy ở trường,chín không được dạy ở trường.
+500,linhtran92/viet_youtube_asr_corpus_v2,,2.74,1.0515537410974503,0.38377873762680664,chỉ có bạn mới có quyền chịu trách nhiệm,Chỉ có bạn mới có quyền chịu trách nhiệm.
+501,linhtran92/viet_youtube_asr_corpus_v2,,1.9414375,0.9177320939488709,0.4727075138647888,ánh sáng trắng bệch xuyên giữa những,ánh sáng trắng bệch xuyên giữa những
+502,linhtran92/viet_youtube_asr_corpus_v2,,2.541375,0.9684586860239506,0.3810766557568051,khi bạn nghiêm túc nhìn nhận những đặc,Khi bạn nghiêm túc nhìn nhận những đặc
+503,linhtran92/viet_youtube_asr_corpus_v2,,2.859,0.9942980990745127,0.3477782787948628,liệu mình có làm cho các bạn thành công,Liệu mình có làm cho các bạn thành công
+504,linhtran92/viet_youtube_asr_corpus_v2,,3.0429375,3.284150541992858,1.0792697983421802,của mày đó bà cho mày nhưng bà hỏi mày,"của mày đó, bà cho mày nhưng bà hỏi mày"
+505,linhtran92/viet_youtube_asr_corpus_v2,,2.1008125,0.9373813630081713,0.44619944093448194,theo kết quả kiểm tra cái thai chết lưu,"Theo kết quả kiểm tra, cái chất lưu"
+506,linhtran92/viet_youtube_asr_corpus_v2,,2.1604375,1.0430545171257108,0.48279782086994455,đó ông còn trẻ và việc trò chuyện với,Đó ông còn trẻ và việc trò chuyện với
+507,linhtran92/viet_youtube_asr_corpus_v2,,2.4816875,1.001851410837844,0.4036976496185938,như vậy rồi đã đủ khốn khổ cứ để mình tư,"như vậy rồi đã đủ khốn khổ, cứ để mình tự"
+508,linhtran92/viet_youtube_asr_corpus_v2,,3.1823125,1.1671454878523946,0.36676017451221227,nó sẽ hiện ra và và em sẽ sử dụng được,Nó sẽ hiện ra và và em sẽ sử dụng được
+509,linhtran92/viet_youtube_asr_corpus_v2,,2.7205,1.0501609109342098,0.38601761107671745,ngoài ra xe cũng có khả năng kháng mìn,"Ngoài ra, xe cũng có khả năng kháng mìn"
+510,linhtran92/viet_youtube_asr_corpus_v2,,2.861125,1.0394298140890896,0.3632940937879644,không nghe thấy vậy nhưng mẹ chồng vẫn,"không nghe thấy, vậy nhưng mẹ chồng vẫn"
+511,linhtran92/viet_youtube_asr_corpus_v2,,1.720875,1.0009396800305694,0.5816457790545911,cơ sở kinh doanh của chúng ta là hàng ăn,Cơ sở kinh doanh của chúng ta là hàng ăn
+512,linhtran92/viet_youtube_asr_corpus_v2,,1.3135,0.9051699519623071,0.689128246640508,hướng dẫn cho em con bên đó nữa,hướng dẫn cho em con bên đó nữa.
+513,linhtran92/viet_youtube_asr_corpus_v2,,2.712875,0.9638659569900483,0.3552931694199137,vốn là phân trại quản lý cũ của chị,Vốn là phân trại quản lý cũ của chị
+514,linhtran92/viet_youtube_asr_corpus_v2,,2.360875,1.0313200000673532,0.4368380367733799,không ai chọn được nơi mình sinh ra,Không ai chọn được nơi mình sinh ra.
+515,linhtran92/viet_youtube_asr_corpus_v2,,2.34,1.0330826728604734,0.44148832173524505,tế và đặc biệt là vai trò của phụ nữ,tế và đặc biệt là vai trò của phụ nữ
+516,linhtran92/viet_youtube_asr_corpus_v2,,3.3615625,1.179121372057125,0.350765863213052,nội dung thứ hai cuộc đời ông là câu,"Nội dung thứ hai, cuộc đời ông là câu"
+517,linhtran92/viet_youtube_asr_corpus_v2,,3.0818125,1.036450020968914,0.3363118362875464,những gì sâu kín cô chỉ có thể tâm sự,"Những gì sâu kín, cô chỉ có thể tâm sự"
+518,linhtran92/viet_youtube_asr_corpus_v2,,3.4006875,1.164776026038453,0.34251192620270254,cúc nói chị để em em đãi mọi người mừng,"Cúc nói, ""Chị để em, em đãi mọi người mừng."""
+519,linhtran92/viet_youtube_asr_corpus_v2,,1.8604375,1.3469418149907142,0.7239919723133479,nếu bạn muốn nó đủ bạn sẽ tìm được cách,Nếu bạn muốn nó đủ bạn sẽ tìm được cách.
+520,linhtran92/viet_youtube_asr_corpus_v2,,2.3025625,0.9646117461379617,0.4189296690699869,cuộc đời em nhất định phải có anh và con,cuộc đời em nhất định phải có anh và con
+521,linhtran92/viet_youtube_asr_corpus_v2,,3.539,1.1864947411231697,0.3352627129480558,cháu tên là kiều loan à anh thầm nghĩ,Cháu tên là Kiều Loan ạ. Anh thầm nghĩ
+522,linhtran92/viet_youtube_asr_corpus_v2,,1.620125,0.876798020908609,0.5411915876297255,khách hàng cũng vậy thôi không có mình,"Khách hàng cũng vậy thôi, không có mình."
+523,linhtran92/viet_youtube_asr_corpus_v2,,2.660875,1.0385231389664114,0.39029384656040267,người có tính kỷ luật cao tôi có một,"người có tính kỷ luật cao, tôi có một"
+524,linhtran92/viet_youtube_asr_corpus_v2,,3.1015625,1.1558902959804982,0.372679994673813,dự đoán khoảng một tuần nữa đó mẹ không,dự đoán khoảng 1 tuần nữa đó mẹ.
+525,linhtran92/viet_youtube_asr_corpus_v2,,3.282,1.2110275710001588,0.36899072851924397,phải biến tấu để phù hợp với điều kiện,phải biến tấu để phù hợp với điều kiện.
+526,linhtran92/viet_youtube_asr_corpus_v2,,1.7815625,1.0209803930483758,0.5730814344421685,thấy anh nhắn nhủ hỏi thăm chỉ một lời,thấy anh nhắn nhủ hỏi thăm chỉ một lời
+527,linhtran92/viet_youtube_asr_corpus_v2,,3.0203125,1.050248181913048,0.34772831682584104,con vợ tôi đang bầu bí bé bí ngô nữa mà,"Vợ tôi đang bầu bí, bé bí ngô nữa mà."
+528,linhtran92/viet_youtube_asr_corpus_v2,,1.2365,0.9446432888507843,0.7639654580273225,người không thể duy trì sức khỏe,người không thể duy trì sức khỏe
+529,linhtran92/viet_youtube_asr_corpus_v2,,2.7015625,0.9682877571322024,0.35841767759665094,chữa lành được thế giới ở tất cả mọi,chữa lành được thế giới ở tất cả mọi
+530,linhtran92/viet_youtube_asr_corpus_v2,,3.3011875,1.1611140400636941,0.3517261712834227,cái áo thật vừa cháu gái của chị sinh,"Cái áo thật vừa, cháu gái của chị sinh"
+531,linhtran92/viet_youtube_asr_corpus_v2,,3.5218125,1.0911298771388829,0.30982054755580624,chào em thật tiếc vì em đã có một chuyện,"Chào em, thật tiếc vì em đã có một chuyện"
+532,linhtran92/viet_youtube_asr_corpus_v2,,2.518875,1.06867446587421,0.42426657371811227,cứ trông chờ vào những may mắn tiếp theo,cứ trông chờ vào những may mắn tiếp theo
+533,linhtran92/viet_youtube_asr_corpus_v2,,2.380875,0.9682089069392532,0.4066609573956017,lại vui nhất định sẽ tăng vài chuyến xe,vui nhất định sẽ tăng vài chuyến xe
+534,linhtran92/viet_youtube_asr_corpus_v2,,2.1751875,0.9989265820477158,0.4592370000506696,tôi kéo ông xã đi về,tôi kéo ông xã đi về
+535,linhtran92/viet_youtube_asr_corpus_v2,,2.501375,1.5663704730104655,0.6262037771267666,nếu mà cho cô ta nấu thì không biết đến,Nếu mà cho cô ta nấu thì không biết đến
+536,linhtran92/viet_youtube_asr_corpus_v2,,3.1618125,1.0719270119443536,0.3390229534307786,giúp được gì thì cũng đừng phá từ lúc,chúc được gì thì cũng đừng phá. Từ lúc
+537,linhtran92/viet_youtube_asr_corpus_v2,,3.261625,1.1191729579586536,0.34313354783540523,thế thế là bạn ấy trả lời là anh đọc,Thế thế là bạn ấy trả lời là anh đọc
+538,linhtran92/viet_youtube_asr_corpus_v2,,2.54075,1.0740934510249645,0.42274661065628827,nhất anh không nên biết từ miệng của hắn,nhất anh không nên biết từ miệng của hắn.
+539,linhtran92/viet_youtube_asr_corpus_v2,,2.5399375,0.9747273898683488,0.3837603838158808,hồi nhưng mắt thì nhìn như dán vào cổ,nhưng mắt thì nhìn như dán vào cổ.
+540,linhtran92/viet_youtube_asr_corpus_v2,,1.2525625,0.9061075770296156,0.7234030852988299,tổn thương đã gây ra cho em,tổn thương đã gây ra cho em
+541,linhtran92/viet_youtube_asr_corpus_v2,,2.76175,1.0353764740284532,0.3748986961268953,đây là nhật con trai của tôi mà có phải,"Đây là Nhật con trai của tôi mà, có phải là"
+542,linhtran92/viet_youtube_asr_corpus_v2,,2.3020625,1.0554355171043426,0.45847387597180467,hồi nãy bà cũng kịp chạy ra lúc con trai,Hồi nãy bà cũng kịp chạy ra lúc con trai
+543,linhtran92/viet_youtube_asr_corpus_v2,,2.501375,0.9823741561267525,0.39273365893828494,sau đó tôi cúi người cầm nó ném thẳng,Sau đó tôi cúi người cầm nó ném thẳng
+544,linhtran92/viet_youtube_asr_corpus_v2,,1.9206875,1.0337311779148877,0.5382089371201133,phong thủy cô không được phép tự ý di,phong thủy cũng không được phép tự ý di
+545,linhtran92/viet_youtube_asr_corpus_v2,,2.69725,0.9196805770043284,0.34096971990150277,tiếp tục đi học hoàn thành được,tiếp tục đi học hoàn thành được
+546,linhtran92/viet_youtube_asr_corpus_v2,,2.9215,0.9524359020870179,0.3260092083132014,và bây giờ xung đột về mặt sắc tộc đó là,Và bây giờ xung đột về mặt sắc tộc đó là
+547,linhtran92/viet_youtube_asr_corpus_v2,,2.341625,1.05837263003923,0.4519821192715443,trình độ của công dân vào thời điểm đó,trình độ của công dân vào thời điểm đó
+548,linhtran92/viet_youtube_asr_corpus_v2,,2.821375,1.0327509890776128,0.3660452754694476,cảm ơn các bạn chúc các bạn có những,"Cảm ơn các bạn, chúc các bạn có"
+549,linhtran92/viet_youtube_asr_corpus_v2,,3.1418125,1.1482179230079055,0.36546354150921023,khi biết cô mang thai tình đưa địa chỉ,"Khi biết cô mang thai, Tần đưa địa chỉ"
+550,linhtran92/viet_youtube_asr_corpus_v2,,3.0013125,0.970240905880928,0.3232722037045219,thôi khiêm tắm xong là tự nhiên nằm trên,"thôi, khiêm tắm xong là tự nhiên nằm trên"
+551,linhtran92/viet_youtube_asr_corpus_v2,,1.6804375,0.9776042860466987,0.5817558142130836,sao nếu mà các bạn chiên cơm các bạn cho,sao? Nếu mà các bạn chiên cơm các bạn cho
+552,linhtran92/viet_youtube_asr_corpus_v2,,2.6415625,1.1039297028910369,0.4179078491957078,cái thứ hai em hay hỏi là người ta làm,"Cái thứ hai, em hay hỏi là người ta làm"
+553,linhtran92/viet_youtube_asr_corpus_v2,,1.5594375,0.9888049741275609,0.6340779762751382,nhiều thời gian gần rất là nhiều bao,nhiều thời gian cần rất là nhiều bao
+554,linhtran92/viet_youtube_asr_corpus_v2,,4.1008125,1.1969429701566696,0.2918794678266001,tôi nói đúng vậy em có cách này anh chị,"Tôi nói đúng vậy, em có cách này anh chị"
+555,linhtran92/viet_youtube_asr_corpus_v2,,1.9610625,0.999393915059045,0.5096185945420123,trên bề mặt đáy biển trung quốc hiện,trên bề mặt đáy biển Trung Quốc hiện
+556,linhtran92/viet_youtube_asr_corpus_v2,,1.802125,0.9545427460689098,0.5296762133974667,bài học những kiến thức những thứ mà anh,Học những kiến thức những thứ mà anh
+557,linhtran92/viet_youtube_asr_corpus_v2,,1.83325,1.2146743049379438,0.6625797381360664,không thể sống thiếu anh phái rồi,không thể sống thiếu anh phái rồi.
+558,linhtran92/viet_youtube_asr_corpus_v2,,2.0816875,1.5696379048749804,0.7540218716185693,dẫn xuất mà có tính năng chống lão hóa,chất xuất mà có tính năng chống lão hóa
+559,linhtran92/viet_youtube_asr_corpus_v2,,1.6810625,0.9239284698851407,0.5496098270499405,hoặc là anh chị đang thấy có những cái,hoặc là anh chị đang thấy có những cái
+560,linhtran92/viet_youtube_asr_corpus_v2,,2.2415625,0.9778077558148652,0.4362170387017383,bắt đầu sốt ruột tên dở hơi này không,"bắt đầu sốt ruột, tên dở hơi này không"
+561,linhtran92/viet_youtube_asr_corpus_v2,,3.0416875,1.0399972619488835,0.34191456615739896,dù bạn có nghèo khổ nó vẫn không bỏ bạn,"Dù bạn có nghèo khổ, nó vẫn không bỏ bạn."
+562,linhtran92/viet_youtube_asr_corpus_v2,,2.6415625,1.005330448038876,0.38058173828515357,vợ cháu ốm không đủ tiền thuốc thang nên,Vợ cháu ốm không đủ tiền thuốc thang nên
+563,linhtran92/viet_youtube_asr_corpus_v2,,3.0614375,1.1377160849515349,0.37162806196485637,anh đang chất vấn tôi sao trước khi hỏi,Anh đang chất vấn tôi sao? Trước khi hỏi
+564,linhtran92/viet_youtube_asr_corpus_v2,,2.9215,0.9586303220130503,0.3281294958114155,trong tâm hồn bao lớp người đặc biệt là,"trong tâm hồn bao lớp người, đặc biệt là"
+565,linhtran92/viet_youtube_asr_corpus_v2,,3.0014375,0.9521631118841469,0.31723569519077005,và cả nụ cười của mẹ nó trên khuôn mặt,Và cả nụ cười của mẹ nó trên khuôn mặt
+566,linhtran92/viet_youtube_asr_corpus_v2,,2.320375,1.6618391941301525,0.7161942333158013,gặp gỡ nhắn tin không còn như trước bạn,gặp gỡ nhắn tin không còn như trước.
+567,linhtran92/viet_youtube_asr_corpus_v2,,3.0613125,1.1506307490635663,0.37586190533098673,xuất xứ rất cảm động các đồng chí nhớ,rất cảm động. Các đồng chí nhớ
+568,linhtran92/viet_youtube_asr_corpus_v2,,3.420625,1.0933864219114184,0.3196452174416718,chồng tôi từ lúc mẹ mất thì như biến,Chồng tôi từ lúc mẹ mất thì như biến
+569,linhtran92/viet_youtube_asr_corpus_v2,,2.940375,1.149265281157568,0.39085670404542555,không nổi nữa muốn bỏ cuộc thì nó được,"không nổi nữa, muốn bỏ cuộc thì nó được"
+570,linhtran92/viet_youtube_asr_corpus_v2,,2.4610625,0.9998211718630046,0.40625590445712145,không ít người đã phải gục ngã trước cám,Không ít người đã phải gục ngã trước cám
+571,linhtran92/viet_youtube_asr_corpus_v2,,1.621,1.043418292189017,0.6436880272603436,khác từng bệnh viện không thể đàm phán,từng bệnh viện không thể đàm phán
+572,linhtran92/viet_youtube_asr_corpus_v2,,2.4806875,1.0161029889713973,0.40960539728256673,của chúng chứ không phản ánh thực tế đời,của chúng chứ không phản ánh thực tế đời
+573,linhtran92/viet_youtube_asr_corpus_v2,,2.7608125,1.520925161195919,0.5508976655227107,bước đường cùng bằng thứ luật pháp đầy,bước đường cùng bằng thứ luật pháp đầy
+574,linhtran92/viet_youtube_asr_corpus_v2,,2.401625,0.9464641939848661,0.3940932468578009,có thể người vợ trong câu chuyện đó,Có thể người vợ trong câu chuyện đó
+575,linhtran92/viet_youtube_asr_corpus_v2,,1.6608125,1.519121415913105,0.9146856830094336,cũng chính thức ký hợp đồng đầu quân cho,cũng chính thức ký hợp đồng đầu quân cho
+576,linhtran92/viet_youtube_asr_corpus_v2,,1.98,0.9266779830213636,0.46801918334412307,nhau để hiểu được nhau trong cuộc sống,để hiểu được nhau trong cuộc sống
+577,linhtran92/viet_youtube_asr_corpus_v2,,3.161625,1.1494287780951709,0.3635563288167227,đời khốn khó của đồng loại dòng máu nóng,"đời khốn khó của đồng loại, dòng máu nóng"
+578,linhtran92/viet_youtube_asr_corpus_v2,,2.42025,1.0204333290457726,0.42162310878866754,nói tôi tưởng tôi với cô chẳng nên nhìn,"nói, ""Tôi tưởng tôi với cô chẳng nên nhìn."""
+579,linhtran92/viet_youtube_asr_corpus_v2,,2.84175,1.0108401200268418,0.35571043196158764,lại qua đêm chuyện quan trọng mà cậu nói,"lại qua đêm, chuyện quan trọng mà cậu nói"
+580,linhtran92/viet_youtube_asr_corpus_v2,,1.9203125,1.071152013959363,0.5578008860325405,của người chiến thắng với vận động viên,của người chiến thắng với vận động viên
+581,linhtran92/viet_youtube_asr_corpus_v2,,2.3405,1.025030295131728,0.4379535548522658,qua nỗi đau quá khứ để mở lòng đến với,qua nỗi đau quá khứ để mở lòng đến với
+582,linhtran92/viet_youtube_asr_corpus_v2,,1.91925,1.0031925891526043,0.5227003199961466,những ông chủ đột nhiên gặp được cơ,những âm chủ đột nhiên gặp được cơ
+583,linhtran92/viet_youtube_asr_corpus_v2,,2.62,0.9742205219808966,0.3718398938858384,mẹ nghe thiên sơn kể lại chuyện của con,Mẹ nghe Thiên Sơn kể lại chuyện của con
+584,linhtran92/viet_youtube_asr_corpus_v2,,3.1228125,1.1933288390282542,0.3821327213940171,ôi con trai ngoan của mẹ mẹ cảm ơn con,"Ôi con trai ngoan của mẹ, mẹ cảm ơn con"
+585,linhtran92/viet_youtube_asr_corpus_v2,,1.7809375,1.0327369889710099,0.5798839032649994,tức là mảnh đất này là mảnh đất của đức,Tức là mảnh đất này là mảnh đất của Đức
+586,linhtran92/viet_youtube_asr_corpus_v2,,2.1200625,0.9381878129206598,0.44252837495152136,từ thời kỳ thực dân khi tấm bản đồ thế,từ thời kỳ thực dân khi tấm bản đồ
+587,linhtran92/viet_youtube_asr_corpus_v2,,1.5211875,0.8960655860137194,0.5890566324096927,tham gia một chương trình khuyến mại,tham gia một chương trình khuyến mãi
+588,linhtran92/viet_youtube_asr_corpus_v2,,2.32,1.013437574962154,0.436826540931963,trong văn hóa dân gian của người dân,Trong văn hóa dân gian của người dân
+589,linhtran92/viet_youtube_asr_corpus_v2,,2.861125,1.5078876519110054,0.5270261354925092,mình hai mươi mấy rồi từ không chỉ là bề,mình hai mươi mấy rồi từ không chỉ là bề
+590,linhtran92/viet_youtube_asr_corpus_v2,,3.6009375,1.1076378710567951,0.30759708299763466,đúng là họa vô đơn chí thiện bị chảy máu,"Đúng là họa vô đơn chí, tiện bị chảy máu"
+591,linhtran92/viet_youtube_asr_corpus_v2,,2.0216875,1.1001650199759752,0.5441815413984481,không có ai làm chứng được tôi cũng tin,"Không có ai làm sướng được, tôi cũng tin"
+592,linhtran92/viet_youtube_asr_corpus_v2,,2.3613125,0.9639768179040402,0.40823771436607403,có rất nhiều việc trong công việc kinh,Có rất nhiều việc trong công việc kinh
+593,linhtran92/viet_youtube_asr_corpus_v2,,2.101375,1.0431044078432024,0.4963913665305823,đội tuyển mạnh cảm ơn các bạn vì đã quan,đội tuyển mạnh. Cảm ơn các bạn vì đã quan
+594,linhtran92/viet_youtube_asr_corpus_v2,,2.760625,1.044866545125842,0.3784891266020709,cột nhà bên cạnh anh ta là hai đứa trẻ,"cột nhà, bên cạnh anh ta là hai đứa trẻ"
+595,linhtran92/viet_youtube_asr_corpus_v2,,3.201,1.1728599299676716,0.36640422679402423,tình dục mà có vấn đề thì chắc chắn đó,Tình dục mà có vấn đề thì chắc chắn đó
+596,linhtran92/viet_youtube_asr_corpus_v2,,4.4416875,1.1764168499503285,0.2648580860203084,hồn của em cho nên là sau ngần ấy năm,của em cho nên là sau ngần ấy năm
+597,linhtran92/viet_youtube_asr_corpus_v2,,2.2410625,0.9937895531766117,0.44344571076291345,lúc căng thẳng cần suy nghĩ ông thường,"căng thẳng còn suy nghĩ, ông thường"
+598,linhtran92/viet_youtube_asr_corpus_v2,,3.4814375,1.1098652828950435,0.31879511922734316,lao động bình thường ở trong các cái,lao động bình thường ở trong các cái
+599,linhtran92/viet_youtube_asr_corpus_v2,,2.6811875,0.9776939849834889,0.36464961327154066,tôi không hiểu tại sao cậu ấy lại đi,Tôi không hiểu tại sao cậu ấy lại đi
+600,linhtran92/viet_youtube_asr_corpus_v2,,2.34,0.9589683681260794,0.409815541934222,giữ được nước từ nguồn cơn đó người,giữ được nước từ nguồn cơn đó
+601,linhtran92/viet_youtube_asr_corpus_v2,,2.2021875,0.9976760528516024,0.45303865036542185,đứng chặn cổng nên nán lại xem có việc,chặn cổng nên nán lại xem có việc
+602,linhtran92/viet_youtube_asr_corpus_v2,,3.0616875,1.162180612096563,0.379588253894809,chúng đều thèm khát được sự quan tâm và,Chúng đều thèm khát được sự quan tâm và
+603,linhtran92/viet_youtube_asr_corpus_v2,,4.72175,1.3248893530108035,0.280592863453339,thời mới để cao tiếng mẹ đẻ học sinh phổ,thời mới đề cao tiếng mẹ đẻ học sinh phổ
+604,linhtran92/viet_youtube_asr_corpus_v2,,2.4211875,1.0555247501470149,0.4359533287475732,mẹ ở trên nhà chồng chị mẹ làm đủ công,"Mẹ ở trên nhà chồng chị, mẹ làm đủ công"
+605,linhtran92/viet_youtube_asr_corpus_v2,,2.3578125,1.2193507731426507,0.5171534094176915,lại chuyện cũ bèn cắt ngang bằng câu nói,chuyện cũ bèn cắt ngang bằng câu nói
+606,linhtran92/viet_youtube_asr_corpus_v2,,3.7409375,1.0735014081001282,0.2869605301077947,không dám vâng đôi khi trong tình yêu,"Không dám, vâng, đôi khi trong tình yêu"
+607,linhtran92/viet_youtube_asr_corpus_v2,,2.1215625,0.8614054420031607,0.4060240704684216,tôi thì có khi đến chính bản thân tôi,tôi thì có khi đến chính bản thân tôi
+608,linhtran92/viet_youtube_asr_corpus_v2,,2.1411875,1.1652977478224784,0.5442296612615563,nhiều thay đổi quá không có người đàn,"Nhiều thay đổi quá, không có người đàn"
+609,linhtran92/viet_youtube_asr_corpus_v2,,2.6628125,1.0522462981753051,0.3951634965568568,quan chức chính quyền được bổ nhiệm theo,quan chức chính quyền được bổ nhiệm theo
+610,linhtran92/viet_youtube_asr_corpus_v2,,2.2209375,0.9018479459919035,0.40606633279500376,như thế hiên ngang như thế và đẹp trai,"như thế, hiên ngang như thế và đẹp trai"
+611,linhtran92/viet_youtube_asr_corpus_v2,,2.680125,1.1390536969993263,0.42500021342263006,sưng to trên phần đầu của ai đó tôi cần,"sưng to trên phần đầu của ai đó, tôi cần"
+612,linhtran92/viet_youtube_asr_corpus_v2,,2.5028125,0.8757690011989325,0.34991394728887304,diệp dù không thích nhưng cũng không,Diệp dù không thích nhưng cũng không
+613,linhtran92/viet_youtube_asr_corpus_v2,,2.32175,1.0296259119641036,0.44346975857181153,công việc ở bệnh viện của mình ông đã đi,"công việc ở bệnh viện của mình, ông đã đi"
+614,linhtran92/viet_youtube_asr_corpus_v2,,1.7401875,1.043247293913737,0.5995028086994861,động cơ hơi nước ba buồng bành trướng,động cơ hơi nước ba buồng bành trướng
+615,linhtran92/viet_youtube_asr_corpus_v2,,2.7415,0.9860695069655776,0.3596824756394593,như vậy tôi vội vàng thu cánh tay về rồi,như vậy. Tôi vội vàng thu cánh tay về rồi
+616,linhtran92/viet_youtube_asr_corpus_v2,,3.4416875,1.129732881905511,0.32824969783151753,vậy là tự nhiên vợ chồng nam trở thành,Vậy là tự nhiên vợ chồng Nam trở thành
+617,linhtran92/viet_youtube_asr_corpus_v2,,3.302375,1.3685919779818505,0.4144265802587079,đời trôi dạt vào nhau núm níu nhau vượt,"đời trôi dạt vào nhau, núm níu nhau vượt"
+618,linhtran92/viet_youtube_asr_corpus_v2,,3.06,1.1950737440492958,0.3905469751795084,và mình hy vọng là theo thời gian thì,Và mình hy vọng là theo thời gian thì
+619,linhtran92/viet_youtube_asr_corpus_v2,,2.8605625,1.0041568919550627,0.35103476744698386,cho anh tâm vẫn thưa quý vị như vậy là,cho anh Tâm. Vâng thưa quý vị như vậy là
+620,linhtran92/viet_youtube_asr_corpus_v2,,2.561875,0.9293292250949889,0.3627535399248554,vì ông không thích tuấn nên giờ ông thấy,vì ông không thích Tuấn nên giờ ông thấy
+621,linhtran92/viet_youtube_asr_corpus_v2,,2.4754375,0.917785142082721,0.3707567418214845,cậu cậu có gặp chắc nữa không,cậu cậu có gặp Jack nữa không?
+622,linhtran92/viet_youtube_asr_corpus_v2,,3.240875,1.3194223260506988,0.40711916567306633,vợ tôi trước giờ yếu đuối quen rồi lại,"Vợ tôi trước giờ yếu đuối quen rồi, lại"
+623,linhtran92/viet_youtube_asr_corpus_v2,,1.5414375,0.9213569927960634,0.5977258194354708,thể đăng nhập tài khoản có sẵn hoặc đăng,đăng nhập tài khoản có sẵn hoặc đăng
+624,linhtran92/viet_youtube_asr_corpus_v2,,2.278625,1.4366870599333197,0.6305061429297579,chắc thằng bé bị bạn bè trêu chọc rồi,Chắc thằng bé bị bạn bè trêu chọc rồi.
+625,linhtran92/viet_youtube_asr_corpus_v2,,2.26125,0.9420206970535219,0.41659290085285655,vậy mà diệu linh lại đối xử với cô út,Vậy mà Diệu Linh lại đối xử với cô út
+626,linhtran92/viet_youtube_asr_corpus_v2,,2.32175,0.9745332431048155,0.4197408175319545,anh chỉ vào ngực nó một tay chỉ vào ngực,"Anh chỉ vào ngực nó, một tay chỉ vào ngực"
+627,linhtran92/viet_youtube_asr_corpus_v2,,2.711125,1.0353747641202062,0.3818985713016575,cảm ơn thầy rất là nhiều và cũng phải,Cảm ơn thầy rất là nhiều. Và cũng phải
+628,linhtran92/viet_youtube_asr_corpus_v2,,2.52125,1.1235009550582618,0.44561267429182416,nếu đi theo anh ta mình sẽ được gặp vợ,"Nếu đi theo anh ta, mình sẽ được gặp vợ"
+629,linhtran92/viet_youtube_asr_corpus_v2,,2.281,1.0619916191790253,0.4655815954314008,trong ngôi nhà lầu mà cả những người,trong ngôi nhà lầu mà cả những người
+630,linhtran92/viet_youtube_asr_corpus_v2,,3.88175,1.1905922580044717,0.30671533664055434,việc chào cậu mới về à vâng cô thấy mẹ,"chào, ""Cậu mới về à?"" ""Vâng, cô thấy mẹ"
+631,linhtran92/viet_youtube_asr_corpus_v2,,3.181375,1.2110872119665146,0.3806804328211904,ván và tiền công đóng cái quách tiền mấy,"ván và tiền công đóng cái quách, tiền mấy"
+632,linhtran92/viet_youtube_asr_corpus_v2,,1.8814375,0.9067517030052841,0.4819462262261085,ngon lành nhất của cái hệ sinh thái,ngon lành nhất của cái hệ sinh thái
+633,linhtran92/viet_youtube_asr_corpus_v2,,2.4803125,1.0292990799061954,0.4149876597832714,những tín đồ giáo hoàng thực hiện một số,những tín đồ. Giáo hoàng thực hiện một số
+634,linhtran92/viet_youtube_asr_corpus_v2,,2.3414375,0.9761565278749913,0.4169047979606508,nhỏ của mình nhưng phải thoát ra được,nhỏ của mình nhưng phải thoát ra được
+635,linhtran92/viet_youtube_asr_corpus_v2,,1.9606875,0.9628599670249969,0.4910828303974993,kiến thức quân sự dựa trên cơ sở những,kiến thức quân sự dựa trên cơ sở những
+636,linhtran92/viet_youtube_asr_corpus_v2,,1.9760625,1.043721605092287,0.5281824866836383,nhà đẹp quá bác đỗ ạ,"Nhà đẹp quá, bác Đỗ ạ."
+637,linhtran92/viet_youtube_asr_corpus_v2,,2.4615,0.9802009349223226,0.3982128518880043,mua nó ở hội chợ mai đan trong một ngày,mua nó ở hội chợ Mai Đan trong một ngày
+638,linhtran92/viet_youtube_asr_corpus_v2,,2.641125,0.9980574292130768,0.3778910234135366,là khi mà di chuyển một cái lượng dân cư,là khi mà di chuyển một cái lượng dân cư
+639,linhtran92/viet_youtube_asr_corpus_v2,,3.381625,1.1892000020015985,0.3516652502869474,vậy chúng ta có thể làm cho ai đó hạnh,Vậy chúng ta có thể làm cho ai đó hạnh
+640,linhtran92/viet_youtube_asr_corpus_v2,,2.641125,1.0211051020305604,0.38661748384895084,muốn kiểm tra kiến thức tài chính và,muốn kiểm tra kiến thức tài chính và
+641,linhtran92/viet_youtube_asr_corpus_v2,,2.242,0.9600343101192266,0.4282044202137496,mục đích của con và mẹ cũng không đạt,Mục đích của con và mẹ cũng không đạt
+642,linhtran92/viet_youtube_asr_corpus_v2,,1.6936875,0.9608096960000694,0.5672886503561426,đang chạy dọc cơ thể bạn,đang chạy dọc cơ thể bạn
+643,linhtran92/viet_youtube_asr_corpus_v2,,2.1023125,1.0566249068360776,0.5026012578225537,quá thảo ơi chúng mình lại có thể bên,"quá Thảo ơi, chúng mình lại có thể bên"
+644,linhtran92/viet_youtube_asr_corpus_v2,,2.26125,0.9220146029256284,0.4077455402656179,những gì cô làm gần đây anh không hề hay,"gì cô làm gần đây, anh không hề hay"
+645,linhtran92/viet_youtube_asr_corpus_v2,,2.1204375,0.9289188471157104,0.43807886208186303,được câu trả lời đúng vì một lý luận sai,có được câu trả lời đúng vì một lý luận sai.
+646,linhtran92/viet_youtube_asr_corpus_v2,,1.697875,1.2734706269111484,0.7500379161664719,tôi thì đừng hòng tôi liếc mắt một cái,thôi thì đừng hòng tôi liếc mắt một cái.
+647,linhtran92/viet_youtube_asr_corpus_v2,,1.6810625,1.0221210129093379,0.6080208278450908,chồng hay khinh không thèm nói gì với,hay khinh không thèm nói gì với
+648,linhtran92/viet_youtube_asr_corpus_v2,,3.522625,1.0539276599884033,0.29918815087850775,bên nhau và về cả nỗi đau mà vợ mang lại,bên nhau và về cả nỗi đau mà vợ mang lại
+649,linhtran92/viet_youtube_asr_corpus_v2,,2.821375,1.0650995140895247,0.37751079317337277,cho cháu theo cô được không ạ cháu sợ,Cho cháu theo cô được không ạ? Cháu sợ
+650,linhtran92/viet_youtube_asr_corpus_v2,,2.361625,0.9999913210049272,0.4234335768824124,ngày nào hai người này cũng đều cãi nhau,ngày nào hai người này cũng đều cãi nhau.
+651,linhtran92/viet_youtube_asr_corpus_v2,,3.02275,1.0771450439933687,0.35634605706504635,ca nhạc thường thấy họ những con người,ta nhạc thường thấy họ những con người
+652,linhtran92/viet_youtube_asr_corpus_v2,,1.640625,1.0434776940383017,0.6360244992233458,nhìn toàn cảnh trở thành người ngoài,nhìn toàn cảnh trở thành người ngoài
+653,linhtran92/viet_youtube_asr_corpus_v2,,1.895875,0.9457431030459702,0.49884254133103195,đường về quê ngoại còn quá xa vời,đường về quê ngoại còn quá xa vời.
+654,linhtran92/viet_youtube_asr_corpus_v2,,2.8615,1.0988336820155382,0.3840061792820333,bởi vì mình không muốn đi rất là muốn đi,"Bởi vì mình không muốn đi, rất là muốn đi."
+655,linhtran92/viet_youtube_asr_corpus_v2,,2.641125,1.0097544179297984,0.3823198136891659,thấy mở cả gọi thì liền bật dậy chị hà,thấy mở cả gọi thì liền bật dậy. Chị Hà
+656,linhtran92/viet_youtube_asr_corpus_v2,,2.681875,1.0409654818940908,0.3881483968843033,càng tốt lên hoa càng ngày càng đẹp hơn,"tốt lên, hoa càng ngày càng đẹp hơn."
+657,linhtran92/viet_youtube_asr_corpus_v2,,3.5615625,1.16420281608589,0.32687979393479405,nuôi dạy trẻ tự kỷ thì mới yên cái gì,nuôi dạy trẻ tự kỷ thì mới yên. Cái gì
+658,linhtran92/viet_youtube_asr_corpus_v2,,2.341125,1.1363916180562228,0.4854040762694102,bầu không khí trong gian nhà trước lúc,bầu không khí trong gian nhà trước lúc
+659,linhtran92/viet_youtube_asr_corpus_v2,,2.781375,1.129647761117667,0.40614723333519104,lúc đó tôi cứ tưởng chị gái tôi và anh,Lúc đó tôi cứ tưởng chị gái tôi và anh
+660,linhtran92/viet_youtube_asr_corpus_v2,,1.8611875,1.0579828040208668,0.5684450406102914,minh nó rất là nhiều về những cái điều,minh nói rất là nhiều về những cái điều
+661,linhtran92/viet_youtube_asr_corpus_v2,,1.6008125,0.9089086682070047,0.5677795920552874,tuổi nào trên cộng đồng cũng như là chưa,tỷ lệ trên cộng đồng cũng như là trên
+662,linhtran92/viet_youtube_asr_corpus_v2,,2.26,1.1603404409252107,0.5134249738607127,nhưng chị lại thích có người yêu ít tuổi,Nhưng chị lại thích có người yêu ít tuổi
+663,linhtran92/viet_youtube_asr_corpus_v2,,2.8006875,1.2905473220162094,0.460796615836722,chưa cứ để chắc bạn trong trường biết,"Chưa, cứ để các bạn trong trường biết"
+664,linhtran92/viet_youtube_asr_corpus_v2,,2.1411875,1.0137456289958209,0.4734501901378655,hàng hóa của nước mỹ lại do tàu nước,hàng hóa của nước Mỹ lại do tàu nước
+665,linhtran92/viet_youtube_asr_corpus_v2,,2.861625,1.0465948120690882,0.36573443832406,sau ngày cưới cuộc đời của thằng bành đã,"Sau ngày cưới, cuộc đời của thằng Bành đã"
+666,linhtran92/viet_youtube_asr_corpus_v2,,2.6613125,1.1939768469892442,0.4486421068511286,chuyện phiền lòng lắm chia sẻ với em,"chuyện phiền lòng lắm, chia sẻ với em"
+667,linhtran92/viet_youtube_asr_corpus_v2,,2.7210625,1.1089821530040354,0.4075548257359158,ai trong các bạn đã phải chịu đựng sự ác,Ai trong các bạn đã phải chịu đựng sự ác
+668,linhtran92/viet_youtube_asr_corpus_v2,,2.5801875,1.0202437210828066,0.3954145662215659,vô tâm quá không biết mẹ đã hy sinh vì,"Vô tâm quá, không biết mẹ đã hy sinh vì"
+669,linhtran92/viet_youtube_asr_corpus_v2,,2.16,1.0741761678364128,0.4973037814057466,đã bị vấy bẩn tôi còn xứng đáng với,"đã bị vấy bẩn, tôi còn xứng đáng với"
+670,linhtran92/viet_youtube_asr_corpus_v2,,1.420125,0.8745933689642698,0.6158566104844783,hoặc là cái hướng phản đối chẳng hạn,hoặc là cái hướng phản đối chẳng hạn.
+671,linhtran92/viet_youtube_asr_corpus_v2,,2.421625,1.064093157183379,0.4394128559060048,anh huy thuê người bảo vệ tôi đã nói,"Anh Huy thuê người bảo vệ, tôi đã nói"
+672,linhtran92/viet_youtube_asr_corpus_v2,,2.8223125,1.0024496708065271,0.35518734045451283,tới chiều tôi tới đón con về trên đường,Tới chiều tôi tới đón con về trên đường
+673,linhtran92/viet_youtube_asr_corpus_v2,,2.021125,0.9755016248673201,0.4826527923148346,của chúng ta về thần thánh đã thu hút,của chúng ta về thần thánh đã thu hút
+674,linhtran92/viet_youtube_asr_corpus_v2,,2.52,1.007808713009581,0.3999240924641194,không tin cái chuyện trên đời này người,không tin cái chuyện trên đời này người
+675,linhtran92/viet_youtube_asr_corpus_v2,,1.5205,1.2630023329984397,0.8306493475820057,trong cái quá trình mà chúng ta đi làm ý,trong cái quá trình mà chúng ta đi làm ý
+676,linhtran92/viet_youtube_asr_corpus_v2,,2.194375,1.0505035740789026,0.4787256389992151,thấy như bụng lớn từng ngày,thấy như bụng lớn từng ngày
+677,linhtran92/viet_youtube_asr_corpus_v2,,3.982,1.2325501418672502,0.30953042236746614,chỗ tôi đang quỳ mà nói đứng lên đi tôi,"tôi đang quỳ mà nói, ""Đứng lên đi."""
+678,linhtran92/viet_youtube_asr_corpus_v2,,2.722875,0.99495684588328,0.3654067285069201,nhất thiết không được quay lưng lại pháp,Nhất thiết không được quay lưng lại pháp
+679,linhtran92/viet_youtube_asr_corpus_v2,,1.56,1.0215640801470727,0.6548487693250465,họ có những cái chính sách ngay bây giờ,Họ có những cái chính sách ngay bây giờ
+680,linhtran92/viet_youtube_asr_corpus_v2,,2.101,0.9522674910258502,0.4532448791174918,với mình nhưng nếu có một người nào đó,mình nhưng nếu có một người nào đó
+681,linhtran92/viet_youtube_asr_corpus_v2,,2.2425625,1.0490822631400079,0.46780513949555824,lại cả hai ánh mắt chỉ chứa một khoảng,lại cả hai ánh mắt chỉ chứa một khoảng
+682,linhtran92/viet_youtube_asr_corpus_v2,,2.621875,1.0391570490319282,0.39634118675830393,ngày đêm vẫn âm âm chút xuống cánh rừng,ngày đêm vẫn âm ầm trút xuống cánh rừng
+683,linhtran92/viet_youtube_asr_corpus_v2,,1.496375,1.3514458721037954,0.9031465188230192,anh chẳng hỏi han thêm nữa,Anh chàng hỏi han thêm nữa.
+684,linhtran92/viet_youtube_asr_corpus_v2,,1.86,1.0585127139929682,0.5690928569854667,mình mà vẫn cố gắng vượt qua khó khăn,mình mà vẫn cố gắng vượt qua khó khăn
+685,linhtran92/viet_youtube_asr_corpus_v2,,1.9941875,0.9522871398366988,0.4775313955366277,sao cho có vị mặn ngọt vừa ăn,Sao cho có vị mặn ngọt vừa ăn?
+686,linhtran92/viet_youtube_asr_corpus_v2,,2.819,1.0278713239822537,0.36462267611999066,gia đình đến pháp trong một khoảnh khắc,gia đình đến Pháp trong một khoảnh khắc
+687,linhtran92/viet_youtube_asr_corpus_v2,,2.7406875,1.035040827933699,0.37765736806319544,thân mật thôi hai ông cháu nhớ đến dự,"thần mật thôi, hai ông cháu nhớ đến"
+688,linhtran92/viet_youtube_asr_corpus_v2,,2.1810625,1.104870427167043,0.5065743999390403,nhưng lại bị suy khiêm cưỡng ép khoác,nhưng lại bị suy khiêm cưỡng ép khoác
+689,linhtran92/viet_youtube_asr_corpus_v2,,3.5626875,1.1733109059277922,0.32933309641325326,bỗng có tiếng phụ nữ la thất thanh không,Bỗng có tiếng phụ nữ la thất thanh.
+690,linhtran92/viet_youtube_asr_corpus_v2,,2.281625,0.9546432569622993,0.4184049775762009,dù còn một số nhược điểm so với các tổ,Dù có một số nhược điểm so với các tổ
+691,linhtran92/viet_youtube_asr_corpus_v2,,3.3406875,1.0800697200465947,0.32330761858048523,cuộc sống nó còn dài mình còn có nhiều,"Cuộc sống nó còn dài, mình còn có nhiều"
+692,linhtran92/viet_youtube_asr_corpus_v2,,3.281625,1.2366805910132825,0.3768500639205523,đi xe đạp bất kể ngày mưa hay ngày nắng,"đi xe đạp, bất kể ngày mưa hay ngày nắng"
+693,linhtran92/viet_youtube_asr_corpus_v2,,3.5808125,1.0906277999747545,0.30457551183558323,quy luật của vũ trụ khi mà chúng ta có,quy luật của vũ trụ khi mà chúng ta có
+694,linhtran92/viet_youtube_asr_corpus_v2,,3.4016875,1.1965131310280412,0.35174104941386924,sai lệch nên thay vì giải thoát nó lại,sai lệch nên thay vì giải thoát nó lại
+695,linhtran92/viet_youtube_asr_corpus_v2,,1.1318125,0.8054762550164014,0.7116693401216203,không để lại tung tích gì,không để lại tung tích gì.
+696,linhtran92/viet_youtube_asr_corpus_v2,,2.4415,1.1151772630400956,0.45675906739303523,nhìn quỳnh với tâm trạng vui vẻ thế này,Nhìn Quỳnh với tâm trạng vui vẻ thế này
+697,linhtran92/viet_youtube_asr_corpus_v2,,2.2410625,1.0435321109835058,0.4656416815610925,để xem tin tức nhưng lại không có bất kỳ,để xem tin tức nhưng lại không có bất kỳ
+698,linhtran92/viet_youtube_asr_corpus_v2,,3.2625625,1.7298085510265082,0.5301993604801466,thường là đứa con khá hơn thạch con,Thường là đứa con khá hơn thạch.
+699,linhtran92/viet_youtube_asr_corpus_v2,,2.0004375,0.9203967421781272,0.4600977247117829,rồi nhưng mà bây giờ chính bản thân họ,Nhưng mà bây giờ chính bản thân họ
+700,linhtran92/viet_youtube_asr_corpus_v2,,2.901375,1.0900582249742001,0.3757040110203611,mỏng với vợ vợ hay là em cũng tự nấu cơm,"nói với vợ, ""Vợ, hay là em cũng tự nấu cơm."""
+701,linhtran92/viet_youtube_asr_corpus_v2,,2.6214375,0.9393178338650614,0.35832165896194795,sẽ từ mặt anh luôn đó nhưng mà không có,giận từ mặt anh luôn đó. Nhưng mà không có
+702,linhtran92/viet_youtube_asr_corpus_v2,,2.3413125,1.5197036368772388,0.649081930275108,dù sao ông thấy cũng nhiều sâu nặng,dù sao ông thấy cũng nhiều sâu nặng.
+703,linhtran92/viet_youtube_asr_corpus_v2,,2.2564375,1.0464014338795096,0.46374049087533314,bác sĩ tâm lý còn chẳng chữa khỏi,Bác sĩ tâm lý còn chẳng chữa khỏi.
+704,linhtran92/viet_youtube_asr_corpus_v2,,2.36025,0.9478887950535864,0.4016052515850381,nay số lần tôi về chỉ đếm trên đầu ngón,"Này, số lần tôi về chỉ đếm trên đầu ngón"
+705,linhtran92/viet_youtube_asr_corpus_v2,,2.6814375,0.9512595280539244,0.3547573001622915,có phần chủ quan một bộ phận không nhỏ,"có phần chủ quan, một bộ phận không nhỏ"
+706,linhtran92/viet_youtube_asr_corpus_v2,,1.9898125,0.9301514041144401,0.4674568101840953,mà là một dáng vẻ căng thẳng đắc thắng,mà là một dáng vẻ căng thẳng đắc thắng.
+707,linhtran92/viet_youtube_asr_corpus_v2,,2.5010625,1.093641686020419,0.43727083430358854,ông bà biết trước câu trả lời của con,Ông bà biết trước câu trả lời của con
+708,linhtran92/viet_youtube_asr_corpus_v2,,2.101375,1.3563314960338175,0.6454495252079318,trong ngày trong tuần trong tháng trong,"trong ngày, trong tuần, trong tháng, trong"
+709,linhtran92/viet_youtube_asr_corpus_v2,,3.7815625,1.2022876590490341,0.31793409709585235,đó thực ra từ tư duy ở đây mang nghĩa,"đó, thực ra từ tư duy ở đây mang nghĩa"
+710,linhtran92/viet_youtube_asr_corpus_v2,,1.7809375,0.9456968989688903,0.5310107170907964,mà mình đang làm việc trách nhiệm đối,"mà mình đang làm việc, trách nhiệm đối"
+711,linhtran92/viet_youtube_asr_corpus_v2,,2.6228125,1.2434183480218053,0.4740782454032857,trách nhiệm tất cả những điều đó bây giờ,trách nhiệm tất cả những điều đó bây giờ
+712,linhtran92/viet_youtube_asr_corpus_v2,,3.121375,1.2123845617752522,0.38841361956677817,trả lời tôi mà đi lấy chìa khóa để lên,"trả lời tôi mà, đi lấy chìa khóa để lên"
+713,linhtran92/viet_youtube_asr_corpus_v2,,2.134125,1.2833775440230966,0.6013600628000219,điện ảnh nó có nhiều cách quan niệm,Điện ảnh nó có nhiều cách quan niệm.
+714,linhtran92/viet_youtube_asr_corpus_v2,,2.9414375,1.058669390855357,0.3599156503768504,tuấn anh vừa làm kinh tế vừa chăm vợ bầu,Tuấn Anh vừa làm kinh tế vừa chăm vợ bầu.
+715,linhtran92/viet_youtube_asr_corpus_v2,,3.2806875,1.1104586680885404,0.3384835245931045,ở trong thành phố ấy thì mình sợ là,ở trong thành phố ấy thì mình sợ là
+716,linhtran92/viet_youtube_asr_corpus_v2,,3.12,1.1068301829509437,0.3547532637663281,chẳng giống người pháp vậy mà lại diễn,"chẳng giống người Pháp, vậy mà lại diễn"
+717,linhtran92/viet_youtube_asr_corpus_v2,,3.022,1.0139153299387544,0.335511360006206,kèm những cái phán xét ví dụ khi mà một,"những cái phán xét, ví dụ khi mà một"
+718,linhtran92/viet_youtube_asr_corpus_v2,,2.4211875,1.0598171690944582,0.4377261856400871,nhục mạ ghê gớm ấy giống như người ta,nhục mạ ghê gớm ấy giống như người ta
+719,linhtran92/viet_youtube_asr_corpus_v2,,2.26125,0.9529662118293345,0.42143337173215456,vì cơ quan lập pháp có quá nhiều thứ để,Vì cơ quan lập pháp có quá nhiều thứ để
+720,linhtran92/viet_youtube_asr_corpus_v2,,1.86,0.9547732910141349,0.5133189736635133,ta vẫn phải ăn thậm chí lại còn ăn nhiều,"ta vẫn phải ăn, thậm chí lại còn ăn nhiều"
+721,linhtran92/viet_youtube_asr_corpus_v2,,2.1023125,1.0510827659163624,0.49996504607015485,di chuyển từ sân thượng xuống tầng hầm,di chuyển từ sân thượng xuống tầng hầm.
+722,linhtran92/viet_youtube_asr_corpus_v2,,3.1419375,1.329721129965037,0.4232169258507011,ngon quá nước dùng rất đậm đà mà không,"Ngon quá, nước dùng rất đậm đà mà không"
+723,linhtran92/viet_youtube_asr_corpus_v2,,1.761375,0.9596166890114546,0.5448111214315263,tình dục bình thường và nếu như cái,tình dục bình thường và nếu như cái
+724,linhtran92/viet_youtube_asr_corpus_v2,,2.641125,1.2360240330453962,0.46799149341488805,hay bởi vì trong tình huống này cô có lý,bởi vì trong tình huống này cô có lý
+725,linhtran92/viet_youtube_asr_corpus_v2,,2.101375,1.0119715018663555,0.48157587382849587,mà lúc đó mình sẽ cảm thấy rất là biết,mà lúc đó mình sẽ cảm thấy rất là biết
+726,linhtran92/viet_youtube_asr_corpus_v2,,1.507875,0.8890532089862972,0.5896067041275286,tống ra không thích được bố thí,Tống gia không thích được bố thì
+727,linhtran92/viet_youtube_asr_corpus_v2,,2.82175,1.8904960921499878,0.6699729218215603,cậu ấy ngừng lại như để tìm kiếm thêm,Cậu ấy ngừng lại như để tìm kiếm thêm.
+728,linhtran92/viet_youtube_asr_corpus_v2,,2.14075,1.0406194259412587,0.4861003974967925,không cần phải đến nhà hàng hay là những,Không cần phải đến nhà hàng hay là những
+729,linhtran92/viet_youtube_asr_corpus_v2,,2.340875,1.049425297882408,0.4483047142125948,tình cờ gặp tuệ nhi đấy anh nhớ không,"tình cờ gặp Tuệ Nhi đấy, anh nhớ không?"
+730,linhtran92/viet_youtube_asr_corpus_v2,,4.9418125,1.3032039129175246,0.2637097042669111,quân bình an lạc và hạnh phúc trái lại,"quân bình, an lạc và hạnh phúc. Trái lại"
+731,linhtran92/viet_youtube_asr_corpus_v2,,2.0206875,1.0254310730379075,0.507466430627154,đưa nhau về cái khả năng hiển thị của,đều nhau về cái khả năng hiển thị của
+732,linhtran92/viet_youtube_asr_corpus_v2,,3.6219375,1.100766533985734,0.3039164905484244,trên lưng áp lực căng thẳng mối quan hệ,trên lưng áp lực căng thẳng mối quan hệ
+733,linhtran92/viet_youtube_asr_corpus_v2,,3.221625,1.1910488170105964,0.3697043625532445,tôi đã làm thế chạy vào phía trời mưa,"Tôi đã làm thế, chạy vào phía trời mưa."
+734,linhtran92/viet_youtube_asr_corpus_v2,,2.1973125,1.0816243400331587,0.4922487538905635,như là thầy có bốn câu thơ là,Như là thầy có bốn câu thơ là
+735,linhtran92/viet_youtube_asr_corpus_v2,,2.2214375,0.9591938061639667,0.43178968850753924,không hiểu sao hôm đó mẹ tôi mua tôi lại,không hiểu sao hôm đó mẹ tôi mua tôi lại
+736,linhtran92/viet_youtube_asr_corpus_v2,,2.4615,1.0259657779242843,0.4168051098615821,trách nhiệm phủi tay đi quyết không chịu,"trách nhiệm, phủi tay đi, quyết không chịu"
+737,linhtran92/viet_youtube_asr_corpus_v2,,1.98125,1.0295657189562917,0.5196546215552261,chiếc giày va vào cửa vang lên tiếng,Chiếc giày va vào cửa vang lên tiếng
+738,linhtran92/viet_youtube_asr_corpus_v2,,2.761625,1.0103328549303114,0.36584722941395426,xót xa do bạn văn nam gửi tới bạn gái,tóc xa do bạn Văn Nam gửi tới bạn gái
+739,linhtran92/viet_youtube_asr_corpus_v2,,3.0213125,1.0724463269580156,0.35496041106572573,đến cuối cùng khi mà các bạn muốn là bắt,đến cuối cùng khi mà các bạn muốn là bắt
+740,linhtran92/viet_youtube_asr_corpus_v2,,1.8180625,0.9814872890710831,0.5398534368708904,nhìn thấy con trai của mình,nhìn thấy con trai của mình
+741,linhtran92/viet_youtube_asr_corpus_v2,,2.101375,1.194496501935646,0.5684356680438503,chỉ là phần chi tiết thôi còn cách gửi,"chỉ là phần chi tiết thôi, còn cách gửi"
+742,linhtran92/viet_youtube_asr_corpus_v2,,2.2798125,1.052141428925097,0.46150349159200466,ơi chào giám đốc giám đốc có sao không ạ,"Ôi chào giám đốc, giám đốc có sao không ạ?"
+743,linhtran92/viet_youtube_asr_corpus_v2,,1.8005625,0.9688079378101975,0.5380584888390142,khách hàng vẫn thích lựa chọn mua sản,Khách hàng vẫn thích lựa chọn mua sản
+744,linhtran92/viet_youtube_asr_corpus_v2,,3.9219375,1.2129591959528625,0.30927550374090934,đau quặn lên và máu bắt đầu chảy xuống,đau quặn lên và máu bắt đầu chảy xuống
+745,linhtran92/viet_youtube_asr_corpus_v2,,2.577,1.1295066410675645,0.43830292629707585,hơi chua chua không có vị thịt đâu,"Hơi chua chua, không có vị thịt đâu."
+746,linhtran92/viet_youtube_asr_corpus_v2,,3.1623125,1.0978943309746683,0.34718084660344867,một tuần sau đó lục phong phụ trách vận,"Một tuần sau đó, Lục Phong phụ trách vận"
+747,linhtran92/viet_youtube_asr_corpus_v2,,2.3361875,1.0828262080904096,0.4635014133456367,đình và sinh con cho cha mẹ bồng bế,tình và sinh con cho cha mẹ bồng bế
+748,linhtran92/viet_youtube_asr_corpus_v2,,2.841,0.9928340390324593,0.34946639881466357,đang rơi xuống nằm dưới vực sâu hun hút,đang rơi xuống nằm dưới vực sâu hun hút.
+749,linhtran92/viet_youtube_asr_corpus_v2,,2.4218125,1.0611729710362852,0.438173050571126,cũng may mà khi đó trong miệng của tôi,Cũng may mà khi đó trong miệng của tôi
+750,linhtran92/viet_youtube_asr_corpus_v2,,4.5820625,1.3083043219521642,0.2855273846553084,nghiêng đậm nhạt đủ màu như hoa chữ nhảy,"nghiêng, đậm, nhạt, đủ màu như hoa chữ, nhảy"
+751,linhtran92/viet_youtube_asr_corpus_v2,,2.4610625,1.0407120259478688,0.42287102661873427,là người hoa một thành viên trong tập,"là người Hoa, một thành viên trong tập"
+752,linhtran92/viet_youtube_asr_corpus_v2,,2.2603125,1.0942132738418877,0.4840982270557225,khá hài hước và chua xót tác giả dựng,"khá hài hước và chua xót, tác giả dựng"
+753,linhtran92/viet_youtube_asr_corpus_v2,,2.38225,0.9683760269545019,0.4064963907879114,ngày đầu chỉ là sự cố gắng hòa hợp trong,ngày đầu chỉ là sự cố gắng hòa hợp trong
+754,linhtran92/viet_youtube_asr_corpus_v2,,1.3365,1.454677261179313,1.088422941398663,ứng thái quá như thế chứ,ứng thái quá như thế chứ
+755,linhtran92/viet_youtube_asr_corpus_v2,,1.561,0.8563329989556223,0.5485797558972597,ngại về việc tài nguyên một ngày nào đó,lại về việc tài nguyên một ngày nào đó
+756,linhtran92/viet_youtube_asr_corpus_v2,,1.8808125,0.8322641029953957,0.4425024307289513,thị trường bất kỳ ngành sản xuất nào mà,thị trường bất kỳ ngành sản xuất nào
+757,linhtran92/viet_youtube_asr_corpus_v2,,3.1019375,1.068817479070276,0.3445644791586794,tâm yên tâm vậy mà bây giờ chuyện lớn,"yên tâm yên tâm, vậy mà bây giờ chuyện lớn"
+758,linhtran92/viet_youtube_asr_corpus_v2,,2.3818125,1.2498387082014233,0.5247426941463373,chồng môi miệng lắp bắp không nói nên,chồng môi miệng lắp bắp không nói nên
+759,linhtran92/viet_youtube_asr_corpus_v2,,1.791875,1.0644899848848581,0.5940648677418112,để con vào xem ông thế nào ạ,Để con vào xem ông thế nào ạ.
+760,linhtran92/viet_youtube_asr_corpus_v2,,1.860625,1.0572174068074673,0.5682055259966233,chỉ bằng phân nửa so với hoàng gia xếp,chỉ bằng phân nửa so với hoàng gia
+761,linhtran92/viet_youtube_asr_corpus_v2,,2.581125,1.0540928209666163,0.4083850340322984,việc thì bố tôi luôn dặn dò đừng để bố,việc thì bố tôi luôn dặn dò đừng để bố
+762,linhtran92/viet_youtube_asr_corpus_v2,,2.341,1.0120692970231175,0.43232349296160505,tập thể dục hay ăn uống giảm cân của ai,tập thể dục hay ăn uống giảm cân của ai
+763,linhtran92/viet_youtube_asr_corpus_v2,,2.6214375,1.0340904919430614,0.3944745934026889,tình yêu dành cho tôi thực sự khiến tôi,tình yêu dành cho tôi thực sự khiến tôi
+764,linhtran92/viet_youtube_asr_corpus_v2,,2.760625,1.050541004864499,0.38054462480941775,lắm con nói với mẹ ngay từ đầu rồi còn,lắm. Con nói với mẹ ngay từ đầu rồi còn
+765,linhtran92/viet_youtube_asr_corpus_v2,,2.7611875,0.9791414390783757,0.3546088192411329,thích thú nhất thỏa sức cho chân trần,"thích thú nhất, thỏa sức cho chân trần"
+766,linhtran92/viet_youtube_asr_corpus_v2,,2.616375,1.0304564191028476,0.39384890128626343,giám đốc sở y tế chủ trì giải quyết,Giám đốc Sở Y tế chủ trì giải quyết.
+767,linhtran92/viet_youtube_asr_corpus_v2,,2.4816875,0.9915833289269358,0.39956010937192366,rằng khi đối mặt với tầm nhìn vĩ đại của,rằng khi đối mặt với tầm nhìn vĩ đại của
+768,linhtran92/viet_youtube_asr_corpus_v2,,3.36175,1.1627179640345275,0.34586687410858263,tan và có thể còn sớm hơn thế nếu không,và có thể còn sớm hơn thế nếu không
+769,linhtran92/viet_youtube_asr_corpus_v2,,1.64125,0.8766202710103244,0.534117453776283,cực kỳ quan trọng nữa là đây không phải,cực kỳ quan trọng nữa là đây không phải
+770,linhtran92/viet_youtube_asr_corpus_v2,,3.2606875,1.376666490919888,0.4222012967878363,được chờ em cho nhật lệ uống sữa có,"Được, chờ em cho Nhật Lệ uống sữa"
+771,linhtran92/viet_youtube_asr_corpus_v2,,1.131875,0.791668089106679,0.6994306695586341,không được giải quyết một mình đâu,Không được giải quyết một mình đâu.
+772,linhtran92/viet_youtube_asr_corpus_v2,,3.4016875,1.1264972200151533,0.33115835008805283,để bảo vệ quyền riêng tư của họ trong,để bảo vệ quyền riêng tư của họ.
+773,linhtran92/viet_youtube_asr_corpus_v2,,1.9610625,0.924616107949987,0.4714873227905725,không ngừng nghỉ vậy mà thằng con còn,"không ngừng nghỉ, vậy mà thằng con còn"
+774,linhtran92/viet_youtube_asr_corpus_v2,,4.0618125,1.196742274099961,0.2946325745218325,chuyện kỳ quặc như thế hắn ôn tồn thôi,"chuyện kỳ quặc như thế, hắn ôn tồn, ""Thôi"""
+775,linhtran92/viet_youtube_asr_corpus_v2,,2.5018125,1.072407471947372,0.428652215922405,cách chấp nhận những cái hệ lụy kèm theo,cách chấp nhận những cái hệ lụy kèm theo
+776,linhtran92/viet_youtube_asr_corpus_v2,,1.902,0.8832443689461797,0.4643766398244899,sự phát triển công thương nghiệp ở các,phát triển công thương nghiệp ở các
+777,linhtran92/viet_youtube_asr_corpus_v2,,1.15375,0.7900755528826267,0.684789211599243,chấp nhận phải không chị tú,Chấp nhận phải không chị
+778,linhtran92/viet_youtube_asr_corpus_v2,,3.87775,1.1212396658957005,0.2891469707680228,tiểu an thần vì đã nghĩ cần phải như thế,Tiểu An Thần vì đã nghĩ cần phải như thế
+779,linhtran92/viet_youtube_asr_corpus_v2,,2.6425,1.0103757169563323,0.3823559950638911,là bạn hãy hành động đi bạn hãy cung cấp,"là bạn hãy hành động đi, bạn hãy cung cấp"
+780,linhtran92/viet_youtube_asr_corpus_v2,,2.92125,1.0331466440111399,0.3536659457462182,hoặc ngang trái trong vận hành đầy vất,hoặc ngang trái trong vận hành đầy vất
+781,linhtran92/viet_youtube_asr_corpus_v2,,2.861625,0.9803448060993105,0.3425832546540202,bên dưới câu hỏi này một người dùng mạng,"Bên dưới câu hỏi này, một người dùng mạng"
+782,linhtran92/viet_youtube_asr_corpus_v2,,1.8570625,1.0182812248822302,0.5483290007106547,tại em suy nghĩ lâu đấy,Tại em suy nghĩ lâu đấy.
+783,linhtran92/viet_youtube_asr_corpus_v2,,3.3,1.1413844579365104,0.3458740781625789,bọt mép sùi ra rồi lại từ từ đổ người,bọt mép sùi ra rồi lại từ từ đổ người
+784,linhtran92/viet_youtube_asr_corpus_v2,,2.7415,1.1793947177939117,0.43020051715991675,tôi cho anh em tạm dừng lại đồng thời,"Tôi cho anh em tạm dừng lại, đồng thời"
+785,linhtran92/viet_youtube_asr_corpus_v2,,2.7355625,1.1334471630398184,0.4143378786044254,là cái răng của nó hai hàm,là cái răng của nó hai hàm
+786,linhtran92/viet_youtube_asr_corpus_v2,,2.2026875,1.2628661110065877,0.5733296761372585,xuống đất tôi không dám khóc thành tiếng,"xuống đất, tôi không dám khóc thành tiếng."
+787,linhtran92/viet_youtube_asr_corpus_v2,,2.640875,1.0148976570926607,0.3843035573787706,một đằng chỉ có tâm nguyện phải chiếm,Một đằng chỉ có tâm nguyện phải chiếm
+788,linhtran92/viet_youtube_asr_corpus_v2,,2.4024375,0.9910077040549368,0.4125009304320869,vừa đủ cho nhu cầu của bạn tại thời điểm,vừa đủ cho nhu cầu của bạn tại thời điểm
+789,linhtran92/viet_youtube_asr_corpus_v2,,2.4806875,1.0535293000284582,0.42469246933701166,dương phải mệt mỏi ngay lập tức cậu hai,"tương phải mệt mỏi, ngay lập tức cậu hai"
+790,linhtran92/viet_youtube_asr_corpus_v2,,2.5421875,0.9732848671264946,0.3828532974560274,bông hoa rực rỡ bởi có một người làm,Bông hoa rực rỡ bởi có một người làm
+791,linhtran92/viet_youtube_asr_corpus_v2,,2.780375,0.9274386100005358,0.33356601537581654,nhất định cô sẽ giàu lên để sau này cô,Nhất định cô sẽ giàu lên để sau này cô
+792,linhtran92/viet_youtube_asr_corpus_v2,,1.8551875,0.9861355049069971,0.5315557079308679,rời khỏi vị trí tổng giám đốc của cậu đi,rời khỏi vị trí tổng giám đốc của cậu đi.
+793,linhtran92/viet_youtube_asr_corpus_v2,,1.5205,0.8700621980242431,0.5722211101770754,không gian mà một số nhà nghiên cứu trẻ,không gian mà một số nhà nghiên cứu trẻ
+794,linhtran92/viet_youtube_asr_corpus_v2,,1.701375,0.9312919790390879,0.5473760805460806,có nghĩa là người biết trước tương lai,có nghĩa là người biết trước tương lai.
+795,linhtran92/viet_youtube_asr_corpus_v2,,2.901375,1.0314258870203048,0.3554955450502968,qua được kỳ tuyển chọn này đó chính là,"qua được kỳ tuyển chọn này, đó chính là"
+796,linhtran92/viet_youtube_asr_corpus_v2,,2.9416875,1.0131920839194208,0.3444254646081274,trách nhiệm mà mình phải gánh mà mình,trách nhiệm mà mình phải gánh mà mình
+797,linhtran92/viet_youtube_asr_corpus_v2,,1.7405,0.9492915908340365,0.5454131518724714,nhau trong bản năng tình dục giữa đàn,nhau trong bản năng tình dục giữa đàn
+798,linhtran92/viet_youtube_asr_corpus_v2,,1.98,1.081664552912116,0.546295228743493,và thay thế để tiếp tục mở chiến dịch,và thay thế để tiếp tục mở chiến dịch.
+799,linhtran92/viet_youtube_asr_corpus_v2,,2.0615,0.9616147980559617,0.46646364203539253,cái gì để soi chiếu thì mình phải thử và,những gì để soi chiếu thì mình phải thử và
+800,linhtran92/viet_youtube_asr_corpus_v2,,2.8221875,1.260207399027422,0.44653567455295656,xấu mặt mũi tôi mới chịu phải không ai,xấu mặt mũi tôi mới chịu phải không?
+801,linhtran92/viet_youtube_asr_corpus_v2,,3.062625,1.5344715998508036,0.501031500706356,nữa nhưng tối qua hơi thế là đuổi em về,"nữa, nhưng tối qua hơi tí là đuổi em về"
+802,linhtran92/viet_youtube_asr_corpus_v2,,1.802125,0.8087120689451694,0.4487547028897382,cũng có tủ lạnh rồi nên chúng nó chuyển,cũng có tủ lạnh rồi nên chúng nó chuyển
+803,linhtran92/viet_youtube_asr_corpus_v2,,4.50175,1.1028512611519545,0.2449827869499538,có lẽ lúc này hắn đang nắm tay hoặc đang,Có lẽ lúc này hắn đang nắm tay hoặc đang
+804,linhtran92/viet_youtube_asr_corpus_v2,,2.5205625,1.0637264749966562,0.4220194797774926,tài để làm con tin bao giờ tôi mang tiền,"tài để làm con tin, bao giờ tôi mang tiền"
+805,linhtran92/viet_youtube_asr_corpus_v2,,2.6911875,0.965595843968913,0.35879917098638164,thậm chí có những buổi ở nhà một mình,Thậm chí có những buổi ở nhà một mình.
+806,linhtran92/viet_youtube_asr_corpus_v2,,2.441375,0.977939689066261,0.4005692239276068,thông điệp có thể khiến bạn cảm thấy khá,thông điệp có thể khiến bạn cảm thấy khác
+807,linhtran92/viet_youtube_asr_corpus_v2,,1.053,0.9874818930402398,0.93777957553679,với thái độ của tuấn phương,thái độ của Tuấn Phương
+808,linhtran92/viet_youtube_asr_corpus_v2,,1.5305,0.9523243589792401,0.6222308781308331,nhà mình có nước gì không chị,Nhà mình còn nước gì không chị?
+809,linhtran92/viet_youtube_asr_corpus_v2,,2.7011875,0.9775161850266159,0.36188386960424473,bằng những ngành mới diễn ra ngày càng,bằng những ngành mới diễn ra ngày càng
+810,linhtran92/viet_youtube_asr_corpus_v2,,2.482625,0.9830396638717502,0.3959678420509542,tướng hoàng xuân lãm lần đầu tiên gặp,tướng Hoàng Xuân Lãm lần đầu tiên gặp
+811,linhtran92/viet_youtube_asr_corpus_v2,,2.5023125,1.0305117659736425,0.41182376940275944,xíu thôi không ảnh hưởng đến lớp cô cũng,"xíu thôi, không ảnh hưởng đến lớp, cô cũng"
+812,linhtran92/viet_youtube_asr_corpus_v2,,1.9203125,1.0038148041348904,0.5227351298993733,khía cạnh nào đó rất là có thể là các,phía cạnh nào đó rất là có thể là các
+813,linhtran92/viet_youtube_asr_corpus_v2,,1.86,0.9217870989814401,0.4955844618179785,thương con gái nhưng chẳng thể làm gì,thương con gái nhưng chẳng thể làm gì
+814,linhtran92/viet_youtube_asr_corpus_v2,,3.200875,1.1301401921082288,0.3530722668358586,tích cực và giúp cho bạn xem yêu đời hơn,tích cực và giúp cho bạn xem yêu đời hơn.
+815,linhtran92/viet_youtube_asr_corpus_v2,,2.880875,1.1680330759845674,0.40544385854456283,và theo chồng ở mỹ rạch giá cũng ít khi,và theo chồng ở Mỹ Rạch Giá cũng ít khi
+816,linhtran92/viet_youtube_asr_corpus_v2,,2.301125,1.0146360511425883,0.4409304366962196,nay tôi cũng muốn hỏi anh chuyện con chó,Này tôi cũng muốn hỏi anh chuyện con chó
+817,linhtran92/viet_youtube_asr_corpus_v2,,2.682,0.9775617818813771,0.3644898515590519,nhìn sang con vẫn còn ngủ tôi tranh thủ,"Nhìn sang con vẫn còn ngủ, tôi tranh thủ"
+818,linhtran92/viet_youtube_asr_corpus_v2,,1.882375,1.028440625173971,0.5463526795532087,nghĩ lại thì nó cũng không phải là không,nghĩ lại thì nó cũng không phải là không
+819,linhtran92/viet_youtube_asr_corpus_v2,,2.2603125,0.9672801150009036,0.42794087764453087,chí cốt thời trung học của mình đây đúng,trí cốt thời trung học của mình đấy.
+820,linhtran92/viet_youtube_asr_corpus_v2,,1.92,0.9944176329299808,0.517925850484365,hai người cũng biết nhau từ trước rồi,Hai người cũng biết nhau từ trước rồi.
+821,linhtran92/viet_youtube_asr_corpus_v2,,3.5224375,1.196231956128031,0.3396034581530633,không một ai để ý rằng thu đã cô đơn và,Không một ai để ý rằng Thu đã cô đơn và
+822,linhtran92/viet_youtube_asr_corpus_v2,,2.621,1.0629156350623816,0.4055382049074329,người trước thường thì ít có cuộc hẹn,người trước thường thì ít có cuộc hẹn
+823,linhtran92/viet_youtube_asr_corpus_v2,,3.0829375,1.1334648260381073,0.3676574131126912,mới xa nhau có ba ngày mà chịu không nổi,mới xa nhau có 3 ngày mà chịu không nổi
+824,linhtran92/viet_youtube_asr_corpus_v2,,2.2814375,0.9922222238965333,0.43491098217528784,hoàn cảnh riêng còn bạn em trai của em,hoàn cảnh riêng còn bạn em trai của em
+825,linhtran92/viet_youtube_asr_corpus_v2,,2.9618125,1.003002539044246,0.3386448463716883,mình phải ở trong cái môi trường mà có,mình phải ở trong cái môi trường mà có
+826,linhtran92/viet_youtube_asr_corpus_v2,,1.68,1.001604920020327,0.5961934047740042,bát là ngày sinh nhật của mình như vậy,bát là ngày sinh nhật của mình như vậy.
+827,linhtran92/viet_youtube_asr_corpus_v2,,2.5215625,1.2073397459462285,0.47880619494707294,con bé nhỏ của mình nhưng làm sao mà anh,"con bé nhỏ của mình, nhưng làm sao mà anh"
+828,linhtran92/viet_youtube_asr_corpus_v2,,2.821625,1.1261717870365828,0.39912170718525064,thì liệu cô có tha thứ cho bà và còn cần,thì liệu cô có tha thứ cho bà và còn cần
+829,linhtran92/viet_youtube_asr_corpus_v2,,5.281875,1.3467770530842245,0.2549808643870263,còn nỡ làm sao bà biết được xe gì mà bà,"Còn nữa, làm sao bà biết được xe gì mà bà"
+830,linhtran92/viet_youtube_asr_corpus_v2,,2.315,1.040238571120426,0.4493471149548277,cho nên là bản thân cái việc là,Cho nên là bản thân cái việc là
+831,linhtran92/viet_youtube_asr_corpus_v2,,2.1805625,1.0159301429521292,0.4659027856124872,không đi làm hai đầu lương của họ bị cắt,"không đi làm, hai đầu lương của họ bị cắt"
+832,linhtran92/viet_youtube_asr_corpus_v2,,2.740125,1.0101085600908846,0.3686359418241447,không phải là một cái ý thích của một,không phải là một cái ý thích của một
+833,linhtran92/viet_youtube_asr_corpus_v2,,2.901375,0.9655693259555846,0.3327971482333668,không thấy mặt được tức có cái đó mà kỳ,"Không thấy mặt được, tức có cái đó mà"
+834,linhtran92/viet_youtube_asr_corpus_v2,,3.322,1.0342108488548547,0.3113217486017022,anh còn có thể cười được nữa sao anh,Anh còn có thể cười được nữa sao? Anh
+835,linhtran92/viet_youtube_asr_corpus_v2,,2.0413125,0.9847284960560501,0.48239967964535074,cũng không thuộc về nơi này không thuộc,"cũng không thuộc về nơi này, không thuộc"
+836,linhtran92/viet_youtube_asr_corpus_v2,,1.860625,0.9853003439493477,0.5295534263751953,pháp tiết kiệm bằng cách chấp nhận vị,pháp tiết kiệm bằng cách chấp nhận vị
+837,linhtran92/viet_youtube_asr_corpus_v2,,2.0933125,0.9324078899808228,0.4454222147819892,trở nên bối rối lúng túng kỳ lạ,trở nên bối rối lúng túng kỳ lạ
+838,linhtran92/viet_youtube_asr_corpus_v2,,2.100375,0.9536112369969487,0.454019514132928,tôi cũng không thể nhớ nhưng đến giờ,Tôi cũng không thể nhớ nhưng đến giờ
+839,linhtran92/viet_youtube_asr_corpus_v2,,1.8204375,1.0115085979923606,0.5556403875400066,đó bạn có thể đăng nhập tài khoản có sẵn,đó bạn có thể đăng nhập tài khoản có sẵn
+840,linhtran92/viet_youtube_asr_corpus_v2,,1.480625,0.9958827910013497,0.6726097364297845,ngay bây giờ để không liên lụy đến ba,Ngay bây giờ để không liên lụy đến bà
+841,linhtran92/viet_youtube_asr_corpus_v2,,3.0415625,1.2089432789944112,0.3974744161904979,bà chưa muốn có cháu sau đó khuyên con,"Bà chưa muốn có cháu, sau đó khuyên con"
+842,linhtran92/viet_youtube_asr_corpus_v2,,2.421625,0.8787910740356892,0.3628931292151713,quan tâm đến cháu nên cháu mới như thế,quan tâm đến cháu nên cháu mới như thế
+843,linhtran92/viet_youtube_asr_corpus_v2,,3.320875,1.2447294190060347,0.3748197143843218,khổ sở nhất vẫn là chuyện tình cảm yêu,khổ sở nhất vẫn là chuyện tình cảm yêu
+844,linhtran92/viet_youtube_asr_corpus_v2,,3.101,1.2709464991930872,0.4098505318262132,từng đám mây đen cuồn cuộn phía chân,từng đám mây đen cuồn cuộn phía chân
+845,linhtran92/viet_youtube_asr_corpus_v2,,2.24125,1.0483619149308652,0.4677576865279934,qua buổi trò chuyện cuối cùng với anh,Qua buổi trò chuyện cuối cùng với anh
+846,linhtran92/viet_youtube_asr_corpus_v2,,3.0415625,1.0579067540820688,0.3478168717828645,mình có trong họ họ có trong mình cảm ơn,"Mình có trong họ, họ có trong mình. Cảm ơn."
+847,linhtran92/viet_youtube_asr_corpus_v2,,2.262375,1.1135384351946414,0.49219887737207196,người đàn ông mái tóc đã điểm những sợi,Người đàn ông mái tóc đã điểm những sợi
+848,linhtran92/viet_youtube_asr_corpus_v2,,2.7611875,1.0111747761256993,0.3662101092829441,và quan trọng là luôn đặt cái mục tiêu,quan trọng á là luôn đặt cái mục tiêu
+849,linhtran92/viet_youtube_asr_corpus_v2,,2.1978125,1.045443310867995,0.47567447672082813,không ở gần hắn anh không biết đâu,"không ở gần hắn, anh không biết đâu"
+850,linhtran92/viet_youtube_asr_corpus_v2,,2.9809375,1.1224456429481506,0.3765411528917163,cơm nước xong xuôi mai cẩn thận lấy từ,"Cầm nước xong xuôi, Mai cẩn thận lấy từ"
+851,linhtran92/viet_youtube_asr_corpus_v2,,2.4624375,1.0659909429959953,0.4329007103717334,bé sẽ bị em bé bị mang đi một bệnh viện,bé sẽ bị em bé bị mang đi một bệnh viện
+852,linhtran92/viet_youtube_asr_corpus_v2,,2.7213125,1.0799522299785167,0.3968497664191513,hay chuyên gia kỹ thuật số nhưng muốn,hay chuyên gia kỹ thuật số nhưng muốn
+853,linhtran92/viet_youtube_asr_corpus_v2,,2.040375,0.9773939840961248,0.4790266417183727,đến cái công ty kiểm toán đó cho nên là,đến cái công ty kiểm toán đó cho nên là
+854,linhtran92/viet_youtube_asr_corpus_v2,,1.721125,1.0250734789296985,0.5955833997703237,khá khá bình thường không phải là cao lắm,"Khá khá, bình thường, không phải là cao lắm."
+855,linhtran92/viet_youtube_asr_corpus_v2,,2.781375,1.0581269431859255,0.38043303876173673,rồi đánh giá được tài sản cũng như nhận,rồi đánh giá được tài sản cũng như nhận
+856,linhtran92/viet_youtube_asr_corpus_v2,,2.781375,1.0925266570411623,0.3928009193442676,càng siết chặt tay tôi dưới sức ép của,"càng siết chặt tay tôi, dưới sức ép của"
+857,linhtran92/viet_youtube_asr_corpus_v2,,2.533875,0.9993625928182155,0.39440090486634716,với bà diễm my dạ dạ không,bà Diễm Mi. Dạ dạ không.
+858,linhtran92/viet_youtube_asr_corpus_v2,,2.161375,1.166219046106562,0.5395727470274996,hiểu rõ về cái khía cạnh bảo hiểm xã hội,hiểu rõ về cái khía cạnh bảo hiểm xã hội
+859,linhtran92/viet_youtube_asr_corpus_v2,,2.26125,1.1336964052170515,0.5013582775973694,bà chỉ nhìn vào nhân cách và tính tình,Bà chỉ nhìn vào nhân cách và tính tình.
+860,linhtran92/viet_youtube_asr_corpus_v2,,2.0816875,0.9679902421776205,0.4650026683532569,bén và tạo nên mạch xuyên suốt trong,bén và tạo nên mạch xuyên suốt trong
+861,linhtran92/viet_youtube_asr_corpus_v2,,2.4595,1.013719470007345,0.4121648587141066,thì đó chính là cái cái cái nền tảng của,Thì đó chính là cái cái cái nền tảng của
+862,linhtran92/viet_youtube_asr_corpus_v2,,2.6815625,0.9844933249987662,0.36713420813378994,hồi sáng đi đâu mà gấp thế giải quyết,Hồi sáng đi đâu mà gấp thế? Giải quyết
+863,linhtran92/viet_youtube_asr_corpus_v2,,2.9416875,1.0207432541064918,0.3469924164638466,cuốn sách nhưng nếu bạn là ông bà giáo,sách nhưng nếu bạn là ông bà giáo
+864,linhtran92/viet_youtube_asr_corpus_v2,,1.9503125,1.0357510149478912,0.5310692593868374,cụ nguyễn hiến lê là một người,Cụ Nguyễn Hiến Lê là một người
+865,linhtran92/viet_youtube_asr_corpus_v2,,2.561,1.0078330440446734,0.3935310597597319,dễ cho các cô gái xử trí là hãy tránh xa,cho các cô gái xử trí là hãy tránh xa
+866,linhtran92/viet_youtube_asr_corpus_v2,,2.441375,1.0610033499542624,0.4345925349257129,cầu của họ rồi thì họ bất ngờ rút vốn,"của họ rồi, thầy họ bất ngờ rút vốn."
+867,linhtran92/viet_youtube_asr_corpus_v2,,2.9209375,0.9699369599111378,0.33206357887189913,chúng ta đi về thôi còn rất nhiều việc,"Chúng ta đi về thôi, còn rất nhiều việc"
+868,linhtran92/viet_youtube_asr_corpus_v2,,2.1225,1.0040212420281023,0.47303709871759825,phải là anh thì cũng là chủ tịch anh bảo,"phải là anh thì cũng là chủ tịch, anh bảo"
+869,linhtran92/viet_youtube_asr_corpus_v2,,2.680125,1.0236248769797385,0.38193176698092013,và cô gái tên linh kia là một đều là,"Và cô gái tên Linh kia là một, đều là"
+870,linhtran92/viet_youtube_asr_corpus_v2,,3.3014375,1.1816206169314682,0.35791094543860613,đập cửa cô ta la hét lớn hai người nghe,"đập cửa, cô ta la hét lớn. Hai người nghe"
+871,linhtran92/viet_youtube_asr_corpus_v2,,2.9819375,1.0238610901869833,0.34335430913189274,ta phải động lòng con vợ cứ hồn nhiên,ta phải động lòng. Con dở cứ hồn nhiên
+872,linhtran92/viet_youtube_asr_corpus_v2,,2.355,1.089392269961536,0.4625869511513953,vận hành này nọ lý đứng ra lo hết,"vận hành này nọ, Lý đứng ra lo hết."
+873,linhtran92/viet_youtube_asr_corpus_v2,,2.3213125,0.9786632140167058,0.42159907983811135,em da diết nên tôi làm việc gần như,em da diết nên tôi làm việc gần như
+874,linhtran92/viet_youtube_asr_corpus_v2,,2.1215625,1.044909950112924,0.4925190514599141,công việc của mẹ giống như một thói quen,Công việc của mẹ giống như một thói quen
+875,linhtran92/viet_youtube_asr_corpus_v2,,2.2214375,1.3031306669581681,0.5866159488881268,hỏi người đã hiến tạng thì chỉ nhận lại,Hỏi người đã hiến tạng thì chỉ nhận lại
+876,linhtran92/viet_youtube_asr_corpus_v2,,2.921125,1.0617820580955595,0.3634839515924719,đảm em không chịu thiệt chị cũng thấy,đảm em không chịu thiệt. Chị Cúc thấy
+877,linhtran92/viet_youtube_asr_corpus_v2,,1.6810625,1.0084552650805563,0.5998915953931256,đẹp tài giỏi thiếu gì người tốt để cậu,đẹp tài giỏi thiếu gì người tốt để cậu
+878,linhtran92/viet_youtube_asr_corpus_v2,,3.5609375,1.2590476630721241,0.35357196330239554,không biết nó có sạch không đó thì và,"Không biết nó có sạch không. Đó, thì và"
+879,linhtran92/viet_youtube_asr_corpus_v2,,2.861625,0.9762745620682836,0.34116090056114395,nhưng mà ngược lại là gì nếu như là mình,Nhưng mà ngược lại là gì? Nếu như là mình
+880,linhtran92/viet_youtube_asr_corpus_v2,,3.0585625,1.1761327718850225,0.384537759776046,thì phần thắng không hẳn là nghiêng về lực lượng đông hơn và mạnh hơn,Thì phần thắng không hẳn là nghiêng về lực lượng đông hơn và mạnh hơn.
+881,linhtran92/viet_youtube_asr_corpus_v2,,3.0009375,1.00416624895297,0.3346175150108824,bác như lấn sang cả bên tôi khiến cho,bát như lính sang cả bên tôi khiến cho
+882,linhtran92/viet_youtube_asr_corpus_v2,,3.3815625,1.1877014939673245,0.35122860925010985,đừng đi với bố chứ gì thôi được mẹ con,"Đừng đi với bố chứ gì? Thôi được, mẹ con"
+883,linhtran92/viet_youtube_asr_corpus_v2,,1.841,0.9511888129636645,0.5166696431089975,khuyết điểm chính là nền tảng cơ bản để,khuyết điểm chính là nền tảng cơ bản để
+884,linhtran92/viet_youtube_asr_corpus_v2,,2.5416875,0.9281918641645461,0.3651872483004091,xây giỏi để kiếm tiền lo cho bố mẹ và,xây giỏi để kiếm tiền lo cho bố mẹ và
+885,linhtran92/viet_youtube_asr_corpus_v2,,2.900125,1.0372048949357122,0.3576414447431446,lý luận của bác để nâng cao trình độ,lý luận của bác để nâng cao trình độ
+886,linhtran92/viet_youtube_asr_corpus_v2,,3.262125,1.073406542884186,0.3290513217256193,mở ca nô trên đó có đầy đủ lương khô,mở ca nô trên đó có đầy đủ lương khô
+887,linhtran92/viet_youtube_asr_corpus_v2,,3.54,1.230282410979271,0.3475374042314325,cho em rồi xong rồi vẫn chưa bằng em đấy,cho em rồi xong rồi vẫn chưa bằng em.
+888,linhtran92/viet_youtube_asr_corpus_v2,,1.4943125,0.8129348100628704,0.5440192798111977,quan sát trung thực cái ý nghĩ đó,quan sát trung thực cái ý nghĩ đó.
+889,linhtran92/viet_youtube_asr_corpus_v2,,1.64,1.1209482420235872,0.6835050256241386,chuyển giao quyền lực cho nó thì không,chuyển giao quyền lực cho nó thì không.
+890,linhtran92/viet_youtube_asr_corpus_v2,,3.5405,1.2535216519609094,0.3540521542044653,đây đi vâng ạ mẹ ơi mẹ lấy hết đồ cho,"Đây đi. Vâng ạ, mẹ ơi, mẹ lấy hết đồ cho"
+891,linhtran92/viet_youtube_asr_corpus_v2,,2.541375,1.0672078118659556,0.41993322979330305,cùng trong cơ quan bộ anh thử nhờ người,"Cùng trong cơ quan bộ, anh thử nhờ người"
+892,linhtran92/viet_youtube_asr_corpus_v2,,3.402375,1.1138795788865536,0.3273829542265487,ông phí lòng đơn nằm mà không thể ngủ,Ông phí lòng đơn nằm mà không thể ngủ
+893,linhtran92/viet_youtube_asr_corpus_v2,,3.5425625,1.2454565088264644,0.35156938200143667,nếu nhịp đập ấy căng thẳng thì nhịp và,Nếu nhịp đập ấy căng thẳng thì nhịp và
+894,linhtran92/viet_youtube_asr_corpus_v2,,3.6011875,1.1389177849050611,0.31626172891721444,nghĩa là người ta đang ủng hộ cái thời,nghĩa là người ta đang ủng hộ cái thời
+895,linhtran92/viet_youtube_asr_corpus_v2,,2.3400625,1.0360538209788501,0.44274621766677175,khu tự trị của dân tộc khương dân tộc,"khu tự trị của dân tộc Khương, dân tộc"
+896,linhtran92/viet_youtube_asr_corpus_v2,,1.837625,1.0025136680342257,0.5455485575317193,trong các bộ phim điện ảnh truyền hình,"Trong các bộ phim điện ảnh, truyền hình"
+897,linhtran92/viet_youtube_asr_corpus_v2,,3.7206875,1.216449572937563,0.3269421505938252,có thể là con không sai cũng có thể cả,"Có thể là con không sai, cũng có thể cả"
+898,linhtran92/viet_youtube_asr_corpus_v2,,2.7209375,1.0369880078360438,0.3811142328098473,là những bộ lạc da đỏ đầu tiên chiếm giữ,là những bộ lạc da đỏ đầu tiên chiếm giữ
+899,linhtran92/viet_youtube_asr_corpus_v2,,2.301625,0.9579053719062358,0.4161865516347084,xuống quán tôi hết khách thì anh về nhà,"xuống quán tôi, hết khách thì anh về nhà"
+900,linhtran92/viet_youtube_asr_corpus_v2,,2.6625625,1.0542989540845156,0.39597153271876834,ra những điều mà tụi em giận đối phương,những điều mà tụi em giận đối phương
+901,linhtran92/viet_youtube_asr_corpus_v2,,2.9501875,0.9934231608640403,0.33673221138115467,thái độ ấy có thể bị xem là bất thường,Thái độ ấy có thể bị xem là bất thường.
+902,linhtran92/viet_youtube_asr_corpus_v2,,3.7605,1.0890543579589576,0.289603605360712,mai giữa bóng tối bắt đầu tỉnh giấc giữa,giữa bóng tối bắt đầu tỉnh giấc. giữa
+903,linhtran92/viet_youtube_asr_corpus_v2,,3.3015,1.0148120620287955,0.30737908890770727,trên đường đi học về bọn trẻ con xóm,"Trên đường đi học về, bọn trẻ con xóm"
+904,linhtran92/viet_youtube_asr_corpus_v2,,2.682375,1.0774020291864872,0.4016597340739036,khoe là đây nè một cái dấu hiệu của cái,"khoe là đây này, một cái dấu hiệu của cái"
+905,linhtran92/viet_youtube_asr_corpus_v2,,1.6810625,0.8480801649857312,0.5044905617642005,giải cứu con tàu được ghi lại trong phim,giải cứu con tàu được ghi lại trong phim
+906,linhtran92/viet_youtube_asr_corpus_v2,,2.0009375,1.0675958178471774,0.5335478083884067,và những phương tiện của họ cũng có,và những phương tiện của họ cũng có
+907,linhtran92/viet_youtube_asr_corpus_v2,,2.940375,0.956373673863709,0.3252556812868117,hái hết sầu riêng đang chuẩn bị thu,hái hết sầu riêng đang chuẩn bị thu
+908,linhtran92/viet_youtube_asr_corpus_v2,,2.942375,1.0027135249692947,0.3407837291199438,một ví dụ khác về việc sử dụng nguyên,Một ví dụ khác về việc sử dụng nguyên
+909,linhtran92/viet_youtube_asr_corpus_v2,,2.2026875,1.0886681200936437,0.49424537983424505,chưa có một vụ đột nhập hay một vụ cướp,Chưa có một vụ đột nhập hay một vụ cướp
+910,linhtran92/viet_youtube_asr_corpus_v2,,2.86125,1.1321661891415715,0.3956893627406104,ta chỉ còn biết được một chi tiết này vô,Ta chỉ còn biết được một chi tiết này
+911,linhtran92/viet_youtube_asr_corpus_v2,,1.6795625,1.2732155530247837,0.7580638130613083,hưởng đến danh tiếng của công ty tôi gây,hưởng đến danh tiếng của công ty tôi gây
+912,linhtran92/viet_youtube_asr_corpus_v2,,1.7401875,0.8994957790710032,0.5168958971783232,những lượng khán giả mà họ không có biết,những lượng khán giả mà họ không có biết
+913,linhtran92/viet_youtube_asr_corpus_v2,,2.6225,1.6165144101250917,0.6164020629647633,tôi đang dọn quán để nghỉ sớm hơn hôm,Tôi đang dọn quán để nghỉ sớm hơn hôm
+914,linhtran92/viet_youtube_asr_corpus_v2,,2.4018125,4.99146355711855,2.078207002885758,nước một tay ôm bụng sắc mặt tái nhợt,"nước, một tay ôm bụng, sắc mặt tái nhợt."
+915,linhtran92/viet_youtube_asr_corpus_v2,,3.461,1.1905191889964044,0.3439812739082359,đầy mùi bia rượu chị có vẻ ngượng ngùng,"đầy mùi bia rượu, chị có vẻ ngượng ngùng"
+916,linhtran92/viet_youtube_asr_corpus_v2,,2.741875,0.9675390818156302,0.35287497855140376,mà người ta còn chưa chịu đồng ý đây anh,người ta còn chưa chịu đồng ý đây.
+917,linhtran92/viet_youtube_asr_corpus_v2,,2.82175,0.9110419899225235,0.3228641764587662,thảo nhăn mặt không thể hiểu nổi tại sao,"Thảo nhăn mặt, không thể hiểu nổi tại sao"
+918,linhtran92/viet_youtube_asr_corpus_v2,,2.14175,0.9691235341597348,0.45249143651674323,thực hiện cú dứt điểm thành công đạt đến,thực hiện cú dứt điểm thành công đạt đến
+919,linhtran92/viet_youtube_asr_corpus_v2,,2.340875,0.9993702571373433,0.4269216669567334,đóng góp những cái góc nhìn của các bạn,đóng góp những cái góc nhìn của các bạn
+920,linhtran92/viet_youtube_asr_corpus_v2,,1.815375,0.9199520240072161,0.5067559176518439,đời thật là không sao hiểu nổi,đời thật là không sao hiểu nổi.
+921,linhtran92/viet_youtube_asr_corpus_v2,,2.4803125,1.0619535169098526,0.428153112525076,nào khác phù hợp hơn là chính cái bảo,nào khác phù hợp hơn là chính cái bảo
+922,linhtran92/viet_youtube_asr_corpus_v2,,2.600875,1.1042399040888995,0.4245647730432641,ở khu tập thể cô chỉ là người nội trợ,"ở khu tập thể, cô chỉ là người nội trợ."
+923,linhtran92/viet_youtube_asr_corpus_v2,,3.100625,1.1375636879820377,0.3668820602239993,thiên về biểu diễn còn về bóng đá kia là,"thiên về biểu diễn, còn về bóng đá kia là"
+924,linhtran92/viet_youtube_asr_corpus_v2,,2.1596875,0.9912998671643436,0.4590015301585732,rất là nhiều ý định rất là nhiều ý tưởng,"Rất là nhiều ý định, rất là nhiều ý tưởng."
+925,linhtran92/viet_youtube_asr_corpus_v2,,1.940375,1.0132374670356512,0.5221864160462031,bằng cách mô tả nụ cười bí ẩn và nội u,bằng cách mô tả nụ cười bí ẩn và nỗi u
+926,linhtran92/viet_youtube_asr_corpus_v2,,2.04225,0.9914836080279201,0.4854859140790403,thêm cũng may vào lúc gia đình thiên,thêm cũng may vừa lúc gia đình thiên
+927,linhtran92/viet_youtube_asr_corpus_v2,,2.8024375,1.0705644900444895,0.3820119057229607,gặp được mặc dù anh không đến nhưng cô,"gặp được, mặc dù anh không đến nhưng cô"
+928,linhtran92/viet_youtube_asr_corpus_v2,,1.3745625,0.9108358421362936,0.6626369060237666,muốn để cho nó khóc thỏa mãn,muốn để cho nó khóc thỏa mãn.
+929,linhtran92/viet_youtube_asr_corpus_v2,,2.3606875,0.9833332779817283,0.416545297919241,những nhân vật như chúng tôi thì lúc nào,những nhân vật như chúng tôi thì lúc nào
+930,linhtran92/viet_youtube_asr_corpus_v2,,3.7215,1.1817558980546892,0.3175482730228911,và sàng lọc đồ vật dựa theo quy tắc cao,và sàng lọc đồ vật dựa theo quy tắc
+931,linhtran92/viet_youtube_asr_corpus_v2,,2.8206875,1.0748922480270267,0.3810745600237625,nước hay nhà vệ sinh nếu họ định kể cho,nước hay nhà vệ sinh nếu họ định kể cho
+932,linhtran92/viet_youtube_asr_corpus_v2,,3.321625,1.1081812200136483,0.3336262281304025,lật ngược lại vấn đề rằng là bởi vì mình,lật ngược lại vấn đề rằng là bởi vì mình
+933,linhtran92/viet_youtube_asr_corpus_v2,,2.5275,1.1220424550119787,0.4439337111817918,còn lên giường nằm yên cho mẹ ốm bây giờ,"Con lên giường nằm yên cho mẹ, ốm bây giờ."
+934,linhtran92/viet_youtube_asr_corpus_v2,,2.401,1.097326359944418,0.45702888794019914,này em thức hơi khuya tại nhà có chuyện,Này em thức hơi khuya tại nhà có chuyện.
+935,linhtran92/viet_youtube_asr_corpus_v2,,1.7225,0.9530368580017239,0.5532870002912766,cũng phải thưa với nhiều quý vị bởi vì,cũng phải thưa với nhiều quý vị bởi vì
+936,linhtran92/viet_youtube_asr_corpus_v2,,2.7015625,1.0053712860681117,0.3721443742530893,trọng yếu thậm chí hoa kỳ đã tự tin tới,trọng yếu. Thậm chí Hoa Kỳ đã tự tìm tới
+937,linhtran92/viet_youtube_asr_corpus_v2,,2.26175,1.0638754318933934,0.4703771114815489,còn không trả hết nói gì trả tiền gốc,"còn không trả hết, nói gì trả tiền gốc."
+938,linhtran92/viet_youtube_asr_corpus_v2,,2.0826875,1.0724121311213821,0.514917447346941,mãnh liệt lắm một mình tôi không thể,"mãnh liệt lắm, một mình tôi không thể"
+939,linhtran92/viet_youtube_asr_corpus_v2,,2.1810625,0.9423246341757476,0.43204843243866126,hơn thì khuôn mặt của cô gái anh mong,thì khuôn mặt của cô gái anh mong
+940,linhtran92/viet_youtube_asr_corpus_v2,,2.7165,0.9765150099992752,0.3594754316213051,có quá nhiều cơ hội quá nhiều,có quá nhiều cơ hội quá nhiều
+941,linhtran92/viet_youtube_asr_corpus_v2,,2.501375,1.033436011057347,0.4131471734775262,chuẩn bị cất cánh thì diệp òa khóc lên,chuẩn bị cất cánh thì Diệp òa khóc lên.
+942,linhtran92/viet_youtube_asr_corpus_v2,,2.88125,0.9223102508112788,0.32010767924035705,của các chủ phương tiện đến đăng kiểm để,của các chủ phương tiện đến đăng kiểm để
+943,linhtran92/viet_youtube_asr_corpus_v2,,1.962,0.985141095938161,0.5021106503252605,anh còn thấy cô đang bị thành công làm,Anh còn thấy cô đang bị thành công làm
+944,linhtran92/viet_youtube_asr_corpus_v2,,2.5530625,1.0237943981774151,0.40100639846357666,mùa thu xin mời các bạn cùng lắng nghe,"Mùa thu, xin mời các bạn cùng lắng nghe."
+945,linhtran92/viet_youtube_asr_corpus_v2,,3.1415,1.186962598003447,0.3778330727370514,đành phải đi ngờ đâu bác sĩ kêu ông nhập,"đành phải đi, ngờ đâu bác sĩ kêu ông nhập"
+946,linhtran92/viet_youtube_asr_corpus_v2,,3.6216875,1.2163217968773097,0.33584393928998835,trời hôm nay lạnh quá gió mang hơi buốt,"Trời hôm nay lạnh quá, gió mang hơi buốt"
+947,linhtran92/viet_youtube_asr_corpus_v2,,2.04225,1.0037291299086064,0.49148200754491683,nào mà ra trường cũng sẽ có những cái bộ,nào mà ra trường cũng sẽ có những cái bộ
+948,linhtran92/viet_youtube_asr_corpus_v2,,3.0801875,1.1886679308954626,0.38590765363974194,vì hạnh phúc của con một phần là do sự,Vì hạnh phúc của con một phần là do sự
+949,linhtran92/viet_youtube_asr_corpus_v2,,2.36025,1.0397107540629804,0.44050874020251257,dựa trên cái việc mà bán vượt giá trị và,dựa trên cái việc mà bán vượt giá trị và
+950,linhtran92/viet_youtube_asr_corpus_v2,,1.579625,1.0374383281450719,0.6567624139558894,nhiều ông lớn của thị trường xe điện,nhiều ông lớn của thị trường xe điện
+951,linhtran92/viet_youtube_asr_corpus_v2,,1.821375,1.0342406339477748,0.5678350882974538,thể nghĩ được sâu đến từng cái khoảnh,thể nghĩ được sâu đến từng cái khoảnh
+952,linhtran92/viet_youtube_asr_corpus_v2,,2.2800625,0.9801659001968801,0.4298855405046485,thật sự nhưng sao chỉ mới có chạm mặt,"thật sự, nhưng sao chỉ mới có chạm mặt"
+953,linhtran92/viet_youtube_asr_corpus_v2,,2.580625,0.9976694390643388,0.38659992794936837,đã vô tình hợp tác tốt tôi đứng lên muốn,đã vô tình hợp tác tốt. Tôi đứng lên muốn
+954,linhtran92/viet_youtube_asr_corpus_v2,,3.8403125,1.297617964912206,0.33789384715754406,vô cùng nhỏ nhặt từ việc ăn uống đến nằm,vô cùng nhỏ nhặt từ việc ăn uống đến nằm
+955,linhtran92/viet_youtube_asr_corpus_v2,,2.28,0.964719892013818,0.42312275965518337,anh chị à em đã chuẩn bị tâm lý rồi,"Anh chị à, em đã chuẩn bị tâm lý rồi."
+956,linhtran92/viet_youtube_asr_corpus_v2,,1.5310625,0.994790107011795,0.6497384052001763,để làm vợ thôi bởi vì nó,để làm vợ thôi bởi vì nó
+957,linhtran92/viet_youtube_asr_corpus_v2,,1.8814375,1.120700323022902,0.5956617336599818,một hệ thống ý tưởng hữu ích cho việc,một hệ thống ý tưởng hữu ích cho việc
+958,linhtran92/viet_youtube_asr_corpus_v2,,2.6420625,1.4875207338482141,0.5630149679836166,cũng chẳng khỏi được đâu cô không tin,cũng chẳng khỏi được đâu. Cô không tin
+959,linhtran92/viet_youtube_asr_corpus_v2,,1.8611875,1.0129108920227736,0.5442282908211954,chạy chen lấn đám đông để tới gần thiên,chạy chen lấn đám đông để tới gần thiên
+960,linhtran92/viet_youtube_asr_corpus_v2,,2.519,1.0193553201388568,0.4046666614286847,được nhiều thứ và làm tốt nhiều thứ thì,được nhiều thứ và làm tốt nhiều thứ thì
+961,linhtran92/viet_youtube_asr_corpus_v2,,2.0216875,1.0041870409622788,0.49670735015291867,đó là về bồi thường thì thực ra mà nói,đó là về bồi thường thì thực ra mà nói
+962,linhtran92/viet_youtube_asr_corpus_v2,,2.2746875,1.0211673770099878,0.4489264468240089,cần cô nhảy sạp lâng lâng hạnh phúc,cần cô nhảy xạp lưng lưng hạnh phúc.
+963,linhtran92/viet_youtube_asr_corpus_v2,,3.318,1.126237238990143,0.3394325614798502,chuyển sang một bước thứ hai đó là,chuyển sang một bước thứ hai đó là
+964,linhtran92/viet_youtube_asr_corpus_v2,,2.9618125,1.0378962899558246,0.35042606172937163,dự án và tiếp đến là giám đốc kinh doanh,dự án và tiếp đến là giám đốc kinh doanh
+965,linhtran92/viet_youtube_asr_corpus_v2,,2.6613125,1.0572651589754969,0.3972720824688934,này ở đâu mà nó đi mua bán như vậy mà,này ở đâu mà nó đi mua bán như vậy mà
+966,linhtran92/viet_youtube_asr_corpus_v2,,1.621,1.0512045728974044,0.6484914083265912,khi rời khỏi sài gòn hay là không muốn,khi rời khỏi Sài Gòn hay là không muốn
+967,linhtran92/viet_youtube_asr_corpus_v2,,2.2218125,1.09636573609896,0.49345556211379676,hay là phải ngủ riêng ở trong giường ba,hay là phải ngủ riêng ở trong giường
+968,linhtran92/viet_youtube_asr_corpus_v2,,2.861125,0.990485168993473,0.3461873105835897,còn nói thời gian còn lại của cha chỉ,còn nói thời gian còn lại của cha chỉ
+969,linhtran92/viet_youtube_asr_corpus_v2,,3.1223125,1.150900149019435,0.36860504802752286,kinh độ và vĩ tuyến ví dụ biên giới giữa,"kinh độ và vĩ tuyến, ví dụ biên giới giữa"
+970,linhtran92/viet_youtube_asr_corpus_v2,,3.0411875,1.1875984219368547,0.390504834686074,triệu nhá cũng đồng nghĩa từ đây vợ con,"triệu nhá, cũng đồng nghĩa từ đây vợ con"
+971,linhtran92/viet_youtube_asr_corpus_v2,,2.6214375,0.9843449988402426,0.37549817565371774,em nghĩ đó là cái sự văn minh người ta,"Em nghĩ đó là cái sự văn minh, người ta"
+972,linhtran92/viet_youtube_asr_corpus_v2,,2.5806875,1.0308840149082243,0.39946100211987096,về việc tạo ra một cuộc sống ấm áp nơi,về việc tạo ra một cuộc sống ấm áp nơi
+973,linhtran92/viet_youtube_asr_corpus_v2,,3.141625,1.3080221570562571,0.41635209710142274,bằng cách nào chứ anh em với nhau chú,Bằng cách nào chứ? Anh em với nhau
+974,linhtran92/viet_youtube_asr_corpus_v2,,2.4211875,0.9662679960019886,0.3990884621707277,đặt nó nằm ngang trên mặt buồn rồi lấy,Đặt nó nằm ngang trên mặt bùn rồi lấy
+975,linhtran92/viet_youtube_asr_corpus_v2,,2.6415625,1.1312353450339288,0.4282447774882967,nặng nề như có gông xiềng xích chặt hình,nặng nề như có gông xiềng xích chặt.
+976,linhtran92/viet_youtube_asr_corpus_v2,,2.821625,1.0155342461075634,0.35991113138973585,hành của ông số phận giúp ông vượt lên,"hành của ông, số phận giúp ông vượt lên"
+977,linhtran92/viet_youtube_asr_corpus_v2,,2.5815625,1.1010239110328257,0.4264951598238763,này cũ quá rồi bán đồng nát cũng chả,"cũ quá rồi, bán đồng nát cũng chả"
+978,linhtran92/viet_youtube_asr_corpus_v2,,1.75125,1.0700616070535034,0.6110273273681676,những chiếc xe tăng hay xe bọc thép,những chiếc xe tăng hay xe bọc thép
+979,linhtran92/viet_youtube_asr_corpus_v2,,3.1418125,1.2045683339238167,0.3833991792711426,mê mệt thời gian luôn là kẻ thù không,"mê mệt, thời gian luôn là kẻ thù không"
+980,linhtran92/viet_youtube_asr_corpus_v2,,2.2415625,0.9746740439441055,0.4348190353577495,này bởi tất cả họ đều đang trong tình,bởi tất cả họ đều đang trong tình
+981,linhtran92/viet_youtube_asr_corpus_v2,,4.0024375,1.2041788441129029,0.3008613736286707,rồi má con vừa mới mất hàng ngày bị cậu,"rồi, má con vừa mới mất, hàng ngày bị cậu"
+982,linhtran92/viet_youtube_asr_corpus_v2,,2.9018125,1.044159296201542,0.35983003595219953,đây là ai không ạ nếu như mà tôi không,Đây là ai không ạ? Nếu như mà tôi không
+983,linhtran92/viet_youtube_asr_corpus_v2,,2.3214375,1.0554772319737822,0.4546653665988346,cái người phụ nữ này là một người phụ nữ,Cái người phụ nữ này là một người phụ nữ
+984,linhtran92/viet_youtube_asr_corpus_v2,,1.747625,1.004443578189239,0.5747477738011524,đau nặng ở vai và lưng,đau nặng ở vai và lưng
+985,linhtran92/viet_youtube_asr_corpus_v2,,2.32175,0.9685881529003382,0.41718021014335654,mình không thông báo thì mọi người cũng,Mình không thông báo thì mọi người cũng
+986,linhtran92/viet_youtube_asr_corpus_v2,,3.6216875,1.1567230499349535,0.31938786820645165,thì cũng bắt đầu bằng cái việc là tự,Thì cũng bắt đầu bằng cái việc là tự
+987,linhtran92/viet_youtube_asr_corpus_v2,,2.6814375,1.0877375740092248,0.4056546438278814,cho tính biết rằng dường như có một sức,cho tính biết rằng dường như có một sức
+988,linhtran92/viet_youtube_asr_corpus_v2,,3.681625,1.132776722079143,0.30768389558391823,chắc chắn đó là sự tự tin và thẳng thắn,chắc chắn đó là sự tự tin và thẳng thắn
+989,linhtran92/viet_youtube_asr_corpus_v2,,2.8615,0.9858866559807211,0.3445349138496317,nhưng tại sao bảo là yêu nhiều đến như,Nhưng tại sao bảo lại yêu nhiều đến như
+990,linhtran92/viet_youtube_asr_corpus_v2,,2.38275,1.0905530671589077,0.45768673472202603,nhưng thực tế con có được cuộc sống cùng,Nhưng thực tế con có được cuộc sống cùng
+991,linhtran92/viet_youtube_asr_corpus_v2,,2.2814375,1.1192759578116238,0.49060119236736655,lắm thùy chi là đang nghi ngờ hoàng ngân,"lắm, Thủy Chi là đang nghi ngờ Hoàng Ngân"
+992,linhtran92/viet_youtube_asr_corpus_v2,,2.7015625,1.1030917458701879,0.4083162043706884,biết hồi tối hải nam ngủ sớm hay muộn mà,biết hồi tối Hải Nam ngủ sớm hay muộn
+993,linhtran92/viet_youtube_asr_corpus_v2,,2.76,1.418223744025454,0.5138491826179181,một cái bài học mới bài học mới rồi luôn,"một cái bài học mới, bài học mới rọi luôn."
+994,linhtran92/viet_youtube_asr_corpus_v2,,2.7213125,1.1022233190014958,0.4050337177378548,cậu còn được như vậy cũng thật là phúc,Cậu còn được như vậy cũng thật là phúc.
+995,linhtran92/viet_youtube_asr_corpus_v2,,2.4418125,1.0958514970261604,0.448786095175678,nghĩ của hai ông người ấy luôn hiện hữu,"của hai ông, người ấy luôn hiện hữu"
+996,linhtran92/viet_youtube_asr_corpus_v2,,1.9606875,0.9623255380429327,0.4908102581583923,vàng để thể hiện thiên mệnh con trời có,để thể hiện thiên mệnh con trời có
+997,linhtran92/viet_youtube_asr_corpus_v2,,3.22175,1.13520033005625,0.35235518896756424,học cách yêu lấy bản thân mình người,Học cách yêu lấy bản thân mình.
+998,linhtran92/viet_youtube_asr_corpus_v2,,2.4,1.051057806937024,0.43794075289042667,sự thông minh của họ luôn khiến người,sự thông minh của họ luôn khiến người
+999,linhtran92/viet_youtube_asr_corpus_v2,,1.8569375,0.8506109230220318,0.45807191842592,cảm thấy thích thú với cách trả lời này,cảm thấy thích thú với cách trả lời này.

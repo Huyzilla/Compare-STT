@@ -48,7 +48,7 @@ def find_transcription_column(columns):
 
 def main():
     parser = argparse.ArgumentParser(description="Aggregate ASR Benchmark Results")
-    parser.add_argument("--dir", type=str, default="output/capleaf", help="Directory containing result CSV files")
+    parser.add_argument("--dir", type=str, default="output/dolly", help="Directory containing result CSV files")
     args = parser.parse_args()
 
     if not os.path.exists(args.dir):

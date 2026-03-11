@@ -5,6 +5,7 @@ import base64
 import hashlib
 import hmac
 import argparse
+import sys
 from datetime import datetime, timezone
 from urllib.parse import urlencode
 import websocket
@@ -13,6 +14,7 @@ import numpy as np
 import soundfile as sf
 from scipy.signal import resample_poly
 from math import gcd
+import itertools
 from datasets import load_dataset, Audio
 import pandas as pd
 from tqdm import tqdm
@@ -185,10 +187,40 @@ def main():
         print(f"ERROR: {e}")
         return
 
+    iterator = iter(dataset)
+    try:
+        first_example = next(iterator)
+    except StopIteration:
+        print("ERROR: Dataset is empty.")
+        return
+
+    if args.text_col not in first_example:
+        candidates = [
+            "transcription",
+            "text",
+            "sentence",
+            "transcript",
+            "label",
+        ]
+        detected = next((c for c in candidates if c in first_example), None)
+        if detected:
+            print(
+                f"WARNING: text_col='{args.text_col}' not found. "
+                f"Using detected ground-truth column: '{detected}'. "
+                f"Available keys: {list(first_example.keys())}"
+            )
+            args.text_col = detected
+        else:
+            print(
+                f"WARNING: text_col='{args.text_col}' not found and no known ground-truth column detected. "
+                f"Available keys: {list(first_example.keys())}"
+            )
+
     results = []
     print(f"Testing {args.limit} samples with iFlytek...")
 
-    for i, example in enumerate(tqdm(dataset, total=args.limit)):
+    stream = itertools.chain([first_example], iterator)
+    for i, example in enumerate(tqdm(stream, total=args.limit)):
         if i >= args.limit:
             break
             
@@ -221,3 +253,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+    sys.stdout.flush()
+    sys.stderr.flush()
+    os._exit(0)

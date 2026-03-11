@@ -1,0 +1,101 @@
+﻿index,dataset,path,audio_duration,processing_time,rtf,ground_truth,gemini_model,gemini_transcription
+0,linhtran92/viet_youtube_asr_corpus_v2,sample_0,2.581,4.035449265007628,1.563521605969635,vậy và cái lần gần đây nhất chính là cái,gemini-3-flash-preview,này và cái lần gần đây nhất chính là cái đợt
+1,linhtran92/viet_youtube_asr_corpus_v2,sample_1,2.4024375,3.675392724981066,1.5298598714768088,dài không liên lạc với gia đình và cũng,gemini-3-flash-preview,dài không liên lạc với gia đình và cũng
+2,linhtran92/viet_youtube_asr_corpus_v2,sample_2,2.4005625,4.095073814009083,1.7058809399918076,nhiều lần phải chịu và có khi lại nghiện,gemini-3-flash-preview,"nhiều lần phải chịu, và có khi lại nghiện"
+3,linhtran92/viet_youtube_asr_corpus_v2,sample_3,4.60075,3.7777220100106206,0.8211100385829747,trên thực tế chúng không bị mất đi mà chỉ đơn giản là được phát triển theo hướng linh động hơn,gemini-3-flash-preview,"Trên thực tế, chúng không bị mất đi, mà chỉ đơn giản là được phát triển theo hướng linh động hơn."
+4,linhtran92/viet_youtube_asr_corpus_v2,sample_4,2.8404375,4.8167736799805425,1.695785835801894,này cô đắc ý quá rồi còn gì tôi bị hất,gemini-3-flash-preview,"Này, cô đắc ý quá rồi còn gì. Tôi bị hất"
+5,linhtran92/viet_youtube_asr_corpus_v2,sample_5,2.20125,3.279205382015789,1.4897014796210286,bụng nhưng không nói được gì tưởng được,gemini-3-flash-preview,bụng nhưng không nói được gì tưởng được
+6,linhtran92/viet_youtube_asr_corpus_v2,sample_6,2.26275,3.566526745009469,1.5761912473801651,chỉ là một bài học đáng quý để bạn nhận,gemini-3-flash-preview,chỉ là một bài học đáng quý để bạn nhận
+7,linhtran92/viet_youtube_asr_corpus_v2,sample_7,2.9220625,3.5130301589961164,1.2022433329184836,nên bà đành phải nhận nó cũng không dám,gemini-3-flash-preview,"nên bà đành phải nhận nó, cũng không dám"
+8,linhtran92/viet_youtube_asr_corpus_v2,sample_8,2.901125,4.08408866400714,1.4077603219465347,còn lại mấy phóng viên biên tập có tâm,gemini-3-flash-preview,Còn lại mấy phóng viên biên tập có tâm
+9,linhtran92/viet_youtube_asr_corpus_v2,sample_9,2.7411875,3.8896747280086856,1.4189743415978242,dù sao cũng được hai người đứng đầu,gemini-3-flash-preview,Dù sao cũng được hai người đứng đầu
+10,linhtran92/viet_youtube_asr_corpus_v2,sample_10,3.1228125,3.5120399139996152,1.1246400204942228,người chỉ huy hoặc người thống trị người,gemini-3-flash-preview,"Người chỉ huy hoặc người thống trị, người"
+11,linhtran92/viet_youtube_asr_corpus_v2,sample_11,3.2611875,3.9031223810161464,1.1968408381965607,lớn lên nhanh thôi mà à mà chỉ có báo,gemini-3-flash-preview,lớn lên nhanh thôi mà à mà chị có báo
+12,linhtran92/viet_youtube_asr_corpus_v2,sample_12,3.4110625,4.032036449993029,1.182047074773045,mong rằng giếng nước này có thể giúp đỡ,gemini-3-flash-preview,Mong rằng giếng nước này có thể giúp đỡ
+13,linhtran92/viet_youtube_asr_corpus_v2,sample_13,3.301875,4.929552362009417,1.4929554759066948,mình đi thôi anh tiếng người con gái,gemini-3-flash-preview,Mình đi thôi anh. Tiếng người con gái
+14,linhtran92/viet_youtube_asr_corpus_v2,sample_14,3.2806875,3.4530902040132787,1.0525507851672185,kết tội anh ta thay vì vậy ông vờ như,gemini-3-flash-preview,"kết tội anh ta. Thay vì vậy, ông vờ như"
+15,linhtran92/viet_youtube_asr_corpus_v2,sample_15,1.98,3.595194455992896,1.815754775753988,thời đại mà mỗi buổi sáng thức dậy thì,gemini-3-flash-preview,thời đại mà mỗi buổi sáng thức dậy thì
+16,linhtran92/viet_youtube_asr_corpus_v2,sample_16,2.6415625,6.750707736006007,2.5555737318371254,chồng xem giống mà chẳng ai muốn làm,gemini-3-flash-preview,chồng xem giống mà chẳng ai muốn làm
+17,linhtran92/viet_youtube_asr_corpus_v2,sample_17,2.64075,3.2486332719854545,1.230193419288253,linh giận luôn cô không thèm để ý tới,gemini-3-flash-preview,"Linh giận luôn, cô không thèm để ý tới"
+18,linhtran92/viet_youtube_asr_corpus_v2,sample_18,2.8015,4.0051949249755125,1.4296608691684858,dạ thôi chị em tranh thủ lúc cháu đang,gemini-3-flash-preview,"Dạ thôi chị, em tranh thủ lúc cháu đang"
+19,linhtran92/viet_youtube_asr_corpus_v2,sample_19,2.300625,3.4006690490059555,1.4781500892174757,trong những tình huống tương tự cho thấy,gemini-3-flash-preview,trong những tình huống tương tự cho thấy
+20,linhtran92/viet_youtube_asr_corpus_v2,sample_20,2.781375,3.4173252399777994,1.2286459898351711,thằng con ý muốn làm dịu cái ham muốn,gemini-3-flash-preview,"thằng con, ý muốn làm dịu cái ham muốn"
+21,linhtran92/viet_youtube_asr_corpus_v2,sample_21,2.1023125,3.9250775079999585,1.8670285735350756,mắt vào màn hình máy tính thấy trong đó,gemini-3-flash-preview,mắt vào màn hình máy tính thấy trong đó
+22,linhtran92/viet_youtube_asr_corpus_v2,sample_22,2.840625,3.4745341680245474,1.2231583429789386,khi nhìn thấy tiền cùng ma túy một kẻ,gemini-3-flash-preview,"Khi nhìn thấy tiền cùng ma túy, một kẻ"
+23,linhtran92/viet_youtube_asr_corpus_v2,sample_23,1.29875,3.4923479949939065,2.6890071183783686,thì các bạn có thể đến để ăn thử nhá,gemini-3-flash-preview,thì các bạn có thể đến để ăn thử nhé
+24,linhtran92/viet_youtube_asr_corpus_v2,sample_24,2.440375,4.779241240990814,1.9584044423462845,nữa chứ không phải là một lần duy nhất,gemini-3-flash-preview,"nữa, chứ không phải là một lần duy nhất"
+25,linhtran92/viet_youtube_asr_corpus_v2,sample_25,3.92175,3.546301588998176,0.9042650829344492,con đừng có nói gì nữa ổn rồi có mẹ đi,gemini-3-flash-preview,"Con đừng có nói gì nữa, ổn rồi, có mẹ đây rồi."
+26,linhtran92/viet_youtube_asr_corpus_v2,sample_26,1.961625,3.4844696880027186,1.7763179445626553,hoàn toàn khác với vẻ bề ngoài lạnh lùng,gemini-3-flash-preview,hoàn toàn khác với vẻ bề ngoài lạnh lùng
+27,linhtran92/viet_youtube_asr_corpus_v2,sample_27,1.432375,3.33782118500676,2.3302704843401765,chúng ta vẫn đã là chúng ta,gemini-3-flash-preview,chúng ta vẫn đã là chúng ta
+28,linhtran92/viet_youtube_asr_corpus_v2,sample_28,2.381,3.407041559985373,1.4309288366171244,nhưng mà phần lớn là các bạn sẽ phải có,gemini-3-flash-preview,nhưng mà phần lớn là các bạn sẽ phải có
+29,linhtran92/viet_youtube_asr_corpus_v2,sample_29,2.0216875,3.0022934800072107,1.4850433017007874,họ chắc chắn đã lén lút hẹn hò với nhau,gemini-3-flash-preview,Họ chắc chắn đã lén lút hẹn hò với nhau.
+30,linhtran92/viet_youtube_asr_corpus_v2,sample_30,2.7415,3.738900163996732,1.3638154893294663,chỉ là hỗ trợ giảm tối thiểu tốc độ lão,gemini-3-flash-preview,chỉ là hỗ trợ giảm tối thiểu tốc độ lão hóa
+31,linhtran92/viet_youtube_asr_corpus_v2,sample_31,2.5399375,3.5202142039779574,1.3859452069107832,nhưng nào ngờ trong chăn mới biết chăn,gemini-3-flash-preview,"Nhưng nào ngờ, trong chăn mới biết chăn có rận."
+32,linhtran92/viet_youtube_asr_corpus_v2,sample_32,2.6605,3.3775630589807406,1.2695219165497993,kiếm được nhiều tiền không có nghĩa là,gemini-3-flash-preview,Kiếm được nhiều tiền không có nghĩa là
+33,linhtran92/viet_youtube_asr_corpus_v2,sample_33,2.1810625,3.68960798002081,1.6916562363622363,phải chịu không ít lời nhục mạ mà vẫn,gemini-3-flash-preview,phải chịu không ít lời nhục mạ mà vẫn
+34,linhtran92/viet_youtube_asr_corpus_v2,sample_34,3.281625,3.8286193819949403,1.1666840001508216,về sau có gia đình có con cái để hữu hỉ,gemini-3-flash-preview,về sau có gia đình có con cái để hủ hỉ
+35,linhtran92/viet_youtube_asr_corpus_v2,sample_35,2.021125,3.027567398996325,1.4979614813513886,nói chuyện với nhau thằng công vì không,gemini-3-flash-preview,"nói chuyện với nhau, thằng Công vì không"
+36,linhtran92/viet_youtube_asr_corpus_v2,sample_36,2.78275,3.89010362199042,1.3979350002660749,sao không phiền chút nào cả ba mẹ chồng,gemini-3-flash-preview,Sao? Không phiền chút nào cả. Ba mẹ chồng
+37,linhtran92/viet_youtube_asr_corpus_v2,sample_37,2.401,3.9820203409763053,1.6584841070288654,một hôm nay cũng là ngày thứ hai cô làm,gemini-3-flash-preview,Hôm nay cũng là ngày thứ hai cô làm
+38,linhtran92/viet_youtube_asr_corpus_v2,sample_38,3.1015625,3.630839952005772,1.170648649513196,chạy xe về nhà do có hẹn bước lên nhà,gemini-3-flash-preview,chạy xe về nhà do có hẹn bước lên nhà
+39,linhtran92/viet_youtube_asr_corpus_v2,sample_39,2.82,3.6705232539970893,1.3016039907791097,theo đuổi vất vả như thế nào nên những,gemini-3-flash-preview,theo đuổi vất vả như thế nào nên những
+40,linhtran92/viet_youtube_asr_corpus_v2,sample_40,2.0413125,3.3570783629838843,1.6445685621304353,cho bản thân mình không chỉ là ở trong,gemini-3-flash-preview,cho bản thân mình không chỉ là ở trong
+41,linhtran92/viet_youtube_asr_corpus_v2,sample_41,2.60075,2.9742932679946534,1.1436290562317228,hơn gấp bội thương vợ nên tôi không,gemini-3-flash-preview,hơn gấp bội thương vợ nên tôi không
+42,linhtran92/viet_youtube_asr_corpus_v2,sample_42,2.9015,3.397398366010748,1.1709110342963116,nói rồi ái phương cũng quay người rời đi,gemini-3-flash-preview,"Nói rồi, Ái Phương cũng quay người rời đi."
+43,linhtran92/viet_youtube_asr_corpus_v2,sample_43,3.2415,3.3739254339889158,1.040853134039462,do đó bất kỳ sự vật nào trong thực tế,gemini-3-flash-preview,"Do đó, bất kỳ sự vật nào trong thực tế"
+44,linhtran92/viet_youtube_asr_corpus_v2,sample_44,2.20125,3.974772021989338,1.8056885960201423,tiếp sau phương lại giúp linh trả đũa,gemini-3-flash-preview,tiếp sau Phương lại giúp Linh trả đũa
+45,linhtran92/viet_youtube_asr_corpus_v2,sample_45,2.1096875,2.7540797530091368,1.3054444096621591,chúng tôi nghèo lúc nào cũng đeo nợ,gemini-3-flash-preview,"Chúng tôi nghèo, lúc nào cũng đeo nợ"
+46,linhtran92/viet_youtube_asr_corpus_v2,sample_46,2.86,3.2535967340227216,1.1376212356722804,và để chúc mừng cho cái sự trao giải này,gemini-3-flash-preview,Và để chúc mừng cho cái sự trao giải này
+47,linhtran92/viet_youtube_asr_corpus_v2,sample_47,1.9221875,3.4029965639929287,1.7703770126446712,trên vai khó mà ta có thể nghĩ cho riêng,gemini-3-flash-preview,trên vai khó mà ta có thể nghĩ cho riêng
+48,linhtran92/viet_youtube_asr_corpus_v2,sample_48,1.440125,4.685846734006191,3.2537777859603785,người ta không có nói được một cách hay,gemini-3-flash-preview,người ta không có nói được một cách hay
+49,linhtran92/viet_youtube_asr_corpus_v2,sample_49,1.436625,3.8896145159960724,2.707466817016321,sau này nhất định phải cẩn thận,gemini-3-flash-preview,sau này nhất định phải cẩn thận
+50,linhtran92/viet_youtube_asr_corpus_v2,sample_50,2.438375,3.873978849995183,1.5887543343395427,mà ngỡ như cách xa đến nửa vòng trái đất,gemini-3-flash-preview,mà ngỡ như cách xa đến nửa vòng trái đất
+51,linhtran92/viet_youtube_asr_corpus_v2,sample_51,1.6624375,3.2155991189938504,1.9342676756232042,người chỉ huy cũng không phải chịu cảnh,gemini-3-flash-preview,Người chỉ huy cũng không phải chịu cảnh
+52,linhtran92/viet_youtube_asr_corpus_v2,sample_52,2.4624375,3.7752860669861548,1.5331500056290381,chung với lá cách đem ăn cơm cũng ngon,gemini-3-flash-preview,"chung với lá cách, đem ăn cơm cũng ngon"
+53,linhtran92/viet_youtube_asr_corpus_v2,sample_53,3.6615,3.3261199069966096,0.9084036343019554,bạn có con và cho con bú thì mình sẽ hạn,gemini-3-flash-preview,bạn có con và cho con bú thì mình sẽ hạn
+54,linhtran92/viet_youtube_asr_corpus_v2,sample_54,2.142125,3.5316167160053737,1.6486510899248987,đôi trẻ chắc là vừa mới cùng nhau đi dạo,gemini-3-flash-preview,"đôi trẻ, chắc là vừa mới cùng nhau đi dạo"
+55,linhtran92/viet_youtube_asr_corpus_v2,sample_55,2.44,5.123697041010018,2.099875836479516,miệng chúng ta chúng đứng một bên để,gemini-3-flash-preview,mình chúng ta Chúng đứng một bên để
+56,linhtran92/viet_youtube_asr_corpus_v2,sample_56,2.78875,3.391480114980368,1.216129131324202,thì lúc đó lòng tự ái sẽ được thoát thai,gemini-3-flash-preview,Thì lúc đó lòng tự ái sẽ được thoát thai.
+57,linhtran92/viet_youtube_asr_corpus_v2,sample_57,3.0415625,3.566490850993432,1.1725850943366878,không muốn gì cả em ngủ đi chúc em ngủ,gemini-3-flash-preview,Không muốn gì cả. Em ngủ đi. Chúc em ngủ ngon.
+58,linhtran92/viet_youtube_asr_corpus_v2,sample_58,2.501875,3.59825111401733,1.4382217792724776,để có được cuốn thơ này là ông xã em,gemini-3-flash-preview,để có được cuốn thơ này là ông xã em
+59,linhtran92/viet_youtube_asr_corpus_v2,sample_59,1.9614375,3.4663972909911536,1.7672738952891203,nó có đáng với tất cả chi phí đó không,gemini-3-flash-preview,Có đáng với tất cả chi phí đó không?
+60,linhtran92/viet_youtube_asr_corpus_v2,sample_60,2.6089375,3.4081840779981576,1.3063494537520188,đang ngồi trên xe để về quê một mình,gemini-3-flash-preview,Đang ngồi trên xe để về quê một mình
+61,linhtran92/viet_youtube_asr_corpus_v2,sample_61,2.980625,4.081957985996269,1.3694973322696646,gái xinh đẹp nhưng có hoàn cảnh éo le cô,gemini-3-flash-preview,gái xinh đẹp nhưng có hoàn cảnh éo le. Cô
+62,linhtran92/viet_youtube_asr_corpus_v2,sample_62,2.2608125,3.598216782003874,1.5915591328355951,lại còn phải hỏi đó chính là công chúa,gemini-3-flash-preview,"Sao lại còn phải hỏi, đó chính là công chúa"
+63,linhtran92/viet_youtube_asr_corpus_v2,sample_63,2.2621875,3.5502957240096293,1.5694082493204606,thái đến tìm mình gây sự và bị cho mấy,gemini-3-flash-preview,thái đến tìm mình gây sự và bị cho mấy
+64,linhtran92/viet_youtube_asr_corpus_v2,sample_64,3.0346875,3.4313057429972105,1.1306949209752932,đây là cà phê kem trứng,gemini-3-flash-preview,Đây là cà phê kem trứng
+65,linhtran92/viet_youtube_asr_corpus_v2,sample_65,2.9215,3.631958671991015,1.2431828416878368,phận không đứa nào ngã lòng gắng lên,gemini-3-flash-preview,"phận, không đứa nào ngã lòng, gắng lên"
+66,linhtran92/viet_youtube_asr_corpus_v2,sample_66,2.838875,3.922175464016618,1.3815949853433556,thì tại thời điểm mà chị chuyển nghề thì,gemini-3-flash-preview,thì tại thời điểm mà chị chuyển nghề thì
+67,linhtran92/viet_youtube_asr_corpus_v2,sample_67,1.66175,3.0556746869988274,1.8388293588077793,không có ai ở trong cái hoàn cảnh đấy,gemini-3-flash-preview,Không có ai ở trong cái hoàn cảnh đấy
+68,linhtran92/viet_youtube_asr_corpus_v2,sample_68,3.3605,3.3729350389912724,1.0037003538137992,nụ cười của văn ất ngoác ra tận mang tai,gemini-3-flash-preview,Nụ cười của Văn Ất ngoác ra tận mang tai.
+69,linhtran92/viet_youtube_asr_corpus_v2,sample_69,1.840625,3.5694031459861435,1.9392343068175992,trận đấu quyết định cho giải vô địch,gemini-3-flash-preview,Trận đấu quyết định cho giải vô địch
+70,linhtran92/viet_youtube_asr_corpus_v2,sample_70,1.720875,3.5173263960168697,2.043917423413595,chúng ta hiểu cái mối liên kết đó chứ,gemini-3-flash-preview,chúng ta hiểu cái mối liên kết đó chứ
+71,linhtran92/viet_youtube_asr_corpus_v2,sample_71,2.541375,3.7161309749935754,1.4622521174535736,quay gần lại cho mọi người xem chấm muối,gemini-3-flash-preview,Quay gần lại cho mọi người xem chấm muối nè
+72,linhtran92/viet_youtube_asr_corpus_v2,sample_72,2.9618125,4.422297583019827,1.4931051790144807,thẳng vấn đề chính cậu huy này không,gemini-3-flash-preview,"thẳng vấn đề chính. Cậu Huy này, không"
+73,linhtran92/viet_youtube_asr_corpus_v2,sample_73,1.7944375,3.697879188985098,2.060745603558273,cẩm thì sẽ có hai con mực này,gemini-3-flash-preview,tầm thì sẽ có hai con mực này
+74,linhtran92/viet_youtube_asr_corpus_v2,sample_74,2.461,3.2113156499981415,1.304882425842398,ông ngoại con phải đóng giả vợ chồng để,gemini-3-flash-preview,Ông ngoại còn phải đóng giả vợ chồng để
+75,linhtran92/viet_youtube_asr_corpus_v2,sample_75,1.8814375,3.754858078988036,1.9957389384383144,tức là con mình nó có thể hút như thế,gemini-3-flash-preview,tức là con mình nó có thể hút như thế
+76,linhtran92/viet_youtube_asr_corpus_v2,sample_76,2.6578125,3.483228270022664,1.310562076904471,ai không nghe và cũng không nói với ai,gemini-3-flash-preview,ai không nghe và cũng không nói với ai
+77,linhtran92/viet_youtube_asr_corpus_v2,sample_77,4.4206875,4.302929206984118,0.9733619956136049,dạ con chào bác con là vân phải không dạ,gemini-3-flash-preview,Dạ con chào bác. Con là Vân phải không? Dạ.
+78,linhtran92/viet_youtube_asr_corpus_v2,sample_78,3.0828125,3.724113271018723,1.2080245785362305,mặt vẫn nguyên nhưng trong đầu vẫn còn,gemini-3-flash-preview,mặt vẫn nguyên nhưng trong đầu vẫn còn
+79,linhtran92/viet_youtube_asr_corpus_v2,sample_79,2.7608125,3.6483523000206333,1.3214777533862343,phải bước ra khỏi vùng an toàn để mình,gemini-3-flash-preview,Phải bước ra khỏi vùng an toàn để mình
+80,linhtran92/viet_youtube_asr_corpus_v2,sample_80,3.7615625,3.9213616930064745,1.0424821315627413,anh hút một hơi thuốc sâu nữa sau đó đập,gemini-3-flash-preview,"Anh hút một hơi thuốc sâu nữa, sau đó, đập mạnh tay xuống bàn."
+81,linhtran92/viet_youtube_asr_corpus_v2,sample_81,1.621,3.688319414999569,2.275335851326076,về những cái tiền mà cuối năm mà mình,gemini-3-flash-preview,về những cái tiền mà cuối năm mà mình
+82,linhtran92/viet_youtube_asr_corpus_v2,sample_82,2.759,3.6434962909843307,1.320585824930892,làm chứng ai tin biết đâu có người lại,gemini-3-flash-preview,"làm chứng ai tin, biết đâu có người lại"
+83,linhtran92/viet_youtube_asr_corpus_v2,sample_83,2.3531875,3.18825574600487,1.3548668544282467,người nó tím tái mà không nói được,gemini-3-flash-preview,"Này, người nó tím tái và không nói được."
+84,linhtran92/viet_youtube_asr_corpus_v2,sample_84,2.18125,4.11593323899433,1.8869607972466844,ở bên trong mình nó có một cái nguồn,gemini-3-flash-preview,Ở bên trong mình nó có một cái nguồn
+85,linhtran92/viet_youtube_asr_corpus_v2,sample_85,4.34175,3.933125868003117,0.9058849238217578,mà mẹ kế yêu con của chồng vô lý ngược,gemini-3-flash-preview,"Mà mẹ kế yêu con của chồng, vô lý ngược đời."
+86,linhtran92/viet_youtube_asr_corpus_v2,sample_86,2.4415,3.8240588160115294,1.566274346103432,từ hôm bố chồng thấy con trai mắng vợ,gemini-3-flash-preview,Từ hôm bố chồng thấy con trai mắng vợ
+87,linhtran92/viet_youtube_asr_corpus_v2,sample_87,2.6814375,4.225452766986564,1.5758162429616815,viên thường trực hội đồng bảo an với vai,gemini-3-flash-preview,viên thường trực Hội đồng Bảo an với vai
+88,linhtran92/viet_youtube_asr_corpus_v2,sample_88,3.14025,3.5745341329893563,1.1382960378916827,ngày xửa ngày xưa ở một vùng quê xa xôi,gemini-3-flash-preview,"Ngày xửa ngày xưa, ở một vùng quê xa xôi"
+89,linhtran92/viet_youtube_asr_corpus_v2,sample_89,2.6613125,4.081978201022139,1.5338214512659218,bạn nhậu và anh em trong giới xã hội đen,gemini-3-flash-preview,bạn nhậu và anh em trong giới xã hội đen
+90,linhtran92/viet_youtube_asr_corpus_v2,sample_90,2.6613125,5.146935608994681,1.9339839304834292,nhung bởi vì đã không có máu xảy ra một,gemini-3-flash-preview,"nhưng, bởi vì đã không có máu xảy ra"
+91,linhtran92/viet_youtube_asr_corpus_v2,sample_91,2.7015625,3.93940417401609,1.458194720283573,đủ can đảm để mà đưa ra quyết định gì,gemini-3-flash-preview,đủ can đảm để mà đưa ra quyết định
+92,linhtran92/viet_youtube_asr_corpus_v2,sample_92,3.4814375,3.7921484659891576,1.0892478942934225,tôi ra thăm mộ bà ngoại thắp nén hương,gemini-3-flash-preview,Tôi ra thăm mộ bà ngoại thắp nén hương
+93,linhtran92/viet_youtube_asr_corpus_v2,sample_93,2.5766875,5.104119654017268,1.9808842376179758,người lính đứng dậy lại gần mai xưa,gemini-3-flash-preview,Người lính đứng dậy lại gần Mai sương
+94,linhtran92/viet_youtube_asr_corpus_v2,sample_94,4.081875,4.241521196003305,1.0391109958054336,người đàn bà to béo xấu xí vụng về mấy,gemini-3-flash-preview,người đàn bà to béo xấu xí vụng về mấy
+95,linhtran92/viet_youtube_asr_corpus_v2,sample_95,2.5825,3.7404493340000045,1.44838309157793,mày còn chửi tao là vô học ư còn khốn,gemini-3-flash-preview,Mày còn chửi tao là vô học ư con khốn
+96,linhtran92/viet_youtube_asr_corpus_v2,sample_96,2.8808125,3.754600679007126,1.3033131031634742,cho nên là mình không có kiểu là mình,gemini-3-flash-preview,Cho nên là mình không có kiểu là mình
+97,linhtran92/viet_youtube_asr_corpus_v2,sample_97,2.2814375,3.667126354004722,1.6073753298105786,một sảnh khách sạn hạng sang lại là quầy,gemini-3-flash-preview,"Một sảnh khách sạn hạng sang, lại là quầy"
+98,linhtran92/viet_youtube_asr_corpus_v2,sample_98,2.5996875,3.6763164600124583,1.4141378377256721,nhưng dù là loại hung hăng nào thì bản,gemini-3-flash-preview,Nhưng dù là loại hung hăng nào thì bản
+99,linhtran92/viet_youtube_asr_corpus_v2,sample_99,1.76075,6.457946245995117,3.6677246889082022,hài lòng rồi mà mình thấy không vấn đề,gemini-3-flash-preview,"hài lòng rồi, mà mình thấy không vấn đề"
