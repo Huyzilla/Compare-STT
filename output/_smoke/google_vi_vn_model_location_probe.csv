@@ -1,0 +1,16 @@
+﻿location,model,status,elapsed_s,has_words,error,transcript_preview
+eu,chirp,ERR,2.297,False,"400 The model ""chirp"" does not exist in the location named ""eu""..",
+eu,chirp_2,ERR,2.317,False,"400 The model ""chirp_2"" does not exist in the location named ""eu""..",
+eu,chirp_3,OK,3.006,True,,Và mọi chuyện thì chưa dừng lại ở đó. Và
+eu,latest_long,OK,2.88,True,,và mọi chuyện thì chưa dừng lại ở đó
+eu,latest_short,OK,2.827,True,,Mở mọi chuyện thì chưa dừng lại ở đó
+us,chirp,ERR,1.08,False,"400 The model ""chirp"" does not exist in the location named ""us""..",
+us,chirp_2,ERR,1.095,False,"400 The model ""chirp_2"" does not exist in the location named ""us""..",
+us,chirp_3,OK,1.968,True,,Và mọi chuyện thì chưa dừng lại ở đó. Và
+us,latest_long,OK,1.525,True,,và mọi chuyện thì chưa dừng lại ở đó
+us,latest_short,OK,1.827,True,,Mở mọi chuyện thì chưa dừng lại ở đó
+us-central1,chirp,OK,5.85,True,, và mọi chuyện thì chưa dừng lại ở đó
+us-central1,chirp_2,OK,2.249,True,,và mọi chuyện thì chưa dừng lại ở đó
+us-central1,chirp_3,ERR,1.333,False,"400 The model ""chirp_3"" does not exist in the location named ""us-central1""..",
+us-central1,latest_long,ERR,1.465,False,"400 The language ""vi-VN"" is not supported by the model ""latest_long"" in the location named ""us-central1"".",
+us-central1,latest_short,ERR,1.464,False,"400 The language ""vi-VN"" is not supported by the model ""latest_short"" in the location named ""us-central1"".",
